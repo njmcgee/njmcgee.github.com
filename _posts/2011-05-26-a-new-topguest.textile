@@ -1,0 +1,18 @@
+---
+layout: post
+title: A new Topguest
+author: Nathan McGinness
+author-image: nathan-mcginness.jpg
+author-link: http://www.linkedin.com/pub/nathan-mcginness/3/b2a/800
+summary: You might have noticed things changing at Topguest. A new design, some subtle but important changes to the application, and we’ve just launched the beginnings of a new mobile web experience. 
+---
+
+h1. {{ page.title }}
+
+You might have noticed that things are changing at Topguest. A new design, some subtle but important changes to the application, and we’ve just launched the beginnings of a new mobile web experience. 
+
+One of the more dramatic changes is the much brighter color scheme. After applying it to some important layouts I mentioned to the team that we’d “turned the lights on”. This stuck with me, as I worked through problems unrelated to color or shade, and I hope it shows. We hope the new (and upcoming) changes, bring clarity, ease of use, and lots more points!
+
+Things aren’t slowing anytime soon. We’re adding programs and new locations every day, and be sure to visit "http://topguest.com":http://topguest.com on your mobile browser. We’re regularly adding mobile optimized functionality so you can manage your points, and find locations on the go.
+
+Any feedback? "Get in touch":mailto:nathan@topguest.com.

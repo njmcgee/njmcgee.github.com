@@ -1,0 +1,35 @@
+---
+layout: post
+title: Integrating the Instagram API with Rails 2.3.5
+author: Tim Olshansky
+author-image: tim-olshansky.jpg
+author-link: http://www.linkedin.com/in/timols
+<!-- summary-only: yes -->
+summary: Instagram recently launched their API allowing us to give our users points for taking photos of partner places. Here is the story of how we did it and the technical problems we faced.
+---
+
+h1. {{ page.title }}
+
+Recently Instagram launched their API allowing application developers to access their users' photos and the locations associated with those photos. Obviously we saw this as an interesting opportunity to integrate a very popular photo sharing service with Topguest, and couldn't resist giving users another way to receive rewards from their favorite loyalty programs.
+
+This has since generated a lot of media buzz and interest, as well as having resulted in a significant increase in our web traffic. We're very happy with the results and want to share with you the story of how we did it, and what we learned along the way. The integration was not easy, but thankfully we managed to roll it out fairly quickly despite some of the obstacles that were in our path.
+
+A number of technical details follow from this point, so if you're not interested in the technical side of things, feel free to skip the next few paragraphs.
+
+A few technical details about Topguest: it's written in Ruby, using Ruby on Rails v2.3.5, has a PostgreSQL database and is all deployed with Amazon Web Services. We've integrated all sorts of other services into Topguest (even Dropbox!) but those are the most important.
+
+Now Instagram has its own "ruby gem":https://github.com/Instagram/instagram-ruby-gem which is still a work in progress. At the time of our decision to integrate it was missing real-time functionality and had a number of dependencies which were incompatible with Rails 2. As a result, I had roll up my sleeves and write my own wrapper for the API.
+
+The biggest thorn in our foot was the dependency on "faraday":http://rubygems.org/gems/faraday version 0.5.4 which is completely incompatible with versions of Rails earlier than 3. When we installed the gem, faraday caused Topguest to explode on my development machine costing me precious time as I had to weed out the culprit gem. For those that are considering using this gem, faraday versions > 0.4.6 will not work with Rails 2, so ensure your application is built in Rails 3.
+
+Another signifcant splinter was the missing real-time functionality in the gem. Real-time functionality via the "pubsubhubbub":http://en.wikipedia.org/wiki/PubSubHubbub protocol is becoming common amongst APIs. We use it with Facebook, Instagram and Gowalla to allow our users' checkins to be rewarded almost immediately instead of relying on polling tasks. Polling frequently doesn't scale well and was already giving us trouble, so we were very happy to see the protocol included in Instagram's API. Now we're waiting for Twitter and Foursquare to implement it.
+
+The remaining issue was the fact that the Instagram gem had a great deal of functionality that we just plain didn't need. We were only really interested in a handful of endpoints, such as authentication, user info (for emails) and user media (photos). The additional CUD (dropping the R in "CRUD":http://en.wikipedia.org/wiki/Create,_read,_update_and_delete) was unnecessary as all we really need to watch out for are photos that are tagged with a location. We don't publish anything in a user's stream (and in any case, the API doesn't support it currently).
+
+Given our requirements, I then set about writing a simple wrapper for the API using only Net::HTTP, URI and JSON modules that are all part of the ruby v1.8.7 standard library. I began with the most important endpoint of all, 'oauth/access_token' (after all, how are we going to reward our users if we can't access their accounts) and worked my way through a few other endpoints, including 'users/self/media/recent/' which we use to search for photos taken with a location.
+
+In the end, after about 12-14 hours and approximately 200 lines of code our implementation was complete. There were a few minor bugs that we worked through with the Instagram API developers regarding error codes being returned as part of the response as opposed to the HTTP Status and more useful error messages (should you run into rate limiting for example).
+
+It wasn't a particularly unpleasant experience; it would have been much more pleasant had faraday > 0.4.6 been compatible with Rails 2!
+
+If you'd like more details, or are experiencing some issues that you think we can help with, please "get in touch":mailto:tim@topguest.com.

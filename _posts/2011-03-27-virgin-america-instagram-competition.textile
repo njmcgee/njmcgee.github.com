@@ -1,0 +1,17 @@
+---
+layout: post
+title: A picture worth a thousand points
+author: Ash Fontana
+author-image: ash-fontana.jpg
+author-link: http://www.linkedin.com/in/ashfontana
+<!-- summary-only: yes -->
+summary: To celebrate adding Instagram to Topguest we have launched an exciting competition with Virgin America. 
+---
+
+h1. {{ page.title }}
+
+To celebrate integrating with Instagram we have launched an exciting competition with Virgin America. 
+
+_Each week, the most-liked Instagram photo taken at a Virgin America-related place wins 1000 bonus Elevate points._
+
+Visit the "competition page":http://www.topguest.com/elevate-instagram-competition for details on how to enter.

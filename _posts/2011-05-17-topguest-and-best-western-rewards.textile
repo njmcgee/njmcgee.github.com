@@ -1,0 +1,26 @@
+---
+layout: post
+title: Topguest and Best Western Rewards
+author: Geoff Lewis
+author-image: geoff-lewis.jpg
+author-link: http://www.linkedin.com/pub/geoffrey-lewis/2/ba/49a
+summary: At Topguest, we are obsessed with finding more ways to give you more points from more of the top rewards programs you love. That’s why we are pleased to announce our latest global integration with Best Western Rewards.
+---
+
+h1. {{ page.title }}
+
+_At Topguest, we are obsessed with finding more ways to give you more points from more of the top rewards programs you love._
+
+That’s why we are pleased to announce our latest global integration with Best Western Rewards, the loyalty program of Best Western, which is the biggest hotel family in the world with over 4000 hotels!
+
+Are you a Best Western Rewards member? Now, your social actions on any of your favorite social networks will get you more Best Western Rewards points: up to 50 bonus Best Western Rewards points per day!
+
+There are all sorts of ways to use Topguest to get more Best Western Rewards points:
+* Share a photo using your mobile phone from any Best Western hotel around the world with your friends
+* Send a tweet geolocated at any Best Western hotel to your Twitter followers
+* Share your location at a Best Western hotel with friends using your choice of Facebook, Foursquare, or Gowalla.
+
+To get started, simply become a member of Topguest, enter your Best Western Rewards number, and connect your social networks on the Get Points page. Once you do, we’ll tell you exactly how to start earning points!
+
+
+

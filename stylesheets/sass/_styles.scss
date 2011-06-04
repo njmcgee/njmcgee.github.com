@@ -1,4 +1,5 @@
 $link-color: #cc092f;
+$text-color: #444444;
 $white: #f8f8f8;
 
 @mixin box-shadow {
@@ -7,19 +8,32 @@ $white: #f8f8f8;
 	box-shadow: 0px 0px 5px #c6c6c6;
 }
 
+@mixin proxima-bold {
+	font-family: "proxima-nova-1","proxima-nova-2", sans-serif;
+	font-weight: 700;
+}
+@mixin proxima-italic {
+	font-family: "proxima-nova-1","proxima-nova-2", sans-serif;
+	font-weight: 400;
+	font-style: italic;
+}
 body {
 	font-family: "ff-meta-serif-web-pro-1","ff-meta-serif-web-pro-2",serif;
 	font-size: 13px;
 	line-height: 20px;
 	height: 1000px;
+	color: $text-color;
 }
-h1, h2, h3, h4, h5, h6 {
-	font-family: "proxima-nova-1","proxima-nova-2", sans-serif;
-	font-weight: 700;
+h1, h2, h3, h4, h5, h6 {	
+	@include proxima-bold;
 	color: $white;
 }
 p {
 	margin-bottom: 20px;
+}
+a, a:visited {
+	color: $link-color;
+	text-decoration: none;
 }
 
 
@@ -47,3 +61,26 @@ header {
 		@include box-shadow;
 	}
 }
+#main {
+	margin-top: 40px;
+}
+
+
+/*homepage*/
+.post-home {
+	margin-bottom: 30px;
+	overflow: hidden;
+	.date {
+		@include proxima-italic;
+		font-size: 11px;
+		text-align: right;
+		padding-right: 20px;
+		width: 90px;
+	}
+	h1 {
+		font-size: 26px;
+		line-height: 32px;
+		margin-bottom: 12px;
+	}
+}
+

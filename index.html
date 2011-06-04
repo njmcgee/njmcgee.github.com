@@ -5,23 +5,15 @@ title: Nathan McGinness
 
 {% for post in site.posts %}
   <section class="post-home">
-    <div class="meta-data grid_2 alpha">
-      <a class="image-link" href="{{ post.author-link }}"><img class="author" src="/images/{{ post.author-image }}" alt="{{ post.author }}" /></a>            
-      <div class="clear"></div>            
-      <a class="author-link" href="{{ post.author-link }}">{{ post.author }}</a>
-      <span class="date">{{ post.date | date: "%d %B %Y" }}</span>
-    </div>
-    <div class="grid_5">
-      <h1>
-        {% if post.summary-only %}
-           {{ post.title }}
-        {% else %}
-           <a href="{{ post.url }}">{{ post.title }}</a>
-        {% endif %}              
-      </h1>
-    </div>
-    <div class="grid_5 omega">
-      <p class="post-summary">{{ post.summary }}</p>
-    </div>
+    <span class="date grid_3 alpha">{{ post.date | date: "%d %B %Y" }}</span> 
+    <h1 class="grid_14 omega">
+      {% if post.summary-only %}
+         {{ post.title }}
+      {% else %}
+         <a href="{{ post.url }}">{{ post.title }}</a>
+      {% endif %}              
+    </h1>
+    <p class="post-summary grid_14 prefix_3 alpha omega">{{ post.summary }}</p>
+    <div class="clear"></div>
   </section>
 {% endfor %}

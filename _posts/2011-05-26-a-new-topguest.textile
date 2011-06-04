@@ -1,10 +1,8 @@
 ---
 layout: post
 title: A new Topguest
-author: Nathan McGinness
-author-image: nathan-mcginness.jpg
-author-link: http://www.linkedin.com/pub/nathan-mcginness/3/b2a/800
 summary: You might have noticed things changing at Topguest. A new design, some subtle but important changes to the application, and we’ve just launched the beginnings of a new mobile web experience. 
+image-path: /images/topguest-devices.jpg
 ---
 
 h1. {{ page.title }}

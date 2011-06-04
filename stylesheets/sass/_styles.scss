@@ -7,6 +7,9 @@ $white: #f8f8f8;
 	-moz-box-shadow: 0px 0px 5px #c6c6c6;
 	box-shadow: 0px 0px 5px #c6c6c6;
 }
+@mixin text-shadow {
+	text-shadow: 0px 0px 5px #88192e;
+}
 
 @mixin proxima-bold {
 	font-family: "proxima-nova-1","proxima-nova-2", sans-serif;
@@ -48,7 +51,8 @@ header {
 	h1 {
 		font-size: 26px;
 		line-height: 32px;
-		margin: 14px 0 14px 22px;
+		margin: 14px 0 14px 24px;
+		@include text-shadow;
 	}
 }
 #sidebar {
@@ -56,9 +60,27 @@ header {
 	top: 0;
 	right: 0;
 	#fixed {
+		@include proxima-bold;
 		position: fixed;
 		background-color: rgba(255,255,255,.9);
 		@include box-shadow;
+		padding: 10px 16px;
+		width: 158px;
+	}
+	nav {
+		display: block;
+		overflow: hidden;
+		li {
+			width: 79px;
+			float: left;
+			a {
+				display: block;
+			}
+		}
+		&#main-nav {
+			font-size: 16px;
+			margin-bottom: 20px;
+		}
 	}
 }
 #main {
@@ -76,6 +98,7 @@ header {
 		text-align: right;
 		padding-right: 20px;
 		width: 90px;
+		margin-top: 9px;
 	}
 	h1 {
 		font-size: 26px;

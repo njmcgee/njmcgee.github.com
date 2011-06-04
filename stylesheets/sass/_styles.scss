@@ -28,8 +28,7 @@ body {
 	color: $text-color;
 }
 h1, h2, h3, h4, h5, h6 {	
-	@include proxima-bold;
-	color: $white;
+	@include proxima-bold;	
 }
 p {
 	margin-bottom: 20px;
@@ -51,8 +50,9 @@ header {
 	h1 {
 		font-size: 26px;
 		line-height: 32px;
-		margin: 14px 0 14px 24px;
+		margin: 14px 0 14px 26px;
 		@include text-shadow;
+		color: $white;
 	}
 }
 #sidebar {
@@ -89,7 +89,7 @@ header {
 
 
 /*homepage*/
-.post-home {
+.post-home, #post {
 	margin-bottom: 30px;
 	overflow: hidden;
 	.date {
@@ -105,7 +105,7 @@ header {
 		line-height: 32px;
 		margin-bottom: 12px;
 	}
-	img {
+	img, #post-body {
 		margin-left: 120px;
 	}
 }

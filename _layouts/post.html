@@ -2,13 +2,16 @@
 layout: default
 ---
 <article id="post">
-  <div class="meta-data grid_2 alpha">
-    <a class="image-link" href="{{ page.author-link }}"><img class="author" src="/images/{{ page.author-image }}" alt="{{ page.author }}" /></a>            
-    <div class="clear"></div>            
-    <a class="author-link" href="{{ page.author-link }}">{{ page.author }}</a>
-    <span class="date">{{ page.date | date: "%d %B %Y" }}</span>
-  </div>
-  <div class="grid_8 omega prepend_2 post-body">
+  <span class="date grid_3 alpha">{{ page.date | date: "%d %B %Y" }}</span> 
+  <h1 class="grid_14 omega">
+    {{ page.title }}
+  </h1>
+  {% if page.image-path %}
+    <a href="{{ page.url }}"><img src="{{ page.image-path }}"/ ></a>
+     
+  {% endif %}
+  <div id="post-body">
     {{ content }}
   </div>
+  <div class="clear"></div>
 </div>

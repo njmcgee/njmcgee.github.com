@@ -1,0 +1,49 @@
+$link-color: #cc092f;
+$white: #f8f8f8;
+
+@mixin box-shadow {
+	-webkit-box-shadow: 0px 0px 5px #c6c6c6;
+	-moz-box-shadow: 0px 0px 5px #c6c6c6;
+	box-shadow: 0px 0px 5px #c6c6c6;
+}
+
+body {
+	font-family: "ff-meta-serif-web-pro-1","ff-meta-serif-web-pro-2",serif;
+	font-size: 13px;
+	line-height: 20px;
+	height: 1000px;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: "proxima-nova-1","proxima-nova-2", sans-serif;
+	font-weight: 700;
+	color: $white;
+}
+p {
+	margin-bottom: 20px;
+}
+
+
+#container .grid_24 {
+	position: relative;
+}
+header {
+	width: 852px;
+	background: $link-color;
+	float: right;
+	@include box-shadow;
+	h1 {
+		font-size: 26px;
+		line-height: 32px;
+		margin: 14px 0 14px 22px;
+	}
+}
+#sidebar {
+	position: absolute;
+	top: 0;
+	right: 0;
+	#fixed {
+		position: fixed;
+		background-color: rgba(255,255,255,.9);
+		@include box-shadow;
+	}
+}

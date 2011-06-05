@@ -3,9 +3,9 @@ $text-color: #444444;
 $white: #f8f8f8;
 
 @mixin box-shadow {
-	-webkit-box-shadow: 0px 0px 5px #c6c6c6;
-	-moz-box-shadow: 0px 0px 5px #c6c6c6;
-	box-shadow: 0px 0px 5px #c6c6c6;
+	-webkit-box-shadow: 0px 0px 5px #dadada;
+	-moz-box-shadow: 0px 0px 5px #dadada;
+	box-shadow: 0px 0px 5px #dadada;
 }
 @mixin text-shadow {
 	text-shadow: 0px 0px 5px #88192e;
@@ -24,7 +24,6 @@ body {
 	font-family: "ff-meta-serif-web-pro-1","ff-meta-serif-web-pro-2",serif;
 	font-size: 13px;
 	line-height: 20px;
-	height: 1000px;
 	color: $text-color;
 }
 h1, h2, h3, h4, h5, h6 {	
@@ -89,7 +88,11 @@ header {
 	margin-top: 40px;
 }
 
-
+@mixin body-h1 {
+	font-size: 26px;
+	line-height: 32px;
+	margin-bottom: 12px;
+}
 /*homepage*/
 .post-home, #post {
 	margin-bottom: 30px;
@@ -103,12 +106,24 @@ header {
 		margin-top: 9px;
 	}
 	h1 {
-		font-size: 26px;
-		line-height: 32px;
-		margin-bottom: 12px;
+		@include body-h1;
 	}
 	img, #post-body {
 		margin-left: 120px;
 	}
 }
 
+/*homepage*/
+section.work {
+	margin-left: 120px;
+	margin-bottom: 40px;
+	h1 {
+		@include body-h1;
+	}
+	&.multiple img {
+		margin-bottom: 30px;
+	}
+	img.shadow {
+		@include box-shadow;
+	}
+}

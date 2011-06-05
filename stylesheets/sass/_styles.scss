@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
 	margin-bottom: 20px;
 }
-a, a:visited {
+a, a:visited, a:link {
 	color: $link-color;
 	text-decoration: none;
 }
@@ -51,8 +51,10 @@ header {
 		font-size: 26px;
 		line-height: 32px;
 		margin: 14px 0 14px 26px;
-		@include text-shadow;
-		color: $white;
+		@include text-shadow;	
+		a {
+			color: $white !important;
+		}
 	}
 }
 #sidebar {

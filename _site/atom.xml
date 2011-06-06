@@ -3,7 +3,7 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.github.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.github.com/"/>
-    <updated>2011-06-05T22:48:38-07:00</updated>
+    <updated>2011-06-05T22:57:18-07:00</updated>
     <id>http://njmcgee.github.com/</id>
     
     
@@ -15,7 +15,7 @@
         <id>njmcgee.github.com:/2011/06/testing</id>
         <content type="html">
           
-           <img src="/images/topguest-devices.jpg"/ >
+           <img src="http://njmcgee.github.com/images/topguest-devices.jpg"/ >
           
           <p>You might have noticed that things are changing at Topguest. A new design, some subtle but important changes to the application, and we’ve just launched the beginnings of a new mobile web experience.</p>
 <p>One of the more dramatic changes is the much brighter color scheme. After applying it to some important layouts I mentioned to the team that we’d “turned the lights on”. This stuck with me, as I worked through problems unrelated to color or shade, and I hope it shows. We hope the new (and upcoming) changes, bring clarity, ease of use, and lots more points!</p>
@@ -36,7 +36,7 @@
         <id>njmcgee.github.com:/2011/05/a-new-topguest</id>
         <content type="html">
           
-           <img src="/images/topguest-devices.jpg"/ >
+           <img src="http://njmcgee.github.com/images/topguest-devices.jpg"/ >
           
           <p>You might have noticed that things are changing at Topguest. A new design, some subtle but important changes to the application, and we’ve just launched the beginnings of a new mobile web experience.</p>
 <p>One of the more dramatic changes is the much brighter color scheme. After applying it to some important layouts I mentioned to the team that we’d “turned the lights on”. This stuck with me, as I worked through problems unrelated to color or shade, and I hope it shows. We hope the new (and upcoming) changes, bring clarity, ease of use, and lots more points!</p>

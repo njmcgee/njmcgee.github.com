@@ -51,14 +51,14 @@ a:hover {
 	position: relative;
 }
 header {
-	width: 852px;
+	width: 862px;
 	background: $link-color;
 	float: right;
 	@include box-shadow;
 	h1 {
 		font-size: 30px;
 		line-height: 32px;
-		margin: 14px 0 14px 21px;
+		margin: 16px 0 18px 30px;
 		@include text-shadow;	
 		a {
 			color: $white !important;
@@ -94,8 +94,9 @@ header {
 			}
 		}
 		&#main-nav {
-			font-size: 16px;
-			margin-bottom: 20px;
+			font-size: 18px;
+			margin-bottom: 22px;
+			line-height: 23px;
 		}
 	}
 }

@@ -19,11 +19,10 @@ layout: nil
         <updated>{{ post.date | date_to_xmlschema }}</updated>
         <id>njmcgee.github.com:{{ post.id }}</id>
         <content type="html">
-          {% if page.image-path %}
-            <img src="{{ page.image-path }}"/ >
+          {% if post.image-path %}
+           <img src="{{ post.image-path }}"/ >
           {% endif %}
-          {{ post.content }}
-          
+          {{ post.content }}          
         </content>
         <author>
             <name>{{post.author_name}}</name>

@@ -107,6 +107,10 @@ header {
 	h1 {
 		@include body-h1;
 	}
+	h2 {
+		font-family: "ff-meta-serif-web-pro-1","ff-meta-serif-web-pro-2",serif;
+		margin-bottom: 4px;
+	}
 	section {
 		margin-bottom: 40px;
 	}

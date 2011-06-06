@@ -22,7 +22,12 @@ layout: nil
           {% if post.image-path %}
            <img src="http://njmcgee.github.com{{ post.image-path }}"/ >
           {% endif %}
-          {{ post.content }}          
+          {% if post.external %}
+            {{ post.summary }}    
+          {% else %}
+            {{ post.content }}          
+          {% endif %}
+          
         </content>
         <author>
             <name>{{post.author_name}}</name>

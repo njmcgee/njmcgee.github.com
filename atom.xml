@@ -18,7 +18,12 @@ layout: nil
         <link href="http://njmcgee.github.com{{ post.url }}"/>
         <updated>{{ post.date | date_to_xmlschema }}</updated>
         <id>njmcgee.github.com:{{ post.id }}</id>
-        <content type="html">{{ post.content | h}}</content>
+        <content type="html">
+          {{ post.content | h}}
+          {% if page.image-path %}
+            <img src="{{ page.image-path }}"/ >
+          {% endif %}
+        </content>
         <author>
             <name>{{post.author_name}}</name>
             <uri>{{post.author_uri}}</uri>

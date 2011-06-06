@@ -21,6 +21,11 @@ $white: #f8f8f8;
 	font-weight: 400;
 	font-style: italic;
 }
+@mixin body-h1 {
+	font-size: 26px;
+	line-height: 32px;
+	margin-bottom: 16px;
+}
 body {
 	font-family: "ff-meta-serif-web-pro-1","ff-meta-serif-web-pro-2",serif;
 	font-size: 13px;
@@ -95,12 +100,17 @@ header {
 #main {
 	margin-top: 40px;
 }
-
-@mixin body-h1 {
-	font-size: 26px;
-	line-height: 32px;
-	margin-bottom: 12px;
+#static {	
+	margin-left: 120px;
+	h1 {
+		@include body-h1;
+	}
+	section {
+		margin-bottom: 30px;
+	}
 }
+
+
 /*homepage*/
 .post-home, #post {
 	margin-bottom: 30px;
@@ -121,13 +131,9 @@ header {
 	}
 }
 
-/*homepage*/
+/*work*/
 section.work {
-	margin-left: 120px;
-	margin-bottom: 40px;
-	h1 {
-		@include body-h1;
-	}
+	margin-bottom: 40px;	
 	&.multiple img {
 		margin-bottom: 30px;
 	}
@@ -135,3 +141,6 @@ section.work {
 		@include box-shadow;
 	}
 }
+
+
+/*about*/

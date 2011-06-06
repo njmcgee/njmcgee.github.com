@@ -30,9 +30,21 @@ body-class: home
   		  <div id="fixed" class="grid_5">
       		<nav id="main-nav">
       		  <ul>
-    		      <li><a href="/">Blog</a></li>
-    		      <li><a href="/about.html">About</a></li>
-    		      <li><a href="/work.html">Work</a></li>
+      		    {% if page.title == 'Nathan McGinness' %}
+                <li><a href="/" class="selected">Blog</a></li>
+              {% else %}
+                <li><a href="/">Blog</a></li>
+              {% endif %}
+              {% if page.title == 'Nathan McGinness | About' %}
+                <li><a href="/about.html" class="selected">About</a></li>
+              {% else %}
+                <li><a href="/about.html">About</a></li>
+              {% endif %}
+              {% if page.title == 'Nathan McGinness | Work' %}
+                <li><a href="/work.html" class="selected">Work</a></li>
+              {% else %}
+                <li><a href="/work.html">Work</a></li>
+              {% endif %}   
     		      <li><a href="mailto:nathanmcginness@gmail.com">Contact</a></li>
       		  </ul>    		  
       		</nav>

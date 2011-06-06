@@ -4,10 +4,10 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Nathan McGinness</title>
-    <link href="http://njmcgee.github.com/atom.xml" rel="self"/>
-    <link href="http://njmcgee.github.com/"/>
+    <link href="http://njmcgee.com/atom.xml" rel="self"/>
+    <link href="http://njmcgee.com/"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
-    <id>http://njmcgee.github.com/</id>
+    <id>http://njmcgee.com/</id>
     
     {% for post in site.posts %}
     <entry>
@@ -15,12 +15,12 @@ layout: nil
         {% for category in post.categories %}
         <category term="{{category}}" scheme="http://www.sixapart.com/ns/types#tag" />
         {% endfor %}
-        <link href="http://njmcgee.github.com{{ post.url }}"/>
+        <link href="http://njmcgee.com{{ post.url }}"/>
         <updated>{{ post.date | date_to_xmlschema }}</updated>
-        <id>njmcgee.github.com:{{ post.id }}</id>
+        <id>njmcgee.com:{{ post.id }}</id>
         <content type="html">
           {% if post.image-path %}
-           <img src="http://njmcgee.github.com{{ post.image-path }}"></img>
+           <img src="http://njmcgee.com{{ post.image-path }}"></img>
           {% endif %}
           {{ post.content }}
           

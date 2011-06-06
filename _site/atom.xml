@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Nathan McGinness</title>
-    <link href="http://njmcgee.github.com/atom.xml" rel="self"/>
-    <link href="http://njmcgee.github.com/"/>
-    <updated>2011-06-06T13:25:44-07:00</updated>
-    <id>http://njmcgee.github.com/</id>
+    <link href="http://njmcgee.com/atom.xml" rel="self"/>
+    <link href="http://njmcgee.com/"/>
+    <updated>2011-06-06T13:52:09-07:00</updated>
+    <id>http://njmcgee.com/</id>
     
     
     <entry>
         <title>Google drops IE7</title>
         
-        <link href="http://njmcgee.github.com/2011/06/google-drops-ie7.html"/>
+        <link href="http://njmcgee.com/2011/06/google-drops-ie7.html"/>
         <updated>2011-06-05T00:00:00-07:00</updated>
-        <id>njmcgee.github.com:/2011/06/google-drops-ie7</id>
+        <id>njmcgee.com:/2011/06/google-drops-ie7</id>
         <content type="html">
           
           <p>Great news. As of August 1st Google Apps (including gmail and docs) will drop support for IE7. If Google can do it, so can I.</p>
@@ -27,12 +27,12 @@
     <entry>
         <title>Anni Albers in the NGA online archive</title>
         
-        <link href="http://njmcgee.github.com/2011/06/anni-albers.html"/>
+        <link href="http://njmcgee.com/2011/06/anni-albers.html"/>
         <updated>2011-06-05T00:00:00-07:00</updated>
-        <id>njmcgee.github.com:/2011/06/anni-albers</id>
+        <id>njmcgee.com:/2011/06/anni-albers</id>
         <content type="html">
           
-           <img src="http://njmcgee.github.com/images/posts/anni-albers.jpg"></img>
+           <img src="http://njmcgee.com/images/posts/anni-albers.jpg"></img>
           
           <p>Have found some simply stunning Anni Albers (the wife of my favourite artist, Josef Albers) prints at the National Gallery Of Australia.</p>
           
@@ -46,12 +46,12 @@
     <entry>
         <title>A new Topguest</title>
         
-        <link href="http://njmcgee.github.com/2011/05/a-new-topguest.html"/>
+        <link href="http://njmcgee.com/2011/05/a-new-topguest.html"/>
         <updated>2011-05-26T00:00:00-07:00</updated>
-        <id>njmcgee.github.com:/2011/05/a-new-topguest</id>
+        <id>njmcgee.com:/2011/05/a-new-topguest</id>
         <content type="html">
           
-           <img src="http://njmcgee.github.com/images/topguest-devices.jpg"></img>
+           <img src="http://njmcgee.com/images/topguest-devices.jpg"></img>
           
           <p>You might have noticed that things are changing at Topguest. A new design, some subtle but important changes to the application, and we’ve just launched the beginnings of a new mobile web experience.</p>
 <p>One of the more dramatic changes is the much brighter color scheme. After applying it to some important layouts I mentioned to the team that we’d “turned the lights on”. This stuck with me, as I worked through problems unrelated to color or shade, and I hope it shows. We hope the new (and upcoming) changes, bring clarity, ease of use, and lots more points!</p>
@@ -68,9 +68,9 @@
     <entry>
         <title>Our vision for the future of loyalty</title>
         
-        <link href="http://njmcgee.github.com/2011/05/the-future-of-loyalty.html"/>
+        <link href="http://njmcgee.com/2011/05/the-future-of-loyalty.html"/>
         <updated>2011-05-24T00:00:00-07:00</updated>
-        <id>njmcgee.github.com:/2011/05/the-future-of-loyalty</id>
+        <id>njmcgee.com:/2011/05/the-future-of-loyalty</id>
         <content type="html">
           
           <p>Our <span class="caps">CEO</span> Geoff on the business we do at Topguest.</p>

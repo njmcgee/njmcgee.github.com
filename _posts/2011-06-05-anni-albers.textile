@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anni Albers in the NGA online archive
-summary: The National Gallery of Australia has some stunning Anni Albers&rsquo; prints (the wife of my favourite artist, Josef Albers).
+summary: The National Gallery of Australia have some stunning Anni Albers&rsquo; prints (the wife of my favourite artist, Josef Albers).
 summary-only: yes
 external: http://cs.nga.gov.au/Search.cfm?mystartrow=1&realstartrow=1&VIEW_SELECT=1&CREIRN=12177&ORDER_SELECT=1&SHOWROWS=20
 image-path: /images/posts/anni-albers.jpg

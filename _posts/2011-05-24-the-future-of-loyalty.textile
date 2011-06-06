@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Our vision for the future of loyalty
-summary: Geoff on the business we do at Topguest.
 summary-only: yes
 external: http://blog.topguest.com/2011/05/the-future-of-loyalty.html
 ---
+
+Geoff on the business we do at Topguest.

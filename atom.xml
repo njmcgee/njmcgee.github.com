@@ -20,13 +20,9 @@ layout: nil
         <id>njmcgee.github.com:{{ post.id }}</id>
         <content type="html">
           {% if post.image-path %}
-           <img src="http://njmcgee.github.com{{ post.image-path }}"/ >
+           <img src="http://njmcgee.github.com{{ post.image-path }}"></img>
           {% endif %}
-          {% if post.external %}
-            {{ post.summary }}    
-          {% else %}
-            {{ post.content }}          
-          {% endif %}
+          {{ post.content }}
           
         </content>
         <author>

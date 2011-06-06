@@ -110,7 +110,7 @@ header {
 	}
 }
 footer {
-	padding-left: 120px;
+	padding-left: 125px;
 	margin-top: 10px;
 	font-style: italic;
 	font-size: 11px;
@@ -131,8 +131,11 @@ footer {
 	h1 {
 		@include body-h1;
 	}
-	img, #post-body {
+	img, #post-body, .summary {
 		margin-left: 120px;
+	}
+	img {
+		margin-bottom: 10px;
 	}
 }
 

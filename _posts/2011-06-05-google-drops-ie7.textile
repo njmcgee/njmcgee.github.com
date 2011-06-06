@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Google drops IE7
-summary: Great news. As of August 1st Google Apps (including gmail and docs) will drop support for IE7. If Google can do it, so can I.
 summary-only: yes
 external: http://www.computerworld.com/s/article/9217279/Google_to_dump_support_for_Microsoft_s_IE7
 ---
+
+Great news. As of August 1st Google Apps (including gmail and docs) will drop support for IE7. If Google can do it, so can I.

@@ -22,11 +22,17 @@ title: Nathan McGinness
         <a href="{{ post.external }}"><img src="{{ post.image-path }}"/ ></a>
       {% else %}
         <a href="{{ post.url }}"><img src="{{ post.image-path }}"/ ></a> 
-      {% endif %}
-      
-       
+      {% endif %}       
     {% endif %}
-    <p class="post-summary grid_14 prefix_3 alpha omega">{{ post.summary }}</p>
+    
+    {% if post.summary-only %}
+        <div class="summary">
+        {{ post.content }}
+        </div>
+    {% else %}
+       <p class="post-summary grid_14 prefix_3 alpha omega">{{ post.summary }}</p>
+    {% endif %}
+    
     <div class="clear"></div>
   </section>
 {% endfor %}

@@ -4,9 +4,9 @@ $hover-color: #167499;
 $white: #f8f8f8;
 
 @mixin box-shadow {
-	-webkit-box-shadow: 0px 0px 3px #dadada;
-	-moz-box-shadow: 0px 0px 3px #dadada;
-	box-shadow: 0px 0px 3px #dadada;
+	-webkit-box-shadow: 0px 0px 4px #dadada;
+	-moz-box-shadow: 0px 0px 4px #dadada;
+	box-shadow: 0px 0px 4px #dadada;
 }
 @mixin text-shadow {
 	text-shadow: 0px 0px 5px #88192e;

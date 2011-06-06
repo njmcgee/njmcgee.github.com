@@ -3,24 +3,37 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.github.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.github.com/"/>
-    <updated>2011-06-05T22:57:18-07:00</updated>
+    <updated>2011-06-05T23:24:53-07:00</updated>
     <id>http://njmcgee.github.com/</id>
     
     
     <entry>
-        <title>Testing</title>
+        <title>Google drops IE7</title>
         
-        <link href="http://njmcgee.github.com/2011/06/testing.html"/>
+        <link href="http://njmcgee.github.com/2011/06/google-drops-ie7.html"/>
         <updated>2011-06-05T00:00:00-07:00</updated>
-        <id>njmcgee.github.com:/2011/06/testing</id>
+        <id>njmcgee.github.com:/2011/06/google-drops-ie7</id>
         <content type="html">
           
-           <img src="http://njmcgee.github.com/images/topguest-devices.jpg"/ >
+                    
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
+    
+    <entry>
+        <title>Anni Albers in the NGA online archive</title>
+        
+        <link href="http://njmcgee.github.com/2011/06/anni-albers.html"/>
+        <updated>2011-06-05T00:00:00-07:00</updated>
+        <id>njmcgee.github.com:/2011/06/anni-albers</id>
+        <content type="html">
           
-          <p>You might have noticed that things are changing at Topguest. A new design, some subtle but important changes to the application, and we’ve just launched the beginnings of a new mobile web experience.</p>
-<p>One of the more dramatic changes is the much brighter color scheme. After applying it to some important layouts I mentioned to the team that we’d “turned the lights on”. This stuck with me, as I worked through problems unrelated to color or shade, and I hope it shows. We hope the new (and upcoming) changes, bring clarity, ease of use, and lots more points!</p>
-<p>Things aren’t slowing anytime soon. We’re adding programs and new locations every day, and be sure to visit <a href="http://topguest.com">http://topguest.com</a> on your mobile browser. We’re regularly adding mobile optimized functionality so you can manage your points, and find locations on the go.</p>
-<p>Any feedback? <a href="mailto:nathan@topguest.com">Get in touch</a>.</p>          
+           <img src="http://njmcgee.github.com/images/posts/anni-albers.jpg"/ >
+          
+                    
         </content>
         <author>
             <name></name>
@@ -42,6 +55,22 @@
 <p>One of the more dramatic changes is the much brighter color scheme. After applying it to some important layouts I mentioned to the team that we’d “turned the lights on”. This stuck with me, as I worked through problems unrelated to color or shade, and I hope it shows. We hope the new (and upcoming) changes, bring clarity, ease of use, and lots more points!</p>
 <p>Things aren’t slowing anytime soon. We’re adding programs and new locations every day, and be sure to visit <a href="http://topguest.com">http://topguest.com</a> on your mobile browser. We’re regularly adding mobile optimized functionality so you can manage your points, and find locations on the go.</p>
 <p>Any feedback? <a href="mailto:nathan@topguest.com">Get in touch</a>.</p>          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
+    
+    <entry>
+        <title>Our vision for the future of loyalty</title>
+        
+        <link href="http://njmcgee.github.com/2011/05/the-future-of-loyalty.html"/>
+        <updated>2011-05-24T00:00:00-07:00</updated>
+        <id>njmcgee.github.com:/2011/05/the-future-of-loyalty</id>
+        <content type="html">
+          
+                    
         </content>
         <author>
             <name></name>

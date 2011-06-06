@@ -5,4 +5,4 @@ summary-only: yes
 external: http://blog.topguest.com/2011/05/the-future-of-loyalty.html
 ---
 
-Geoff on the business we do at Topguest.
+Our CEO Geoff on the business we do at Topguest.

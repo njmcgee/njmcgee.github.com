@@ -6,4 +6,4 @@ external: http://cs.nga.gov.au/Search.cfm?mystartrow=1&realstartrow=1&VIEW_SELEC
 image-path: /images/posts/anni-albers.jpg
 ---
 
-The National Gallery of Australia have some stunning Anni Albers&rsquo; prints (the wife of my favourite artist, Josef Albers).
+Have found some simply stunning Anni Albers (the wife of my favourite artist, Josef Albers) prints at the National Gallery Of Australia.

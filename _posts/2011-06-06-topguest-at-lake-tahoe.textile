@@ -2,7 +2,7 @@
 layout: post
 title: Topguest at Lake Tahoe
 image-path: /images/posts/tahoe-01.jpg
-summary: The Topguest team took some friends to Lake Tahoe the weekend before last. As you can see it’s a really beautiful spot. 
+summary: The Topguest team took some friends to Lake Tahoe the weekend before last. As you can see, it’s a really beautiful part of the world. 
 ---
 
 The Topguest team took some friends to Lake Tahoe the weekend before last. As you can see, it’s a really beautiful part of the world. 

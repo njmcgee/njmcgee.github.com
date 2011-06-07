@@ -15,7 +15,11 @@ layout: nil
         {% for category in post.categories %}
         <category term="{{category}}" scheme="http://www.sixapart.com/ns/types#tag" />
         {% endfor %}
+        {% if post.external %}
+        <link href="{{ post.external }}"/>
+        {% else %}
         <link href="http://njmcgee.com{{ post.url }}"/>
+        {% endif %}
         <updated>{{ post.date | date_to_xmlschema }}</updated>
         <id>njmcgee.com:{{ post.id }}</id>
         <content type="html">

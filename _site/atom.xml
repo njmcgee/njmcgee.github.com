@@ -3,14 +3,16 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-06-06T21:54:09-07:00</updated>
+    <updated>2011-06-06T22:31:40-07:00</updated>
     <id>http://njmcgee.com/</id>
     
     
     <entry>
         <title>Topguest at Lake Tahoe </title>
         
+        
         <link href="http://njmcgee.com/2011/06/topguest-at-lake-tahoe.html"/>
+        
         <updated>2011-06-06T00:00:00-07:00</updated>
         <id>njmcgee.com:/2011/06/topguest-at-lake-tahoe</id>
         <content type="html">
@@ -31,7 +33,9 @@
     <entry>
         <title>A blog in two days with Jekyll &#x219D;</title>
         
-        <link href="http://njmcgee.com/2011/06/a-blog-in-two-days-with-jekyll.html"/>
+        
+        <link href="http://blog.topguest.com/2011/04/designing-and-building-a-blog-in-two-days.html"/>
+        
         <updated>2011-06-06T00:00:00-07:00</updated>
         <id>njmcgee.com:/2011/06/a-blog-in-two-days-with-jekyll</id>
         <content type="html">
@@ -48,7 +52,9 @@
     <entry>
         <title>Google drops IE7 &#x219D;</title>
         
-        <link href="http://njmcgee.com/2011/06/google-drops-ie7.html"/>
+        
+        <link href="http://www.computerworld.com/s/article/9217279/Google_to_dump_support_for_Microsoft_s_IE7"/>
+        
         <updated>2011-06-05T00:00:00-07:00</updated>
         <id>njmcgee.com:/2011/06/google-drops-ie7</id>
         <content type="html">
@@ -65,7 +71,9 @@
     <entry>
         <title>Anni Albers in the NGA online archive &#x219D;</title>
         
-        <link href="http://njmcgee.com/2011/06/anni-albers.html"/>
+        
+        <link href="http://cs.nga.gov.au/Search.cfm?mystartrow=1&realstartrow=1&VIEW_SELECT=1&CREIRN=12177&ORDER_SELECT=1&SHOWROWS=20"/>
+        
         <updated>2011-06-05T00:00:00-07:00</updated>
         <id>njmcgee.com:/2011/06/anni-albers</id>
         <content type="html">
@@ -84,7 +92,9 @@
     <entry>
         <title>A new Topguest </title>
         
+        
         <link href="http://njmcgee.com/2011/05/a-new-topguest.html"/>
+        
         <updated>2011-05-26T00:00:00-07:00</updated>
         <id>njmcgee.com:/2011/05/a-new-topguest</id>
         <content type="html">
@@ -106,7 +116,9 @@
     <entry>
         <title>Our vision for the future of loyalty &#x219D;</title>
         
-        <link href="http://njmcgee.com/2011/05/the-future-of-loyalty.html"/>
+        
+        <link href="http://blog.topguest.com/2011/05/the-future-of-loyalty.html"/>
+        
         <updated>2011-05-24T00:00:00-07:00</updated>
         <id>njmcgee.com:/2011/05/the-future-of-loyalty</id>
         <content type="html">

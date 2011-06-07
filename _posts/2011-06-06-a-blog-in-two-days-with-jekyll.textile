@@ -1,0 +1,8 @@
+---
+layout: post
+title: A blog in two days with Jekyll
+summary-only: yes
+external: http://blog.topguest.com/2011/04/designing-and-building-a-blog-in-two-days.html
+---
+
+A post I wrote over at the Topguest blog on rapid blog development with "Jekyll":https://github.com/mojombo/jekyll/wiki &ndash; the same platform I built this blog with. If you’re interested in front-end development I think it’s worth a read.

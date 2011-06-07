@@ -45,6 +45,18 @@ a, a:visited, a:link {
 a:hover {
 	color: $hover-color;
 }
+.external {
+  /*display: inline-block;*/
+	color: $hover-color;
+	font-size: 30px;
+	font-weight: 400;
+  -webkit-transform: rotate(0rad);
+  -moz-transform: rotate(0rad);
+  -o-transform: rotate(0rad);
+  transform: rotate(0rad);
+	padding-top: 7px;
+	
+}
 
 
 #container .grid_24 {

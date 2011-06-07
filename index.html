@@ -9,7 +9,7 @@ title: Nathan McGinness
     <h1 class="grid_14 omega">
       {% if post.summary-only %}
         {% if post.external %}
-          <a href="{{ post.external }}">{{ post.title }}</a>
+          <a href="{{ post.external }}">{{ post.title }} <span class="external">&#x219D;</span></a>
         {% else %}
           {{ post.title }}           
         {% endif %}

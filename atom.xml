@@ -11,7 +11,7 @@ layout: nil
     
     {% for post in site.posts %}
     <entry>
-        <title>{{ post.title | h }}</title>
+        <title>{{ post.title | h }} {% if post.external %}&#x219D;{% endif %}</title>
         {% for category in post.categories %}
         <category term="{{category}}" scheme="http://www.sixapart.com/ns/types#tag" />
         {% endfor %}

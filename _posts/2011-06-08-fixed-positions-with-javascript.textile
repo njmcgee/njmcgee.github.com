@@ -10,11 +10,10 @@ In simple situations (this site for example) CSS will do the trick. But what if 
 
 "Ozan":http://ozanonay.com helped me solve this problem, and I thought I'd share. 
 
-We’ll start by selecting said element, calling our custom function, and specifying how far from the top of the page we want it to live (before scrolling).
+We’ll start by selecting said element, calling our custom function, and specifying how far from the top of the page it lives:
 
 {% highlight js %}
-var topBoundary = 20;
-$('#fixed').myFixture({ topBoundary: topBoundary });
+$('#fixed').myFixture({ topBoundary: 20 });
 {% endhighlight %}
 
 And our function looks something like this:
@@ -23,19 +22,16 @@ And our function looks something like this:
 $.fn.myFixture = function (settings) {
   return this.each(function () {
     
+    // default css declaration 
     var elem = $(this).css('position', 'fixed');
     
     var setPosition = function () {         
       // get no of pixels hidden above the the window     
-      var scrollTop = $(window).scrollTop();       
-      // set the default position
-      var top = settings.top || 0      
-        // The difference between the default position and how far we have scrolled
+      var scrollTop = $(window).scrollTop();    
+        // get elements distance from top of window
         , topBuffer = settings.topBoundary - scrollTop;      
       // update position if required
-      if (topBuffer > 0) { top += topBuffer }
-      // Set the position!
-      elem.css('top', top);
+      if (topBuffer >= 0) { elem.css('top', topBuffer); }      
     };
         
     $(window).bind('scroll', setPosition);
@@ -44,24 +40,26 @@ $.fn.myFixture = function (settings) {
 };
 {% endhighlight %}
 
-Let’s revisit our first block of code, and base the calculation on the height of a div above it (a header for example):
+Let’s revisit our first block of code, and base the calculation on the height of a header element above it:
 
 {% highlight js %}
-var headerHeight = $('header');
-topBoundary = headerHeight.outerHeight();
+var header = $('header')
+  , topBoundary = header.outerHeight();
 $('#fixed').myFixture({ topBoundary: topBoundary });
 {% endhighlight %}
 
-Let's also check if any notifications exist, and account for that:
+This time let's also check if any flash messages exist, and account for that:
 
 {% highlight js %}
-var notifications = $('#notifications')
-  , headerHeight = $('header')
+var flash = $('#flash')
+  , header = $('header')
   , topBoundary;
-if (notifications.length > 0) {
-  topBoundary = notifications.outerHeight() + headerHeight;
+if (flash.length > 0) {
+  topBoundary = flash.outerHeight() + header.outerHeight();
 } else {
-  topBoundary = headerHeight;
+  topBoundary = header.outerHeight();;
 }
 $('#fixed').myFixture({ topBoundary: topBoundary });
 {% endhighlight %}
+
+Enjoy!

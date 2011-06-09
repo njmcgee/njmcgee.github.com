@@ -23,7 +23,6 @@ And our function looks something like this:
 $.fn.myFixture = function (settings) {
   return this.each(function () {
     
-    // Possible CSS properties. 
     var elem = $(this).css('position', 'fixed');
     
     var setPosition = function () {         

@@ -3,9 +3,69 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-06-08T22:33:20-07:00</updated>
+    <updated>2011-06-09T00:45:53-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Fixed position elements with JavaScript </title>
+        
+        
+        <link href="http://njmcgee.com/2011/06/fixed-position-sidebars.html"/>
+        
+        <updated>2011-06-08T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/06/fixed-position-sidebars</id>
+        <content type="html">
+          
+          <p>Fixed elements (sidebars in particular) seem to becoming more and more common. In simple situations (this site for example) <span class="caps">CSS</span> will do the trick. But what if you want to load dynamic content at the very top of your page (a flash or notification message for example)? Or your header changes size?</p>
+<p><a href="http://ozanonay.com">Ozan</a> helped me solve this problem at <a href="http://topguest.com">Topguest</a>, and I thought I&#8217;d share.</p>
+<p>We’ll start by selecting our element, calling our custom function, and specifying how far from the top of the page we want it to live.</p>
+<div class="highlight"><pre><code class="js"><span class="kd">var</span> <span class="nx">topBoundary</span> <span class="o">=</span> <span class="mi">20</span><span class="p">;</span>
+<span class="nx">$</span><span class="p">(</span><span class="s1">&#39;#fixed&#39;</span><span class="p">).</span><span class="nx">myFixture</span><span class="p">({</span> <span class="nx">topBoundary</span><span class="o">:</span> <span class="nx">topBoundary</span> <span class="p">});</span>
+</code></pre>
+</div><p>And our function looks something like this:</p>
+<div class="highlight"><pre><code class="js"><span class="nx">$</span><span class="p">.</span><span class="nx">fn</span><span class="p">.</span><span class="nx">myFixture</span> <span class="o">=</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">settings</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="k">this</span><span class="p">.</span><span class="nx">each</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+    
+    <span class="c1">// Possible CSS properties. </span>
+    <span class="kd">var</span> <span class="nx">elem</span> <span class="o">=</span> <span class="nx">$</span><span class="p">(</span><span class="k">this</span><span class="p">).</span><span class="nx">css</span><span class="p">(</span><span class="s1">&#39;position&#39;</span><span class="p">,</span> <span class="s1">&#39;fixed&#39;</span><span class="p">);</span>
+    
+    <span class="kd">var</span> <span class="nx">setPosition</span> <span class="o">=</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>         
+      <span class="c1">// no of pixels hidden above the the window     </span>
+      <span class="kd">var</span> <span class="nx">scrollTop</span> <span class="o">=</span> <span class="nx">$</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">scrollTop</span><span class="p">();</span>       
+      <span class="c1">// set the default position</span>
+      <span class="kd">var</span> <span class="nx">top</span> <span class="o">=</span> <span class="nx">settings</span><span class="p">.</span><span class="nx">top</span> <span class="o">||</span> <span class="mi">0</span>      
+        <span class="c1">// The difference between the default position and how far we have scrolled</span>
+        <span class="p">,</span> <span class="nx">topBuffer</span> <span class="o">=</span> <span class="nx">settings</span><span class="p">.</span><span class="nx">topBoundary</span> <span class="o">-</span> <span class="nx">scrollTop</span><span class="p">;</span>      
+      <span class="c1">// update position if required</span>
+      <span class="k">if</span> <span class="p">(</span><span class="nx">topBuffer</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span> <span class="nx">top</span> <span class="o">+=</span> <span class="nx">topBuffer</span> <span class="p">}</span>
+      <span class="c1">// Set the position!</span>
+      <span class="nx">elem</span><span class="p">.</span><span class="nx">css</span><span class="p">(</span><span class="s1">&#39;top&#39;</span><span class="p">,</span> <span class="nx">top</span><span class="p">);</span>
+    <span class="p">};</span>
+        
+    <span class="nx">$</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">bind</span><span class="p">(</span><span class="s1">&#39;scroll&#39;</span><span class="p">,</span> <span class="nx">setPosition</span><span class="p">);</span>
+    <span class="nx">setPosition</span><span class="p">();</span>
+  <span class="p">});</span>
+<span class="p">};</span>
+</code></pre>
+</div><p>Let’s revisit our first block of code, but this time check if a notification exists, calculate a new topBoundary, and place our element under it:</p>
+<div class="highlight"><pre><code class="js"><span class="kd">var</span> <span class="nx">notifications</span> <span class="o">=</span> <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;#notifications&#39;</span><span class="p">)</span>
+  <span class="p">,</span> <span class="nx">topBoundary</span><span class="p">;</span>
+<span class="k">if</span> <span class="p">(</span><span class="nx">notifications</span><span class="p">.</span><span class="nx">length</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nx">topBoundary</span> <span class="o">=</span> <span class="nx">notifications</span><span class="p">.</span><span class="nx">outerHeight</span><span class="p">();</span>
+<span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+  <span class="nx">topBoundary</span> <span class="o">=</span> <span class="mi">20</span>  
+<span class="p">}</span>
+<span class="nx">$</span><span class="p">(</span><span class="s1">&#39;#fixed&#39;</span><span class="p">).</span><span class="nx">myFixture</span><span class="p">({</span> <span class="nx">topBoundary</span><span class="o">:</span> <span class="nx">topBoundary</span> <span class="p">});</span>
+</code></pre>
+</div><p>Voila. </p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Topguest at Lake Tahoe </title>

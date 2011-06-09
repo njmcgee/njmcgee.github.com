@@ -67,6 +67,19 @@ blockquote {
 	margin-bottom: 20px;
 	font-style: italic;
 }
+
+pre {
+	@include box-shadow;
+	padding: 16px 20px;
+	font-size: 13px;
+	line-height: 22px;
+	margin-bottom: 40px;
+}
+
+pre, code, kbd, samp { 
+	font-family: 'Monaco', 'andale mono', 'lucida console', monospace;
+}
+
 header {
 	width: 862px;
 	background: $link-color;
@@ -143,7 +156,6 @@ footer {
 /*homepage*/
 .post-home, #post {
 	margin-bottom: 40px;
-	overflow: hidden;
 	.date {
 		@include proxima-italic;
 		font-size: 11px;

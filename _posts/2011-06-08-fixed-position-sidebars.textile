@@ -1,0 +1,59 @@
+---
+layout: post
+title: Fixed position elements with JavaScript
+summary: A robust solution for when a fixed CSS position just isn’t enough
+---
+
+Fixed elements (sidebars in particular) seem to becoming more and more common. In simple situations (this site for example) CSS will do the trick. But what if you want to load dynamic content at the very top of your page (a flash or notification message for example)? Or your header changes size?
+
+"Ozan":http://ozanonay.com helped me solve this problem at "Topguest":http://topguest.com, and I thought I'd share. 
+
+We’ll start by selecting our element, calling our custom function, and specifying how far from the top of the page we want it to live.
+
+{% highlight js %}
+var topBoundary = 20;
+$('#fixed').myFixture({ topBoundary: topBoundary });
+{% endhighlight %}
+
+And our function looks something like this:
+
+{% highlight js %}
+$.fn.myFixture = function (settings) {
+  return this.each(function () {
+    
+    // Possible CSS properties. 
+    var elem = $(this).css('position', 'fixed');
+    
+    var setPosition = function () {         
+      // no of pixels hidden above the the window     
+      var scrollTop = $(window).scrollTop();       
+      // set the default position
+      var top = settings.top || 0      
+        // The difference between the default position and how far we have scrolled
+        , topBuffer = settings.topBoundary - scrollTop;      
+      // update position if required
+      if (topBuffer > 0) { top += topBuffer }
+      // Set the position!
+      elem.css('top', top);
+    };
+        
+    $(window).bind('scroll', setPosition);
+    setPosition();
+  });
+};
+{% endhighlight %}
+
+Let’s revisit our first block of code, but this time check if a notification exists, calculate a new topBoundary, and place our element under it:
+
+{% highlight js %}
+var notifications = $('#notifications')
+  , topBoundary;
+if (notifications.length > 0) {
+  topBoundary = notifications.outerHeight();
+} else {
+  topBoundary = 20  
+}
+$('#fixed').myFixture({ topBoundary: topBoundary });
+{% endhighlight %}
+
+Voila. 

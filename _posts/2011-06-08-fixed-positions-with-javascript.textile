@@ -6,7 +6,7 @@ summary: A robust solution for when a fixed CSS position just isn’t enough
 
 Fixed elements (sidebars in particular) are "becoming":http://help.bigcartel.com/articles/22-javascript-ajax "popular":http://store.apple.com/us/configure/MC723LL/A?mco=MjEyOTY4OTQ. You know those sidebars that wait until the top of window hits them, and they magically stick?
 
-In simple situations (this site for example) CSS will do the trick. But what if dynamic content at the top of your page changes this calculation (a flash or notification message for example)? Or your header likes to changes size?
+In simple situations (this site for example) CSS will do the trick. But what if dynamic content at the top of your page changes this calculation (a flash or notification message for example)? Or your header likes to change size?
 
 "Ozan":http://ozanonay.com helped me solve this problem, and I thought I'd share. 
 
@@ -45,7 +45,7 @@ $.fn.myFixture = function (settings) {
 };
 {% endhighlight %}
 
-Let’s revisit our first block of code, basing the calculation on the size of a div above it (a header for example):
+Let’s revisit our first block of code, and base the calculation on the height of a div above it (a header for example):
 
 {% highlight js %}
 var headerHeight = $('header');

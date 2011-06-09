@@ -1,23 +1,71 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Nathan McGinness</title>
-    <link href="http://njmcgee.com/atom.xml" rel="self"/>
-    <link href="http://njmcgee.com/"/>
-    <updated>2011-06-09T12:16:10-07:00</updated>
-    <id>http://njmcgee.com/</id>
-    
-    
-    <entry>
-        <title>Fixed positions with JavaScript </title>
-        
-        
-        <link href="http://njmcgee.com/2011/06/fixed-positions-with-javascript.html"/>
-        
-        <updated>2011-06-08T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/06/fixed-positions-with-javascript</id>
-        <content type="html">
-          
-          <p>Fixed elements (sidebars in particular) are <a href="http://help.bigcartel.com/articles/22-javascript-ajax">becoming</a> <a href="http://store.apple.com/us/configure/MC723LL/A?mco=MjEyOTY4OTQ">popular</a>. You know those sidebars that wait until the top of window hits them, and they magically stick?</p>
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+	<title>Fixed positions with JavaScript</title>
+	<meta name="description" content="Lead UX Designer at Topguest. My blog, portfolio etc.">
+	<meta name="author" content="Nathan McGinness">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=auto">
+	
+	<link rel="shortcut icon" type="image/png" href="/favicon.png">
+	
+	<link rel="stylesheet" href="/stylesheets/compiled/base.css?v=2">
+	<link href="http://feeds.feedburner.com/njmcgee" type="application/atom+xml" rel="alternate" title="Nathan McGinness" />
+	
+	<script type="text/javascript" src="http://use.typekit.com/atw0rqs.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+</head>
+<body>
+	<div id="container" class="container_24">
+	  <div class="grid_24">
+  		<header>
+        <h1><a href="/">Nathan McGinness</a></h1>
+  		</header>
+  		<div id="sidebar" class="grid_5">
+  		  <div id="fixed" class="grid_5">
+      		<nav id="main-nav">
+      		  <ul>
+      		    
+                <li><a href="/">Blog</a></li>
+              
+              
+                <li><a href="/about.html">About</a></li>
+              
+              
+                <li><a href="/work.html">Work</a></li>
+                 
+    		      <li><a href="mailto:nathanmcginness@gmail.com">Contact</a></li>
+      		  </ul>    		  
+      		</nav>
+      		<p>I love design, technology, pixels, grids, data, type &amp; language. I get to play with all of these things at <a href="http://topguest.com">Topguest</a> where I&rsquo;m the lead UX designer.</p>
+      		<nav id="elsewhere">
+      		  <ul>
+    		      <li><a href="http://www.linkedin.com/pub/nathan-mcginness/3/b2a/800">Linkedin</a></li>
+    		      <li><a href="http://www.last.fm/user/njmcgee">Last.fm</a></li>
+    		      <li><a href="https://twitter.com/#!/njmcgee">Twitter</a></li>
+    		      <li><a href="http://www.flickr.com/photos/njmcgee/">Flickr</a></li>
+    		      <li><a href="http://www.delicious.com/njmcgee">Delicious</a></li>
+    		      <li><a href="https://github.com/njmcgee">Github</a></li>
+    		      <li><a href="http://njmcgee.tumblr.com">Tumblr</a></li>
+    		      <li><a href="http://dribbble.com/njmcgee">Dribbble</a></li>
+      		  </ul>    		  
+      		</nav>
+    		</div>
+    	</div>
+		  <div id="main" role="main" class="grid_17 alpha">
+		    <article id="post">
+  <span class="date grid_3 alpha">08 June 2011</span> 
+  <h1 class="grid_14 omega">
+    Fixed positions with JavaScript
+  </h1>
+  
+  <div class="clear"></div>
+  <div id="post-body">
+    <p>Fixed elements (sidebars in particular) are <a href="http://help.bigcartel.com/articles/22-javascript-ajax">becoming</a> <a href="http://store.apple.com/us/configure/MC723LL/A?mco=MjEyOTY4OTQ">popular</a>. You know those sidebars that wait until the top of window hits them, and they magically stick?</p>
 <p>In simple situations (this site for example) <span class="caps">CSS</span> will do the trick. But what if dynamic content at the top of your page changes this calculation (a flash or notification message for example)? Or your header likes to changes size?</p>
 <p><a href="http://ozanonay.com">Ozan</a> helped me solve this problem, and I thought I&#8217;d share.</p>
 <p>We’ll start by selecting said element, calling our custom function, and specifying how far from the top of the page we want it to live (before scrolling).</p>
@@ -66,138 +114,27 @@
 <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;#fixed&#39;</span><span class="p">).</span><span class="nx">myFixture</span><span class="p">({</span> <span class="nx">topBoundary</span><span class="o">:</span> <span class="nx">topBoundary</span> <span class="p">});</span>
 </code></pre>
 </div>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Topguest at Lake Tahoe </title>
-        
-        
-        <link href="http://njmcgee.com/2011/06/topguest-at-lake-tahoe.html"/>
-        
-        <updated>2011-06-06T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/06/topguest-at-lake-tahoe</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/tahoe-01.jpg"></img>
-          
-          <p>The Topguest team took some friends to Lake Tahoe the weekend before last. As you can see, it’s a really beautiful part of the world.</p>
-<p><img style="margin-left: 0;" src="/images/posts/tahoe-02.jpg"/><br />
-<img style="margin-left: 0; margin-top: 30px" src="/images/posts/tahoe-03.jpg"/></p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>A blog in two days with Jekyll &#x219D;</title>
-        
-        
-        <link href="http://blog.topguest.com/2011/04/designing-and-building-a-blog-in-two-days.html"/>
-        
-        <updated>2011-06-06T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/06/a-blog-in-two-days-with-jekyll</id>
-        <content type="html">
-          
-          <p>A post I wrote over at the Topguest blog on rapid blog development with <a href="https://github.com/mojombo/jekyll/wiki">Jekyll</a> &ndash; the same platform I built this blog with. If you’re interested in front-end development I think it’s worth a read.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Google drops IE7 &#x219D;</title>
-        
-        
-        <link href="http://gmailblog.blogspot.com/2011/06/our-plans-to-support-modern-browsers.html"/>
-        
-        <updated>2011-06-05T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/06/google-drops-ie7</id>
-        <content type="html">
-          
-          <p>Great news. As of August 1st Google Apps (including gmail and docs) will drop support for IE7. If Google can do it, so can I.</p>
-<blockquote>“As the world moves more to the web, these new browsers are more than just a modern convenience, they are a necessity for what the future holds.”</blockquote>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Anni Albers in the NGA online archive &#x219D;</title>
-        
-        
-        <link href="http://cs.nga.gov.au/Search.cfm?mystartrow=1&realstartrow=1&VIEW_SELECT=1&CREIRN=12177&ORDER_SELECT=1&SHOWROWS=20"/>
-        
-        <updated>2011-06-05T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/06/anni-albers</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/anni-albers.jpg"></img>
-          
-          <p>Have found some simply stunning Anni Albers (the wife of my favourite artist, Josef Albers) prints at the National Gallery Of Australia.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>A new Topguest </title>
-        
-        
-        <link href="http://njmcgee.com/2011/05/a-new-topguest.html"/>
-        
-        <updated>2011-05-26T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/05/a-new-topguest</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/topguest-devices.jpg"></img>
-          
-          <p>You might have noticed that things are changing at Topguest. A new design, some subtle but important changes to the application, and we’ve just launched the beginnings of a new mobile web experience.</p>
-<p>One of the more dramatic changes is the much brighter color scheme. After applying it to some important layouts I mentioned to the team that we’d “turned the lights on”. This stuck with me, as I worked through problems unrelated to color or shade, and I hope it shows. We hope the new (and upcoming) changes, bring clarity, ease of use, and lots more points!</p>
-<p>Things aren’t slowing anytime soon. We’re adding programs and new locations every day, and be sure to visit <a href="http://topguest.com">http://topguest.com</a> on your mobile browser. We’re regularly adding mobile optimized functionality so you can manage your points, and find locations on the go.</p>
-<p>Any feedback? <a href="mailto:nathan@topguest.com">Get in touch</a>.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Our vision for the future of loyalty &#x219D;</title>
-        
-        
-        <link href="http://blog.topguest.com/2011/05/the-future-of-loyalty.html"/>
-        
-        <updated>2011-05-24T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/05/the-future-of-loyalty</id>
-        <content type="html">
-          
-          <p>Our <span class="caps">CEO</span> Geoff on the business we do at Topguest.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-</feed>
+  </div>
+  <div class="clear"></div>
+</div>
+		  </div>
+		  <div class="clear"></div>
+		  <footer>
+		    <p id="fine-print">Hosted by <a href="https://github.com/njmcgee/njmcgee.github.com">Github</a> and powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>. Licensed under the <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons attribution license</a>.</p>
+		  </footer>
+		</div>
+	</div>
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+	<script>!window.jQuery && document.write(unescape('%3Cscript src="js/libs/jquery-1.5.1.min.js"%3E%3C/script%3E'))</script>
+	<script src="/js/plugins.js"></script>
+	<script src="/js/script.js"></script>
+	
+	<script>
+		var _gaq=[['_setAccount','UA-3517986-8'],['_trackPageview']]; // Change UA-XXXXX-X to be your site's ID
+		(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
+		g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+		s.parentNode.insertBefore(g,s)}(document,'script'));
+	</script>
+</body>
+</html>

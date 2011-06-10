@@ -29,7 +29,7 @@ $.fn.myFixture = function (settings) {
       // get no of pixels hidden above the the window     
       var scrollTop = $(window).scrollTop();    
         // get elements distance from top of window
-        , topBuffer = settings.topBoundary - scrollTop;      
+        , topBuffer = (settings.topBoundary || 0) - scrollTop);
       // update position if required
       if (topBuffer >= 0) { elem.css('top', topBuffer); }      
     };
@@ -48,18 +48,6 @@ var header = $('header')
 $('#fixed').myFixture({ topBoundary: topBoundary });
 {% endhighlight %}
 
-This time let's also check if any flash messages exist, and account for that:
-
-{% highlight js %}
-var flash = $('#flash')
-  , header = $('header')
-  , topBoundary;
-if (flash.length > 0) {
-  topBoundary = flash.outerHeight() + header.outerHeight();
-} else {
-  topBoundary = header.outerHeight();;
-}
-$('#fixed').myFixture({ topBoundary: topBoundary });
-{% endhighlight %}
+Another (even more flexible) approach would be to make <code class="default-size">topBoundary</code> equal to the <code class="default-size">.offset.top()</code> of the <code class="default-size">#fixed</code> element on load.
 
 Enjoy!

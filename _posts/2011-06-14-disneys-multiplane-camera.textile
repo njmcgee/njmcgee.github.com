@@ -1,0 +1,10 @@
+---
+layout: post
+title: Walt Disney's MultiPlane Camera
+summary-only: yes
+youtube: http://www.youtube.com/embed/YdHTlUGN1zw
+---
+
+Innovation and execution. I think I’ll stop in at <a href="http://www.lostweekendvideo.com">Lost Weekend</a> and grab some Goofy cartoons. 
+
+(via "Daring Fireball":http://daringfireball.net/linked/2011/06/14/walt-disney-animation)

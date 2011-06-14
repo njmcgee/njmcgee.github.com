@@ -3,9 +3,29 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-06-10T10:54:52-07:00</updated>
+    <updated>2011-06-14T14:22:00-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Walt Disney's MultiPlane Camera </title>
+        
+        
+        <link href="http://njmcgee.com/2011/06/disneys-multiplane-camera.html"/>
+        
+        <updated>2011-06-14T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/06/disneys-multiplane-camera</id>
+        <content type="html">
+          
+          <p>Innovation and execution. I think I’ll stop in at <a href="http://www.lostweekendvideo.com">Lost Weekend</a> and grab some Goofy cartoons.</p>
+<p>(via <a href="http://daringfireball.net/linked/2011/06/14/walt-disney-animation">Daring Fireball</a>)</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Fixed positions with JavaScript </title>

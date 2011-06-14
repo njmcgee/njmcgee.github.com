@@ -170,10 +170,10 @@ footer {
 	h1 {
 		@include body-h1;
 	}
-	img, #post-body, .summary {
+	img, #post-body, .summary, iframe {
 		margin-left: 120px;
 	}
-	img {
+	img, iframe {
 		margin-bottom: 10px;
 	}
 }

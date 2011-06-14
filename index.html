@@ -24,7 +24,9 @@ title: Nathan McGinness
         <a href="{{ post.url }}"><img src="{{ post.image-path }}"/ ></a> 
       {% endif %}       
     {% endif %}
-    
+    {% if post.youtube %}
+      <iframe width="550" height="452" src="{{ post.youtube }}" frameborder="0" allowfullscreen></iframe>
+    {% endif %}    
     {% if post.summary-only %}
         <div class="summary">
         {{ post.content }}

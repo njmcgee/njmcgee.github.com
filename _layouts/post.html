@@ -9,6 +9,9 @@ layout: default
   {% if page.image-path %}
     <img src="{{ page.image-path }}"/ >
   {% endif %}
+  {% if page.youtube %}
+    <iframe width="550" height="452" src="{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
+  {% endif %}
   <div class="clear"></div>
   <div id="post-body">
     {{ content }}

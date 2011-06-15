@@ -42,6 +42,9 @@ a, a:visited, a:link {
 	color: $link-color;
 	text-decoration: none;
 }
+em {
+	font-style: italic;
+}
 a:hover {
 	color: $hover-color;
 }

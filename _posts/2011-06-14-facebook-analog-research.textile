@@ -1,0 +1,24 @@
+---
+layout: post
+title: Facebook Analog Research Laboratory
+image-path: /images/posts/facebook.jpg
+summary: Who said you can’t get your hands dirty at a software company?
+---
+
+I recently stumbled across the "Facebook Analog Research Laboratory":https://www.facebook.com/pages/Facebook-Analog-Research-Laboratory/152917571386966  and I’m really impressed. Working as a designer at a software start-up (if we can call Facebook one) doesn’t usually provoke images of ink, paint, raw materials and hardware. 
+
+Although it’s clear that Facebook are currently "working to acquire":http://techcrunch.com/2011/04/27/facebook-acq-hires-daytum/ (and <a href="http://techcrunch.com/2011/06/09/facebook-sofa/">here</a>) a world class design team, most wouldn’t think of Facebook's crisp and minimal design ethos as one that includes decorative practice and paint spills.  
+
+It turns out that Facebook (like any big company) use printed materials and physical artifacts for a variety of reasons – events in particular. Outsourcing is expensive, and I’m not just talking about the printing bills, but the administration, the transportation and timing logistics, processing the purchase orders and invoices etc. 
+
+Facebook are both saving money, and speeding up the production process. Need some signage for a developer event <em>tonight</em>? Why not design, print and construct them - right now! It allows the same flexibility and agility we strive to give developers in a start-up environment.
+
+I’m yet to meet a designer that doesn't love paper, raw materials and the workshop environment. A workshop like this must also help in attracting (or closing the deal with) versatile design candidates. 
+
+But best of all, it encourages, engages, develops and nurtures the companies’ creatives. 
+
+Need evidence? "FPO":http://www.underconsideration.com/fpo/archives/2011/05/president-barack-obama-at-facebook-tickets.php profiles the tickets the Facebook team produced in less than 24 for Obama's Town Hall event at Facebook’s headquarters.
+
+<img src="/images/posts/tickets.jpg" style="margin-left: 0;" />
+
+"Take a video tour of the Facebook Analog Research Laboratory":https://www.facebook.com/video/video.php?v=10150096693006777&oid=75877461389&comments.

@@ -2,7 +2,7 @@
 layout: post
 title: Facebook Analog Research Laboratory
 image-path: /images/posts/facebook.jpg
-summary: Who said you can’t get your hands dirty at a software company?
+summary: Who says you won’t get your hands dirty at a software company?
 ---
 
 I recently stumbled across the "Facebook Analog Research Laboratory":https://www.facebook.com/pages/Facebook-Analog-Research-Laboratory/152917571386966  and I’m really impressed. Working as a designer at a software start-up (if we can call Facebook one) doesn’t usually provoke images of ink, paint, raw materials and hardware. 

@@ -3,9 +3,30 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-06-14T19:17:13-07:00</updated>
+    <updated>2011-06-16T16:34:03-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Topguest on your smartphone </title>
+        
+        
+        <link href="http://njmcgee.com/2011/06/topguest-on-your-smartphone.html"/>
+        
+        <updated>2011-06-16T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/06/topguest-on-your-smartphone</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/topguest-mobile.jpg"></img>
+          
+          <p>I’ve been working on a mobile optimized version of Topguest and it went live today. Visit <a href="http://topguest.com">topguest.com</a> on your smartphone to take a look.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Facebook Analog Research Laboratory </title>

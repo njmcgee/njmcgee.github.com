@@ -1,0 +1,8 @@
+---
+layout: post
+title: Topguest on your smartphone
+image-path: /images/posts/topguest-mobile.jpg
+summary-only: yes
+---
+
+I’ve been working on a mobile optimized version of Topguest and it went live today. Visit "topguest.com":http://topguest.com on your smartphone to take a look. 

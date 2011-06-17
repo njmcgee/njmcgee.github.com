@@ -4,7 +4,11 @@ layout: default
 <article id="post">
   <span class="date grid_3 alpha">{{ page.date | date: "%d %B %Y" }}</span> 
   <h1 class="grid_14 omega">
-    {{ page.title }}
+    {% if page.external %}
+      <a href="{{ page.external }}">{{ page.title }} <span class="external">&#x219D;</span></a>
+    {% else %}
+      {{ page.title }}           
+    {% endif %}    
   </h1>
   {% if page.image-path %}
     <img src="{{ page.image-path }}"/ >

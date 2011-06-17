@@ -1,0 +1,12 @@
+---
+layout: post
+title: Project Spartan - Facebook’s Hush-Hush Plan To Take On Apple On Their Own Turf
+summary-only: yes
+external: http://techcrunch.com/2011/06/15/facebook-project-spartan/
+---
+
+I’m not sure I buy into this ‘build in the browser to fuck with Apple’ idea. "Steve Jobs evangelizes HTML5 and standards-based development":http://www.apple.com/hotnews/thoughts-on-flash/ and Apple backs this up by building the the best available mobile browser (which is probably the exact reason Facebook are working with it). 
+
+Let’s say Facebook succeeds with “Project Spartan” and becomes a distribution centre for browser based applications. I doubt Apple would be upset by Facebook (a company with unrivaled reach) showcasing the capabilities of Apple’s mobile products. I also doubt that people will stop developing native Apple applications.
+
+If this is a war, it requires Apple to be against the evolution of browser-based application development. I don’t think they are. I think the quality of their browsers is evidence enough for now.

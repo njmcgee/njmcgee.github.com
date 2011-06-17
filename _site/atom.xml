@@ -3,7 +3,7 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-06-16T16:34:03-07:00</updated>
+    <updated>2011-06-16T18:18:17-07:00</updated>
     <id>http://njmcgee.com/</id>
     
     
@@ -20,6 +20,27 @@
            <img src="http://njmcgee.com/images/posts/topguest-mobile.jpg"></img>
           
           <p>I’ve been working on a mobile optimized version of Topguest and it went live today. Visit <a href="http://topguest.com">topguest.com</a> on your smartphone to take a look.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
+    
+    <entry>
+        <title>Project Spartan - Facebook’s Hush-Hush Plan To Take On Apple On Their Own Turf &#x219D;</title>
+        
+        
+        <link href="http://techcrunch.com/2011/06/15/facebook-project-spartan/"/>
+        
+        <updated>2011-06-16T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/06/project-spartan</id>
+        <content type="html">
+          
+          <p>I’m not sure I buy into this ‘build in the browser to fuck with Apple’ idea. <a href="http://www.apple.com/hotnews/thoughts-on-flash/">Steve Jobs evangelizes HTML5 and standards-based development</a> and Apple backs this up by building the the best available mobile browser (which is probably the exact reason Facebook are working with it).</p>
+<p>Let’s say Facebook succeeds with “Project Spartan” and becomes a distribution centre for browser based applications. I doubt Apple would be upset by Facebook (a company with unrivaled reach) showcasing the capabilities of Apple’s mobile products. I also doubt that people will stop developing native Apple applications.</p>
+<p>If this is a war, it requires Apple to be against the evolution of browser-based application development. I don’t think they are. I think the quality of their browsers is evidence enough for now.</p>
           
         </content>
         <author>

@@ -29,7 +29,7 @@ $.fn.myFixture = function (settings) {
       // get no of pixels hidden above the the window     
       var scrollTop = $(window).scrollTop();    
         // get elements distance from top of window
-        , topBuffer = (settings.topBoundary || 0) - scrollTop);
+        , topBuffer = ((settings.topBoundary || 0) - scrollTop);
       // update position if required
       if (topBuffer >= 0) { elem.css('top', topBuffer); }      
     };

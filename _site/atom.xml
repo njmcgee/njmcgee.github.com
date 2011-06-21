@@ -3,7 +3,7 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-06-20T17:03:08-07:00</updated>
+    <updated>2011-06-20T17:04:13-07:00</updated>
     <id>http://njmcgee.com/</id>
     
     
@@ -128,8 +128,8 @@
       <span class="c1">// get elements distance from top of window</span>
       <span class="kd">var</span> <span class="nx">topBuffer</span> <span class="o">=</span> <span class="p">((</span><span class="nx">settings</span><span class="p">.</span><span class="nx">topBoundary</span> <span class="o">||</span> <span class="mi">0</span><span class="p">)</span> <span class="o">-</span> <span class="nx">scrollTop</span><span class="p">);</span>
       <span class="c1">// update position if required</span>
-      <span class="k">if</span> <span class="p">(</span><span class="nx">topBuffer</span> <span class="o">&gt;=</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span> <span class="nx">top</span> <span class="o">+=</span> <span class="nx">topBuffer</span> <span class="p">}</span>     
-			<span class="nx">elem</span><span class="p">.</span><span class="nx">css</span><span class="p">(</span><span class="s1">&#39;top&#39;</span><span class="p">,</span> <span class="nx">top</span><span class="p">);</span>      
+      <span class="k">if</span> <span class="p">(</span><span class="nx">topBuffer</span> <span class="o">&gt;=</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span> <span class="nx">top</span> <span class="o">+=</span> <span class="nx">topBuffer</span> <span class="p">}</span>
+      <span class="nx">elem</span><span class="p">.</span><span class="nx">css</span><span class="p">(</span><span class="s1">&#39;top&#39;</span><span class="p">,</span> <span class="nx">top</span><span class="p">);</span>      
     <span class="p">};</span>
         
     <span class="nx">$</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">bind</span><span class="p">(</span><span class="s1">&#39;scroll&#39;</span><span class="p">,</span> <span class="nx">setPosition</span><span class="p">);</span>

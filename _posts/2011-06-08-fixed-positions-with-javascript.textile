@@ -32,8 +32,8 @@ $.fn.myFixture = function (settings) {
       // get elements distance from top of window
       var topBuffer = ((settings.topBoundary || 0) - scrollTop);
       // update position if required
-      if (topBuffer >= 0) { top += topBuffer }     
-			elem.css('top', top);      
+      if (topBuffer >= 0) { top += topBuffer }
+      elem.css('top', top);      
     };
         
     $(window).bind('scroll', setPosition);

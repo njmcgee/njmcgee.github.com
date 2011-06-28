@@ -85,6 +85,12 @@ pre, code, kbd, samp {
 code.default-size {
 	font-size: 13px;
 }
+code.inline {
+	font-size: 12px;
+	background: #EEEEEE;
+	border-bottom: 1px solid #CECECE;
+	padding: 2px;
+}
 
 header {
 	width: 862px;

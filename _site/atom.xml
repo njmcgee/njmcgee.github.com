@@ -3,7 +3,7 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-06-28T14:15:17-07:00</updated>
+    <updated>2011-06-28T14:32:28-07:00</updated>
     <id>http://njmcgee.com/</id>
     
     
@@ -18,6 +18,25 @@
         <content type="html">
           
           <p>(via <a href="http://kottke.org/11/06/slo-mo-cymbal-strike">Kottke</a>)</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
+    
+    <entry>
+        <title>Native style momentum scrolling to arrive in iOS 5 &#x219D;</title>
+        
+        
+        <link href="http://johanbrook.com/browsers/native-momentum-scrolling-ios-5/"/>
+        
+        <updated>2011-06-28T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/06/native-style-momentum-scrolling-to-arrive-in-ios-5</id>
+        <content type="html">
+          
+          <p>It’s great news and more evidence that Apple are willing to lead the way in mobile browser development. <code class="inline">position: fixed</code> and <code class="inline">overflow: scroll</code> are also on their way with iOS 5, but let’s not get excited until Android catches up. Until these handsets enable position fixing and full overflow support we’ll have no choice but to continue to add JavaScript to fake these behaviors.</p>
           
         </content>
         <author>

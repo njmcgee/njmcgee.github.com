@@ -1,0 +1,8 @@
+---
+layout: post
+title: Native style momentum scrolling to arrive in iOS 5
+summary-only: yes
+external: http://johanbrook.com/browsers/native-momentum-scrolling-ios-5/
+---
+
+It’s great news and more evidence that Apple are willing to lead the way in mobile browser development. <code class="inline">position: fixed</code> and <code class="inline">overflow: scroll</code> are also on their way with iOS 5, but let’s not get excited until Android catches up. Until these handsets enable position fixing and full overflow support we’ll have no choice but to continue to add JavaScript to fake these behaviors.

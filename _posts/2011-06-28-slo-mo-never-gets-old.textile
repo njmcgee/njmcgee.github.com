@@ -1,0 +1,8 @@
+---
+layout: post
+title: Slow motion never gets old
+summary-only: yes
+youtube: http://www.youtube.com/embed/kpoanOlb3-w
+---
+
+(via "Kottke":http://kottke.org/11/06/slo-mo-cymbal-strike)

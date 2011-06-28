@@ -3,9 +3,28 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-06-20T17:04:13-07:00</updated>
+    <updated>2011-06-28T14:15:17-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Slow motion never gets old </title>
+        
+        
+        <link href="http://njmcgee.com/2011/06/slo-mo-never-gets-old.html"/>
+        
+        <updated>2011-06-28T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/06/slo-mo-never-gets-old</id>
+        <content type="html">
+          
+          <p>(via <a href="http://kottke.org/11/06/slo-mo-cymbal-strike">Kottke</a>)</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Topguest on your smartphone </title>

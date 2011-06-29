@@ -1,0 +1,43 @@
+---
+layout: post
+title: Recent reads
+summary: Syncing Instapaper and my Kindle has been one of the best moves I've made in a long time. I’m reading more of what I, more often. Here’s what I've been reading lately.
+---
+
+Syncing Instapaper and my Kindle has been one of the best moves I've made in a long time. I’m reading more of what I want to read, more often. Here’s what I've been reading lately.
+
+h2. "My Life as an Undocumented Immigrant":http://www.nytimes.com/2011/06/26/magazine/my-life-as-an-undocumented-immigrant.html?_r=2&pagewanted=all – Jose Antonio Vargas
+
+It’s unlikely you’ve missed this one, but if you have, it’s a great read. Jose Antonio Vargas, a well regarded journalist, uncovers himself as an illegal immigrant the US, and explains how he did it. 
+
+h2. "To hell with bad devices: Responsive web design and web standards":http://marcdrummond.com/web-standards/2011/06/20/hell-bad-devices-responsive-web-design-and-web-standards – Marc Drummond
+
+Marc Drummond against device specific design, urging us not to go to great lengths to support poor mobile browsers. IE6 haunted us for so long because we went to great lengths to support it. Let's not repeat the same mistakes.
+
+h2. "Epiphany of an Ocean Swimmer":http://changeobserver.designobserver.com/feature/epiphany-of-an-ocean-swimmer/27548/ – Barbara Flanagan 
+
+I’ve never owned (or even worn) a wet-suit. I’m convinced it’s time to try.
+
+h2. "New Apple HQ, 1957":http://observersroom.designobserver.com/alexandralange/post/new-apple-hq-1957/28018/ – Alexandra Lange
+
+Is Apple’s plan to build the perfect office building repeating corporate and architectural mistakes we’ve seen many times before? Is this a big missed opportunity for Cupertino?
+
+h2. "Overlooked Optimizations: Images":http://www.phpied.com/overlooked-optimizations-images/ – Stoyan Stefanov
+
+We fuss about code-based front-end optimization, but often neglect our biggest bandwidth hog.
+
+h2. "Post-Artifact Books and Publishing":http://craigmod.com/journal/post_artifact/ – Craig Mod
+
+Digital’s effect on how we produce, distribute and consume content, from one of the best thinkers in the space.
+
+h2. "On retail":http://www.cityofsound.com/blog/2011/06/on-retail.html – Dan Hill
+
+A brilliant look at the current (rather poor) state of retail in Australia, the innovators elsewhere, and potential futures. It touches distribution patterns, fabrication, local economies and localism etc.
+
+h2. "Developing Your Creative Practice: Tips from Brian Eno":http://the99percent.com/tips/7034/Developing-Your-Creative-Practice-Tips-from-Brian-Eno – Scott McDowell
+
+Exactly as the title says.
+
+h2. "Standard Deviations: Types and Families in Contemporary Design":http://observatory.designobserver.com/feature/standard-deviations-types-and-families-in-contemporary-design/26428/ – Paul Shaw
+
+An interesting critique on the typefaces MoMA selected to feature and add their collection.

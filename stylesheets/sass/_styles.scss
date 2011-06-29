@@ -179,6 +179,11 @@ footer {
 	h1 {
 		@include body-h1;
 	}
+	h2 {
+		font-size: 15px;
+		font-family: "ff-meta-serif-web-pro-1","ff-meta-serif-web-pro-2",serif;
+		margin-bottom: 3px;
+	}
 	img, #post-body, .summary, iframe {
 		margin-left: 120px;
 	}

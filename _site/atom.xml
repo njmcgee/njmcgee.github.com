@@ -3,9 +3,30 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-06-29T11:43:59-07:00</updated>
+    <updated>2011-06-29T15:50:17-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Oxford Writing and Style Guide no longer recommending the Oxford comma &#x219D;</title>
+        
+        
+        <link href="http://kottke.org/11/06/ditching-the-oxford-comma"/>
+        
+        <updated>2011-06-29T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/06/the-kottke-style-guide</id>
+        <content type="html">
+          
+          <p>Kottke on Oxford now recommending that internal documents ditch the serial/Oxford comma:</p>
+<blockquote>The kottke.org style guide still advocates the use of the Oxford comma, but take that with a grain of salt; I also misuse semicolons, use too many (often unnecessary) parentheses &#8212; not to mention m-dashes that are actually rendered as two n-dashes in old-school <span class="caps">ASCII</span> fashion &#8212; use too many commas, and place punctuation outside quotation marks, which many people find, in the words of Bill S. Preston Esq. and Ted &#8220;Theodore&#8221; Logan, &#8220;bogus&#8221;.</blockquote>
+<p>Funny stuff. If you get off on discussions about typographic structure and punctuation check out <a href="http://5by5.tv/talkshow/45">Episode #45 of the Talk Show</a> where Gruber and Benjamin discuss logical punctuation. I personally won’t defend Kottke’s use of “dumb quotes” but that’s maybe because pressing <code class="inline">alt + [</code> has become an ingrained behavior when writing a quotation.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Recent reads </title>

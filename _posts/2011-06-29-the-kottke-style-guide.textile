@@ -1,0 +1,12 @@
+---
+layout: post
+title: Oxford Writing and Style Guide no longer recommending the Oxford comma
+summary-only: yes
+external: http://kottke.org/11/06/ditching-the-oxford-comma
+---
+
+Kottke on Oxford now recommending that internal documents ditch the serial/Oxford comma:
+
+<blockquote>The kottke.org style guide still advocates the use of the Oxford comma, but take that with a grain of salt; I also misuse semicolons, use too many (often unnecessary) parentheses -- not to mention m-dashes that are actually rendered as two n-dashes in old-school ASCII fashion -- use too many commas, and place punctuation outside quotation marks, which many people find, in the words of Bill S. Preston Esq. and Ted "Theodore" Logan, "bogus".</blockquote>
+
+Funny stuff. If you get off on discussions about typographic structure and punctuation check out "Episode #45 of the Talk Show":http://5by5.tv/talkshow/45 where Gruber and Benjamin discuss logical punctuation. I personally won’t defend Kottke’s use of “dumb quotes” but that’s maybe because pressing <code class="inline">alt + [</code> has become an ingrained behavior when writing a quotation.

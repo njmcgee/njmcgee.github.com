@@ -26,6 +26,9 @@ title: Nathan McGinness
     {% endif %}
     {% if post.youtube %}
       <iframe width="550" height="452" src="{{ post.youtube }}" frameborder="0" allowfullscreen></iframe>
+    {% endif %}
+    {% if post.vimeo %}
+      <iframe src="{{ post.vimeo }}?title=0&amp;byline=0&amp;portrait=0&amp;color=0f314a" width="550" height="309" frameborder="0"></iframe>
     {% endif %}    
     {% if post.summary-only %}
         <div class="summary">

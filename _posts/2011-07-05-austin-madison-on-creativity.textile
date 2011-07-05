@@ -1,0 +1,9 @@
+---
+layout: post
+title: Austin Madison on creativity
+image-path: /images/posts/letter01.jpg
+---
+
+<img src="/images/posts/letter02.jpg" style="margin-left: 0;" />
+
+Via "Letters of Note":http://www.lettersofnote.com/2011/07/persist.html.

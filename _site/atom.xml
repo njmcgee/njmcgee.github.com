@@ -3,9 +3,30 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-07-06T15:33:46-07:00</updated>
+    <updated>2011-07-06T15:50:33-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Ridiculous Pool Paint Attack </title>
+        
+        
+        <link href="http://njmcgee.com/2011/07/skate-paint.html"/>
+        
+        <updated>2011-07-06T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/07/skate-paint</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/skate-paint.jpg"></img>
+          
+          <p>Always love these sort of generative processes brought into the physical. Complete with paint, real mess, even stacks and grinds. Check out the <a href="http://www.youtube.com/watch?v=ScW5kWzSaSI&amp;feature=player_embedded#at=25">making-of video</a>. (via <a href="http://thisiscolossal.com/2011/07/the-ridiculous-pool-spraypaint-skateboarding/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+colossal+%28Colossal%29">Colossal</a>)</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Lego Architecture - Falling Water &#x219D;</title>

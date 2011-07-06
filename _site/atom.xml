@@ -3,9 +3,30 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-07-05T13:22:38-07:00</updated>
+    <updated>2011-07-06T15:33:46-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Lego Architecture - Falling Water &#x219D;</title>
+        
+        
+        <link href="http://architecture.lego.com/en-us/Products/architect/21005%20-%20Fallingwater.aspx"/>
+        
+        <updated>2011-07-06T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/07/falling-waters-lego</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/fallingwater.jpg"></img>
+          
+          <p>I want. <a href="http://architecture.lego.com/en-us/Products/architect/21004%20-%20Guggenheim.aspx">The Guggenheim Museum</a>, <a href="http://architecture.lego.com/en-us/Products/Architect/21008%20-%20Burj%20Khalifa.aspx">Burj Khalifa</a> and <a href="http://architecture.lego.com/en-us/Products/Architect/21009%20-%20Farnsworth%20House.aspx">The Farnsworth House</a> also available.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Austin Madison on creativity </title>

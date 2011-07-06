@@ -1,0 +1,9 @@
+---
+layout: post
+title: Lego Architecture - Falling Water
+summary-only: yes
+external: http://architecture.lego.com/en-us/Products/architect/21005%20-%20Fallingwater.aspx
+image-path: /images/posts/fallingwater.jpg
+---
+
+I want. "The Guggenheim Museum":http://architecture.lego.com/en-us/Products/architect/21004%20-%20Guggenheim.aspx, "Burj Khalifa":http://architecture.lego.com/en-us/Products/Architect/21008%20-%20Burj%20Khalifa.aspx and "The Farnsworth House":http://architecture.lego.com/en-us/Products/Architect/21009%20-%20Farnsworth%20House.aspx also available.  

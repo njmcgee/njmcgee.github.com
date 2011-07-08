@@ -1,0 +1,9 @@
+---
+layout: post
+title: The Illuminated Mixtapes
+summary-only: yes
+external: http://gigawattdesign.com/tunes/index.html
+image-path: /images/posts/mixtape.jpg
+---
+
+"Adam Parks":http://gigawattdesign.com/tunes/index.html has put together 20 wonderful mixtapes, illustrating a cover for each. 

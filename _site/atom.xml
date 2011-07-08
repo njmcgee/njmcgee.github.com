@@ -3,9 +3,30 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-07-07T13:34:08-07:00</updated>
+    <updated>2011-07-08T12:34:24-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>The Illuminated Mixtapes &#x219D;</title>
+        
+        
+        <link href="http://gigawattdesign.com/tunes/index.html"/>
+        
+        <updated>2011-07-07T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/07/illuminated-mixtapes</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/mixtape.jpg"></img>
+          
+          <p><a href="http://gigawattdesign.com/tunes/index.html">Adam Parks</a> has put together 20 wonderful mixtapes, illustrating a cover for each.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Ridiculous Pool Paint Attack </title>

@@ -3,9 +3,30 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-07-08T12:34:24-07:00</updated>
+    <updated>2011-07-08T12:41:20-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>DesignersMX &#x219D;</title>
+        
+        
+        <link href="http://designers.mx/"/>
+        
+        <updated>2011-07-07T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/07/more-mixtapes</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/more-mixtapes.jpg"></img>
+          
+          <p>More mixtapes! <a href="http://designers.mx/">DesignersMX</a> invites designers to submit a mix and design an accompanying cover. Listening to <a href="http://designers.mx/patterns_process/">Patterns and Process</a> at the moment, purely because I liked the cover. Good mix though.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>The Illuminated Mixtapes &#x219D;</title>
@@ -19,7 +40,7 @@
           
            <img src="http://njmcgee.com/images/posts/mixtape.jpg"></img>
           
-          <p><a href="http://gigawattdesign.com/tunes/index.html">Adam Parks</a> has put together 20 wonderful mixtapes, illustrating a cover for each.</p>
+          <p><a href="http://gigawattdesign.com/tunes/index.html">Adam Parks</a> has put together 20 wonderful mixtapes, illustrating a cover for each. (via <a href="http://www.subtraction.com/2011/07/07/the-illuminated-mixtapes?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+subtraction+Subtraction">Subtraction</a>)</p>
           
         </content>
         <author>

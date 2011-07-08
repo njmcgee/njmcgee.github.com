@@ -6,4 +6,4 @@ external: http://gigawattdesign.com/tunes/index.html
 image-path: /images/posts/mixtape.jpg
 ---
 
-"Adam Parks":http://gigawattdesign.com/tunes/index.html has put together 20 wonderful mixtapes, illustrating a cover for each. 
+"Adam Parks":http://gigawattdesign.com/tunes/index.html has put together 20 wonderful mixtapes, illustrating a cover for each. (via "Subtraction":http://www.subtraction.com/2011/07/07/the-illuminated-mixtapes?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+subtraction+Subtraction)

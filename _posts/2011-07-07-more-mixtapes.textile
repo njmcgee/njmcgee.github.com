@@ -1,0 +1,9 @@
+---
+layout: post
+title: DesignersMX
+summary-only: yes
+external: http://designers.mx/
+image-path: /images/posts/more-mixtapes.jpg
+---
+
+More mixtapes! "DesignersMX":http://designers.mx/ invites designers to submit a mix and design an accompanying cover. Listening to "Patterns and Process":http://designers.mx/patterns_process/ at the moment, purely because I liked the cover. Good mix though. 

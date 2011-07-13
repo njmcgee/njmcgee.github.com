@@ -1,0 +1,22 @@
+---
+layout: post
+title: Boom or bubble?
+summary-only: yes
+external: /images/big-boom.jpg
+image-path: /images/posts/big-boom-small.jpg
+---
+
+Impressive infographics comparing recent data to that of the the late 90’s. Some of the more interesting pieces of data:
+
+* Venture investment peaked in the 1st quarter of 2000 at $27 billion
+* Current investment looks to be around the $6 billion mark
+
+* A total of 619 tech IPOs in 1998, 1999 and 2000.
+* A total of 84 tech IPOs in 2009, 2010 and 2011.
+
+* The current number of active Facebook users is equal to the number of total internet users in 2002.
+* The current number of iPhone owners is equal to the number of total internet users in 1997.
+
+* Current revenue multipliers look quite high. Facebook at 37.5x ($75 billion valuation at $2 billion revenue), Zynga at 40x ($10 billion valuation at $850 million revenue), Twitter at 55x ($8.5 billion valuation at $150 million revenue).
+
+Designed by "Kissmetrics":http://www.kissmetrics.com/.

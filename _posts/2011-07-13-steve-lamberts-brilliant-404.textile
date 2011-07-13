@@ -1,0 +1,8 @@
+---
+layout: post
+title: Steve Lambert’s brilliant & awkward 404 page.
+summary-only: yes
+external: http://visitsteve.com/404.html
+---
+
+The awkwardness, ambiguity and near uselessness of the 404 page.

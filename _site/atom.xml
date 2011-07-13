@@ -3,7 +3,7 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-07-13T11:58:02-07:00</updated>
+    <updated>2011-07-13T13:32:48-07:00</updated>
     <id>http://njmcgee.com/</id>
     
     
@@ -18,6 +18,26 @@
         <content type="html">
           
           <p>The awkwardness, ambiguity and near uselessness of the 404 page.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
+    
+    <entry>
+        <title>Bad design? </title>
+        
+        
+        <link href="http://njmcgee.com/2011/07/design.html"/>
+        
+        <updated>2011-07-13T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/07/design</id>
+        <content type="html">
+          
+          <p>I couldn’t believe my eyes. Who designed this evil (but kinda fun looking) death trap?</p>
+<p><a href="http://www.quora.com/Design/What-is-the-worst-piece-of-design-ever-done">What is the worst piece of design ever done?</a> on <a href="http://www.quora.com">Quora</a>.</p>
           
         </content>
         <author>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Lambert’s brilliant & awkward 404 page.
+title: Steve Lambert’s brilliant & awkward 404 page
 summary-only: yes
 external: http://visitsteve.com/404.html
 ---

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Peoplemovin - Migration flows across the world
+summary-only: yes
+external: http://www.peoplemov.in/
+image-path: /images/migrants.jpg
+---
+
+People Movin by Carlo Zapponi is an interactive graph that displays migration patterns. It’s simple, but incredibly rich and impressively built with Canvas/HTML5.

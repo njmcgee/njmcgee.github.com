@@ -3,9 +3,30 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-07-13T15:32:16-07:00</updated>
+    <updated>2011-07-14T19:30:06-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Peoplemovin - Migration flows across the world &#x219D;</title>
+        
+        
+        <link href="http://www.peoplemov.in/"/>
+        
+        <updated>2011-07-14T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/07/peoplemovin-migration-flows</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/migrants.jpg"></img>
+          
+          <p>People Movin by Carlo Zapponi is an interactive graph that displays migration patterns. It’s simple, but incredibly rich and impressively built with Canvas/HTML5.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Steve Lambert’s brilliant &amp; awkward 404 page &#x219D;</title>

@@ -1,0 +1,15 @@
+---
+layout: post
+title: Dear Graphic and Web Designers, please understand that there are greater opportunities available to you.
+summary-only: yes
+external: http://pieratt.tumblr.com/post/7537191978/dear-graphic-and-web-designers-please-understand-that
+---
+<div class="clear"></div>
+<blockquote>
+Your press checks are bullshit
+Your personal logo is bullshit
+Your employer is bullshit
+Your studio is bullshit
+</blockquote>
+
+A bold article by "Ben Pieratt":http://pieratt.com/ from "Svpply":http://svpply.com on why designers might want to reconsider their careers.

@@ -5,13 +5,18 @@ title: Nathan McGinness
 
 {% for post in site.posts %}
   <section class="post-home">
-    <span class="date grid_3 alpha">{{ post.date | date: "%d %B %Y" }}</span> 
+    <span class="date grid_3 alpha">
+      {{ post.date | date: "%d %B %Y" }}
+      {% if post.external %}
+        <a class="permalink" href="{{ post.url }}">Permalink</a>
+      {% endif %}
+    </span> 
     <h1 class="grid_14 omega">
       {% if post.summary-only %}
         {% if post.external %}
           <a href="{{ post.external }}">{{ post.title }} <span class="external">&#x219D;</span></a>
         {% else %}
-          {{ post.title }}           
+          <a href="{{ post.url }}">{{ post.title }}</a>           
         {% endif %}
       {% else %}
          <a href="{{ post.url }}">{{ post.title }}</a>
@@ -33,11 +38,10 @@ title: Nathan McGinness
     {% if post.summary-only %}
         <div class="summary">
         {{ post.content }}
-        </div>
+        </div>        
     {% else %}
        <p class="post-summary grid_14 prefix_3 alpha omega">{{ post.summary }}</p>
-    {% endif %}
-    
+    {% endif %}    
     <div class="clear"></div>
   </section>
 {% endfor %}

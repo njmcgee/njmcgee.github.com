@@ -38,7 +38,7 @@ Exactly as the title says.
 
 h2. "Hierarchies Kill":http://regardingwork.com/2011/07/17/hierarchies-kill/ – Ash Fontana
 
-Advice for keeping your company “flat” ("as written about":http://www.inc.com/magazine/20110401/jason-fried-why-i-run-a-flat-company.html by Jason Fried’s of "37signals":http://37signals.com/). For further reading see "You weren’t meant to have a boss":http://www.paulgraham.com/boss.html by "Paul Graham":http://www.paulgraham.com/index.html.
+Advice for keeping your company “flat” ("as written about":http://www.inc.com/magazine/20110401/jason-fried-why-i-run-a-flat-company.html by Jason Fried of "37signals":http://37signals.com/). For further reading see "You weren’t meant to have a boss":http://www.paulgraham.com/boss.html by "Paul Graham":http://www.paulgraham.com/index.html.
 
 h2. "A Walk in the Woods With Mark Zuckerberg":http://bits.blogs.nytimes.com/2011/07/07/a-walk-in-the-woods-with-mark-zuckerberg/ – Nick Bilton
 

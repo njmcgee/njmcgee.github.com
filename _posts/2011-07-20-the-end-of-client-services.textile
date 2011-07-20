@@ -1,0 +1,16 @@
+---
+layout: post
+title: The End of Client Services
+summary-only: yes
+external: http://www.subtraction.com/2011/07/20/the-end-of-client-services
+---
+<div class="clear"></div>
+<blockquote>
+Basically, I came to the conclusion that if I wanted to design great user experiences then that old model of being a design contractor or a studio or an agency would not work. Instead, it’s necessary to be a part of the company that owns the product, to be in a position where I can continually work on and improve the product without the artificial constraints of a services contract.
+</blockquote>
+
+"Khoi Vinh":http://www.subtraction.com/about, the author of popular design blog "Subtraction":http://www.subtraction.com, previous Design Director for the NY Times, and previous founder of a design studio reflects on his recent decision to start his own company (more info on that is said to be coming soon).
+
+Anyone who has worked in a digital studio will empathize with Vinh’s story. A team puts great work into the first iteration of a product only to see the money dry up, the contract end, and a product neglected when it most needs love  - after real users get their hands on it!
+
+Well written piece, and a nice (perhaps a little more considered) follow-up to "Ben Pieratt's recent article":http://pieratt.tumblr.com/post/7537191978/dear-graphic-and-web-designers-please-understand-that.

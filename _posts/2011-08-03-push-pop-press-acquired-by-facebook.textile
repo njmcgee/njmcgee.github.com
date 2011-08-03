@@ -1,0 +1,14 @@
+---
+layout: post
+title: Push Pop Press acquired by Facebook
+summary-only: yes
+external: http://pushpoppress.com/about/
+---
+<div class="clear"></div>
+<blockquote>
+Now we're taking our publishing technology and everything we've learned and are setting off to help design the world's largest book, Facebook. 
+</blockquote>
+
+Facebook continue to build what might become an unrivaled web design team (see "here":http://www.madebysofa.com/blog/facebook-acquires-sofa/ and "here":http://daytum.wordpress.com/2011/04/27/moving-west/) and "facility":http://localhost:4000/2011/06/facebook-analog-research.html.
+
+Great for the hundreds of of millions of Facebook users (and any future Facebook iPad offerings), although it’s a little sad we won’t get to see Push Pop improve on their brilliant work thus far.

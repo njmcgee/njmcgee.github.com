@@ -1,0 +1,9 @@
+---
+layout: post
+title: Lucas Simões
+summary-only: yes
+external: http://www.flickr.com/photos/lucsa/
+image-path: /images/posts/lucas-simoes.jpg
+---
+
+São Paulo based architect and artist Lucas Simões produces portraits by making cuts in layered photographs. (via "Quipsologies":http://thisiscolossal.com/2011/08/new-work-from-lucas-simoes/)

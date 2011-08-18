@@ -1,0 +1,37 @@
+---
+layout: post
+title: Recent reads 3
+summary: Recent articles I’ve been enjoying on my Kindle. Articles on Github’s operations strategies, tax-rates for the rich, the ‘like’ button, decision making, conferences in the 21st century, Breaking Bad, the state of online news and the advertising agency model in digital design.
+---
+
+h2. "How GitHub Works":http://zachholman.com/posts/how-github-works/ – Zach Holman
+
+A developer at Github gets straight to the point with quotes like, “Hours are Bullshit”, and “Meetings are fucking toxic”. 
+
+h2. "Stop Coddling the Super-Rich":http://www.nytimes.com/2011/08/15/opinion/stop-coddling-the-super-rich.html?_r=3&src=tp&smid=fb-share&pagewanted=all – Warren E. Buffett
+
+Now here’s some perspective. Buffett publicly declares how much income tax he paid last year ($6,938,744, 17.4% of his taxable income) and explains why it’s not enough.
+
+h2. "The Man Who Got Us to 'Like' Everything":http://online.wsj.com/article/SB10001424053111904007304576499220914732798.html?mod=wsj_share_tweet – Geoffrey Fowler
+
+An interview with Soleio Cuervo, the man behind the ubiquitous thumbs-up icon (now on 2.5 million other sites). My favorite quote:<blockquote>If a design—even one that took months to create—isn't working, Facebook CEO Mark Zuckerberg will toss it out entirely. "It is nerve-wracking for new designers," said Mr. Cuervo. "I think of the stuff we do [as being] like building sand castles."</blockquote>
+
+h2. "The Fine Line Between Fear and Courage":http://bhorowitz.com/2011/08/08/the-fine-line-between-fear-and-courage/ – Ben Horowitz
+
+On the difference between the hard correct decision and the easy wrong decision. 
+
+h2. "The Creator Of TED Aims To Reinvent Conferences Once Again":http://www.fastcodesign.com/1664704/the-creator-of-ted-aims-to-reinvent-conferences-once-again – Warren Berger
+
+Richard Saul Wurman the original founder of "TED":http://www.ted.com/ has a new formula for the 21st century conference. Ignore the wankery (like “intellectual jazz”) and it might have some promise.
+
+h2. "Bad Decisions":http://www.grantland.com/story/_/id/6763000/bad-decisions – Chuck Klosterman
+
+Klosterman argues that Breaking Bad is superior to Mad Men, The Sopranos, and The Wire. A well considered piece about the only TV shows worth talking about.
+
+h2. "Journalism":http://andyrutledge.com/journalism.php – Andy Rutledge
+
+Rutledge’s "redesign of the NY Times website":http://andyrutledge.com/news-redux.php caused quite a stir. Unfortunately it seems many of his critics failed to read the article. They not only missed his main point, that digital news is broken, but failed to even critique the design itself. Khoi Vinh (previous design director at the NY Times) "gives a fairly balanced reply":http://www.subtraction.com/2011/07/28/unsolicited-redesigns but it’s disappointing that it turned into a discussion about unsolicited redesigns rather than how we can improve online news, which I’d agree needs a thorough re-think.
+
+h2. "In Defense of Client Services":http://www.subtraction.com/2011/08/17/in-defense-of-client-services – Khoi Vinh
+
+Vinh takes a small step back after declaring "The End of Client Servies":http://www.subtraction.com/2011/07/20/the-end-of-client-services. No arguments, companies will continue to need hired guns (design expertise) but the digital agency that continues to use an almost completely irrelevant advertising agency model does so at their own peril.

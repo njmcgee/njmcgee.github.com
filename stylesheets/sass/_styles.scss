@@ -31,6 +31,7 @@ body {
 	font-size: 15px;
 	line-height: 23px;
 	color: $text-color;
+	background: url(/images/body-bg.png) repeat;
 }
 h1, h2, h3, h4, h5, h6 {	
 	@include proxima-bold;	
@@ -47,6 +48,10 @@ em {
 }
 a:hover {
 	color: $hover-color;
+}
+.external-link {
+	background: $link-color;
+	color: white !important;
 }
 .external {
 	color: $hover-color;

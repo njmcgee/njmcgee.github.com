@@ -96,11 +96,12 @@ code.inline {
 }
 
 header {
-	width: 860px;
+	width: 858px;
 	background: $link-color url(/images/header-bg.png) repeat;
 	float: right;
 	@include box-shadow;
-	border-bottom: 2px solid rgba(0,0,0,0.2);
+	border-bottom: 2px solid rgba(0,0,0,0.1);
+	border-left: 2px solid rgba(0,0,0,0.1);
 	h1 {
 		font-size: 30px;
 		line-height: 32px;
@@ -190,10 +191,11 @@ footer {
 		margin-bottom: 3px;
 	}
 	img, #post-body, .summary, iframe {
-		margin-left: 120px;
+		margin-left: 120px;		
 	}
 	img, iframe {
 		margin-bottom: 10px;
+		@include box-shadow;
 	}
 }
 
@@ -208,6 +210,11 @@ section.work {
 	}
 }
 
+img.no-shadow {
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
 
 /* comments */
 

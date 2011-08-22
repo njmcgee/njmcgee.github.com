@@ -3,6 +3,7 @@ layout: post
 title: A new Topguest
 summary: You might have noticed things changing at Topguest. A new design, some subtle but important changes to the application, and we’ve just launched the beginnings of a new mobile web experience. 
 image-path: /images/topguest-devices.jpg
+no-shadow: no-shadow
 ---
 
 You might have noticed that things are changing at Topguest. A new design, some subtle but important changes to the application, and we’ve just launched the beginnings of a new mobile web experience. 

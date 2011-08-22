@@ -2,6 +2,7 @@
 layout: post
 title: Topguest on your smartphone
 image-path: /images/posts/topguest-mobile.jpg
+no-shadow: no-shadow
 summary-only: yes
 ---
 

@@ -24,9 +24,9 @@ title: Nathan McGinness
     </h1>
     {% if post.image-path %}
       {% if post.external %}
-        <a href="{{ post.external }}"><img src="{{ post.image-path }}"/ ></a>
+        <a href="{{ post.external }}"><img class="{{ post.no-shadow }}" src="{{ post.image-path }}"/ ></a>
       {% else %}
-        <a href="{{ post.url }}"><img src="{{ post.image-path }}"/ ></a>
+        <a href="{{ post.url }}"><img class="{{ post.no-shadow }}" src="{{ post.image-path }}"/ ></a>
       {% endif %}       
     {% endif %}
     {% if post.youtube %}

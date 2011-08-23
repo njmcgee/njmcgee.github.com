@@ -223,6 +223,11 @@ img.no-shadow {
 	margin-top: 40px;
 	overflow: hidden;
 	border-top: 1px solid #C1C1C1;
+	iframe {
+		-webkit-box-shadow: none;
+		-moz-box-shadow: none;
+		box-shadow: none;
+	}
 }
 .dsq-textarea-reply {
 	margin-left: 0 !important;

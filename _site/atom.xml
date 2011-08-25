@@ -3,9 +3,28 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-08-24T16:43:19-07:00</updated>
+    <updated>2011-08-24T17:00:38-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Actelion Imagery Wizard &#x219D;</title>
+        
+        
+        <link href="http://www.onformative.com/work/actelion-imagery-wizard/"/>
+        
+        <updated>2011-08-24T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/08/onformative-generative-branding</id>
+        <content type="html">
+          
+          <p><a href="http://www.onformative.com/">Onformative</a>, a Berlin based generative design studio (in their own words) use <a href="http://processing.org">Processing</a> to build an damn slick image generation tool as part of a comprehensive branding job.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Faraway &#x219D;</title>

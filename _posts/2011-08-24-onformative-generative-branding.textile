@@ -1,0 +1,9 @@
+---
+layout: post
+title: Actelion Imagery Wizard
+summary-only: yes
+vimeo: http://player.vimeo.com/video/27327134
+external: http://www.onformative.com/work/actelion-imagery-wizard/
+---
+
+"Onformative":http://www.onformative.com/, a Berlin based generative design studio (in their own words) use "Processing":http://processing.org to build an damn slick image generation tool as part of a comprehensive branding job.

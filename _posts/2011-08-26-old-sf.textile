@@ -1,0 +1,9 @@
+---
+layout: post
+title: Old S.F.
+summary-only: yes
+external: http://www.oldsf.org/
+image-path: /images/posts/library.png
+---
+
+"Old SF":http://www.oldsf.org/ is an amazing location-based collection of archived photos around San Francisco. "ISO50 found these great photos of the Marina Branch Library.":http://blog.iso50.com/25262/marina-branch-library-x-old-sf/

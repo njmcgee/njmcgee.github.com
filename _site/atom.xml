@@ -3,9 +3,30 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-08-26T14:39:51-07:00</updated>
+    <updated>2011-08-26T15:00:56-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Old S.F. &#x219D;</title>
+        
+        
+        <link href="http://www.oldsf.org/"/>
+        
+        <updated>2011-08-26T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/08/old-sf</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/library.png"></img>
+          
+          <p><a href="http://www.oldsf.org/">Old SF</a> is an amazing location-based collection of archived photos around San Francisco. <a href="http://blog.iso50.com/25262/marina-branch-library-x-old-sf/">ISO50 found these great photos of the Marina Branch Library.</a></p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Ease up on the all-caps &#x219D;</title>

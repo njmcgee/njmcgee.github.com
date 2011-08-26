@@ -3,9 +3,30 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-08-24T17:00:38-07:00</updated>
+    <updated>2011-08-26T14:39:51-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Ease up on the all-caps &#x219D;</title>
+        
+        
+        <link href="http://littlebigdetails.com/post/9417762507/getsatisfaction-gives-instant-feedback-when"/>
+        
+        <updated>2011-08-26T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/08/ease-up-on-the-all-caps</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/getsatisfaction.png"></img>
+          
+          <p>Thoughtful, fun design. <a href="http://littlebigdetails.com/">Little Big Details</a> is great.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Actelion Imagery Wizard &#x219D;</title>

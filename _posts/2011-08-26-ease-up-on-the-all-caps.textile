@@ -1,0 +1,9 @@
+---
+layout: post
+title: Ease up on the all-caps
+summary-only: yes
+external: http://littlebigdetails.com/post/9417762507/getsatisfaction-gives-instant-feedback-when
+image-path: /images/posts/getsatisfaction.png
+---
+
+Thoughtful, fun design. "Little Big Details":http://littlebigdetails.com/ is great.

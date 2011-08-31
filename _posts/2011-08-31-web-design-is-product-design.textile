@@ -1,0 +1,10 @@
+---
+layout: post
+title: Web Design is Product Design
+summary-only: yes
+external: http://andyrutledge.com/web-design-is-product-design.php
+---
+<div class="clear"></div>
+<blockquote>
+Debate is usually an indication of intelligent human pursuit. But not always. One issue for design students—this no-brainer, simplest of issues—has ever been kept alive within the inane realm of debate since it first arose. As such, it is an unflattering indictment on those who contest the simple fact that a web designer must craft markup and css.
+</blockquote>

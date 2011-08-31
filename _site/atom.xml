@@ -3,9 +3,31 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-08-26T15:00:56-07:00</updated>
+    <updated>2011-08-31T12:29:20-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Web Design is Product Design &#x219D;</title>
+        
+        
+        <link href="http://andyrutledge.com/web-design-is-product-design.php"/>
+        
+        <updated>2011-08-31T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/08/web-design-is-product-design</id>
+        <content type="html">
+          
+          <div class="clear"></div>
+<blockquote>
+<p>Debate is usually an indication of intelligent human pursuit. But not always. One issue for design students—this no-brainer, simplest of issues—has ever been kept alive within the inane realm of debate since it first arose. As such, it is an unflattering indictment on those who contest the simple fact that a web designer must craft markup and css.</p>
+</blockquote>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Old S.F. &#x219D;</title>

@@ -1,0 +1,9 @@
+---
+layout: post
+title: UXUI UXUI
+summary-only: yes
+external: http://uxuiuxui.tumblr.com/
+image-path: /images/posts/uxui.jpg
+---
+
+Good, bad and interesting. Get your daily dose of "UXUI UXUI":http://uxuiuxui.tumblr.com/. 

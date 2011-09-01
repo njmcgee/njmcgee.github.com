@@ -203,10 +203,13 @@ footer {
 section.work {
 	margin-bottom: 40px;	
 	&.multiple img {
-		margin-bottom: 30px;
+		margin-bottom: 20px;
 	}
 	img.shadow {
 		@include box-shadow;
+	}
+	img {
+		margin-bottom: 10px;
 	}
 }
 

@@ -4,12 +4,10 @@ title: Should designers code?
 summary-only: yes
 ---
 
-"Frank Chimero":http://blog.frankchimero.com/post/9594863189 and "Andy Rutledge":http://andyrutledge.com/web-design-is-product-design.php have both recently answered this question with a big fat <b>YES</b>. 
+"Frank Chimero":http://blog.frankchimero.com/post/9594863189 and "Andy Rutledge":http://andyrutledge.com/web-design-is-product-design.php recently answered this question with a big fat <b>YES</b>. 
 
-I completely agree. You don’t get to call yourself a web designer if you’re illiterate in HTML & CSS (let’s not get bogged down in whether this is ‘coding’ or not).
-
-The discussion seems to come around regularly and it’s surprising that there is actual resistance to this idea (see "Rutledge’s article":http://andyrutledge.com/web-design-is-product-design.php for a succinct rebuttal). 
+I completely agree. You don’t get to call yourself a web designer if you’re illiterate in HTML & CSS (let’s not get bogged down in whether this is ‘coding’ or not). The discussion seems to come around regularly and it’s amazing that there is actual resistance to this idea (see "Rutledge’s article":http://andyrutledge.com/web-design-is-product-design.php for a succinct rebuttal). 
 
 But why do people resist this idea? Do they think markup and CSS is hard? Set in their ways? Scared it might be a slippery slope into nerdom? 
 
-If you’re brilliant enough to design beautiful websites you’ve already spent years mastering typography, composition, content strategy, visual design techniques, and some very complex tools. Learning HTML & CSS is a piece of cake in comparison. You’ve got no excuse, you’re obviously smart enough and you’re lucky. With HTML5, CSS3, modern browsers, "Github":http://github.com, "SASS":http://sass-lang.com/ & "Compass":http://compass-style.org/ it’s not just easy – it’s fun.
+If you’re brilliant enough to design beautiful websites you’ve already spent years mastering typography, composition, content strategy, visual design techniques, and some very complex tools. Learning HTML & CSS is a piece of cake in comparison. You’ve got no excuse, you’re obviously smart enough and you’re lucky. With HTML5, CSS3, modern browsers, "Github":http://github.com, "SASS":http://sass-lang.com/ & "Compass":http://compass-style.org/ it’s not just easy – it’s fun. 

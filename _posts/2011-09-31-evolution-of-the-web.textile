@@ -1,9 +1,0 @@
----
-layout: post
-title: The evolution of the web
-summary-only: yes
-external: http://evolutionofweb.appspot.com/
-image-path: /images/posts/evolution.png
----
-
-Interactive visualization featuring screenshots of each major browser release.

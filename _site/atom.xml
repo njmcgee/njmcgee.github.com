@@ -3,9 +3,32 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-09-01T14:10:14-07:00</updated>
+    <updated>2011-09-02T12:07:31-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Should designers code? </title>
+        
+        
+        <link href="http://njmcgee.com/2011/09/should-designers-code.html"/>
+        
+        <updated>2011-09-02T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/09/should-designers-code</id>
+        <content type="html">
+          
+          <p><a href="http://blog.frankchimero.com/post/9594863189">Frank Chimero</a> and <a href="http://andyrutledge.com/web-design-is-product-design.php">Andy Rutledge</a> have both recently answered this question with a big fat <b><span class="caps">YES</span></b>.</p>
+<p>I completely agree. You don’t get to call yourself a web designer if you’re illiterate in <span class="caps">HTML</span> &amp; <span class="caps">CSS</span> (let’s not get bogged down in whether this is ‘coding’ or not).</p>
+<p>The discussion seems to come around regularly and it’s surprising that there is actual resistance to this idea (see <a href="http://andyrutledge.com/web-design-is-product-design.php">Rutledge’s article</a> for a succinct rebuttal).</p>
+<p>But why do people resist this idea? Do they think markup and <span class="caps">CSS</span> is hard? Set in their ways? Scared it might be a slippery slope into nerdom?</p>
+<p>If you’re brilliant enough to design beautiful websites you’ve already spent years mastering typography, composition, content strategy, visual design techniques, and some very complex tools. Learning <span class="caps">HTML</span> &amp; <span class="caps">CSS</span> is a piece of cake in comparison. You’ve got no excuse, you’re obviously smart enough and you’re lucky. With HTML5, CSS3, modern browsers, <a href="http://github.com">Github</a>, <a href="http://sass-lang.com/"><span class="caps">SASS</span></a> &amp; <a href="http://compass-style.org/">Compass</a> it’s not just easy – it’s fun.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>The evolution of the web &#x219D;</title>
@@ -13,8 +36,8 @@
         
         <link href="http://evolutionofweb.appspot.com/"/>
         
-        <updated>2011-10-01T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/10/evolution-of-the-web</id>
+        <updated>2011-09-01T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/09/evolution-of-the-web</id>
         <content type="html">
           
            <img src="http://njmcgee.com/images/posts/evolution.png"></img>

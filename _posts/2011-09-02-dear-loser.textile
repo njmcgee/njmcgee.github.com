@@ -1,0 +1,9 @@
+---
+layout: post
+title: Dear Loser
+summary-only: yes
+external: http://www.lettersofnote.com/2011/09/dear-loser.html
+image-path: /images/posts/dear-loser.jpg
+---
+
+via "Letters of Note":http://www.lettersofnote.com/2011/09/dear-loser.html.

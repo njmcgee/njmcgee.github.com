@@ -1,0 +1,12 @@
+---
+layout: post
+title: Facebook’s Design Strategy
+summary-only: yes
+external: http://designmind.frogdesign.com/articles/facebook-s-design-strategy-a-status-update.html
+---
+<div class="clear"></div>
+<blockquote>
+Design is such an influential part of Facebook’s strategy that Cox and 64 other members of the design staff occupy desks that form a U-shape around founder and CEO Mark Zuckerberg.
+</blockquote>
+
+Expands on some of my previous posts on Facebook's design strategy. The more I think about it, the more I wonder if Facebook’s business provides the scope for roughly 64 designers (many of whom are absolutely brilliant) to all be at their best?

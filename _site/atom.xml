@@ -3,9 +3,32 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-09-02T16:16:00-07:00</updated>
+    <updated>2011-09-06T13:24:09-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Facebook’s Design Strategy &#x219D;</title>
+        
+        
+        <link href="http://designmind.frogdesign.com/articles/facebook-s-design-strategy-a-status-update.html"/>
+        
+        <updated>2011-09-06T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/09/facebooks-design-strategy</id>
+        <content type="html">
+          
+          <div class="clear"></div>
+<blockquote>
+<p>Design is such an influential part of Facebook’s strategy that Cox and 64 other members of the design staff occupy desks that form a U-shape around founder and <span class="caps">CEO</span> Mark Zuckerberg.</p>
+</blockquote>
+<p>Expands on some of my previous posts on Facebook&#8217;s design strategy. The more I think about it, the more I wonder if Facebook’s business provides the scope for roughly 64 designers (many of whom are absolutely brilliant) to all be at their best?</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Should designers code? </title>

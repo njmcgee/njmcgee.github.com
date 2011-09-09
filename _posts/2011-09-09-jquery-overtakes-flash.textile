@@ -1,0 +1,10 @@
+---
+layout: post
+title: jQuery Overtakes Flash on World’s Top Websites
+summary-only: yes
+external: http://appendto.com/jquery-overtakes-flash
+---
+<div class="clear"></div>
+<blockquote>
+DENVER, Co. Aug. 24, 2011 – appendTo, the company dedicated to jQuery, the world’s most popular JavaScript Library, released data today showing that the percentage of websites that have jQuery deployed has officially surpassed the percentage of websites that have Adobe Flash deployed. Statistics compiled by "HTTP Archive":http://httparchive.org, which analyze the world’s top 17,000 websites, show that 48 percent of the sites use jQuery, while 47 percent use Flash.
+</blockquote>

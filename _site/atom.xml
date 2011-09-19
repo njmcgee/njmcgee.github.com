@@ -3,9 +3,30 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-09-09T15:04:52-07:00</updated>
+    <updated>2011-09-19T14:54:23-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Thomas Fournier &#x219D;</title>
+        
+        
+        <link href="http://tomartichaut.blogspot.com/2011/04/blog-post_14.html"/>
+        
+        <updated>2011-09-19T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/09/thomas-fournier</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/thomas.jpg"></img>
+          
+          <p>by <a href="http://tomartichaut.blogspot.com/">Thomas Fournier</a></p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>jQuery Overtakes Flash on World’s Top Websites &#x219D;</title>

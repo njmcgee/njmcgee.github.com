@@ -1,0 +1,9 @@
+---
+layout: post
+title: Thomas Fournier
+summary-only: yes
+external: http://tomartichaut.blogspot.com/2011/04/blog-post_14.html
+image-path: /images/posts/thomas.jpg
+---
+
+by "Thomas Fournier":http://tomartichaut.blogspot.com/

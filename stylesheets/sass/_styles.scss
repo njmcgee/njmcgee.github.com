@@ -250,3 +250,12 @@ img.no-shadow {
 #dsq-content h3 {
 	margin-bottom: 15px !important;
 }
+
+section.dear-kevin {
+	img.shadow {
+		@include box-shadow;
+	}
+	img {
+		margin-bottom: 60px;
+	}
+}

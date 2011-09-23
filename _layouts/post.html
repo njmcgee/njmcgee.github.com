@@ -11,7 +11,11 @@ layout: default
     {% endif %}    
   </h1>
   {% if page.image-path %}
-    <img src="{{ page.image-path }}"/ >
+    {% if page.remove-image %}
+      
+    {% else %}
+      <img src="{{ page.image-path }}"/ >
+    {% endif %}    
   {% endif %}
   {% if page.youtube %}
     <iframe width="550" height="452" src="{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>

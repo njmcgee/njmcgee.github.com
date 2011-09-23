@@ -3,9 +3,35 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-09-21T15:39:40-07:00</updated>
+    <updated>2011-09-23T16:55:00-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Instapaper facelift </title>
+        
+        
+        <link href="http://njmcgee.com/2011/09/instapaper-facelift.html"/>
+        
+        <updated>2011-09-23T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/09/instapaper-facelift</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/instapaper.png"></img>
+          
+          <p>I love <a href="http://instapaper.com">Instapaper</a>. I use it every day, and it’s kindle integration has dramatically changed the way I read and enjoy content from the web.</p>
+<p>This is how Instapaper currently looks when you log in:</p>
+<p><img src="/images/posts/instapaper-old.png" style="margin-left: 0;"/></p>
+<p>I spent an hour or two imagining how I might improve things without any fundamental feature changes. Same layout, fonts, colors and stripped back philosophy (click for full size):</p>
+<p><a href="/images/posts/instapaper-full.png"><img src="/images/posts/instapaper.png" style="margin-left: 0;"/></a></p>
+<p>I&#8217;ve increased the page width from 750px to 940px to improve efficiency of space while providing more breathing room where needed. New icons are in <span class="caps">SVG</span> format meaning there isn’t a single image on the page.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Thomas Fournier &#x219D;</title>

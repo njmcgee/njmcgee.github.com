@@ -12,7 +12,7 @@ This is how Instapaper currently looks when you log in:
 
 <img src="/images/posts/instapaper-old.png" style="margin-left: 0;"/>
 
-I spent an hour or two imagining how I might improve things without any fundamental feature changes. Same layout, fonts, colors and stripped back philosophy (click for full size):
+I spent an hour or two imagining how I might improve things without any fundamental changes to the layout, typography, colors and stripped back philosophy (click for full size):
 
 <a href="/images/posts/instapaper-full.png"><img src="/images/posts/instapaper.png" style="margin-left: 0;"/></a>
 

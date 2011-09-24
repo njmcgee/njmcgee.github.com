@@ -6,7 +6,7 @@ summary: I spent an hour or two imagining how Instapaper could look without any 
 remove-image: yes
 ---
 
-I love "Instapaper":http://instapaper.com. I use it every day, and it’s kindle integration has dramatically changed the way I read and enjoy content from the web.
+I love "Instapaper":http://instapaper.com. I use it every day, and it’s kindle integration has dramatically changed the way I read and enjoy content from the web. I’ve always enjoyed seeing unsolicited redesigns so I thought I’d take a quick stab at one.
 
 This is how Instapaper currently looks when you log in:
 

@@ -1,0 +1,19 @@
+---
+layout: post
+title: Instapaper round 2
+image-path: /images/posts/instapaper2.png
+summary: It didn't seem fair to give such a great product only an hour or two of attention, so I squeezed in another two hours. Still not enough, but it’s more fun to show things often, and see designs evolve.
+remove-image: yes
+---
+
+It didn't seem fair to give such a great product only an hour or two of attention, so I squeezed in another two hours. Still not enough, but it’s more fun to show things often, and see designs change.
+
+Again, this is how Instapaper currently looks when you log in:
+
+<img src="/images/posts/instapaper-old.png" style="margin-left: 0;"/>
+
+This time I've added the ability to batch archive, like or delete (could also potentially batch items to a folder, send to kindle etc). I’ve cleaned things up by only displaying the text, share and edit buttons on hover (click for full size):
+
+<a href="/images/posts/instapaper2-full.png"><img src="/images/posts/instapaper2.png" style="margin-left: 0;"/></a>
+
+There’s lots of things I’d love to give further polish and attention, if time allows I might come back to it. We’ll see. Any thoughts?

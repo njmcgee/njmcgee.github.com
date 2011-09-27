@@ -3,9 +3,35 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-09-23T17:04:21-07:00</updated>
+    <updated>2011-09-27T15:45:20-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Instapaper round 2 </title>
+        
+        
+        <link href="http://njmcgee.com/2011/09/instapaper-take-2.html"/>
+        
+        <updated>2011-09-27T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/09/instapaper-take-2</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/instapaper2.png"></img>
+          
+          <p>It didn&#8217;t seem fair to give such a great product only an hour or two of attention, so I squeezed in another two hours. Still not enough, but it’s more fun to show things often, and see designs change.</p>
+<p>Again, this is how Instapaper currently looks when you log in:</p>
+<p><img src="/images/posts/instapaper-old.png" style="margin-left: 0;"/></p>
+<p>This time I&#8217;ve added the ability to batch archive, like or delete (could also potentially batch items to a folder, send to kindle etc). I’ve cleaned things up by only displaying the text, share and edit buttons on hover (click for full size):</p>
+<p><a href="/images/posts/instapaper2-full.png"><img src="/images/posts/instapaper2.png" style="margin-left: 0;"/></a></p>
+<p>There’s lots of things I’d love to give further polish and attention, if time allows I might come back to it. We’ll see. Any thoughts?</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Instapaper facelift </title>
@@ -25,6 +51,7 @@
 <p>I spent an hour or two imagining how I might improve things without any fundamental changes to the layout, typography, colors and stripped back philosophy (click for full size):</p>
 <p><a href="/images/posts/instapaper-full.png"><img src="/images/posts/instapaper.png" style="margin-left: 0;"/></a></p>
 <p>I&#8217;ve increased the page width from 750px to 940px to improve efficiency of space while providing more breathing room where needed. New icons are in <span class="caps">SVG</span> format meaning the design could be implemented without a single image.</p>
+<p>Update: further revisions can be found <a href="/2011/09/instapaper-take-2.html">here</a>.</p>
           
         </content>
         <author>

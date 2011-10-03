@@ -3,9 +3,30 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-09-27T15:45:20-07:00</updated>
+    <updated>2011-10-03T15:25:11-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Mad Men opening title sequence &#x219D;</title>
+        
+        
+        <link href="http://www.artofthetitle.com/2011/09/19/mad-men/"/>
+        
+        <updated>2011-10-03T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/10/mad-men-titles</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/madmen.png"></img>
+          
+          <p><a href="http://www.artofthetitle.com/">Art of the Title</a> interviews Producer Cara McKenny and Creative Directors Steve Fuller and Mark Gardner on the production of the iconic Mad Men titles. Covers the initial brief,  concept, the politics involved in using a fall from a skyscraper, animation techniques, logo design, alternate approaches and more.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Instapaper round 2 </title>

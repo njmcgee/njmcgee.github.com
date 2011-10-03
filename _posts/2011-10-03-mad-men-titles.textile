@@ -1,0 +1,9 @@
+---
+layout: post
+title: Mad Men opening title sequence 
+summary-only: yes
+external: http://www.artofthetitle.com/2011/09/19/mad-men/
+image-path: /images/posts/madmen.png
+---
+
+"Art of the Title":http://www.artofthetitle.com/ interviews Producer Cara McKenny and Creative Directors Steve Fuller and Mark Gardner on the production of the iconic Mad Men titles. Covers the initial brief,  concept, the politics involved in using a fall from a skyscraper, animation techniques, logo design, alternate approaches and more.  

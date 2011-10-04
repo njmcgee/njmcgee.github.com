@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recent reads 4
-summary: Recent articles I’ve been enjoying on my Kindle. 
+summary: Recent articles I’ve been enjoying on my Kindle. Articles on scaling a flat organization, the future of American (interface) design, browser pollution (thanks to Microsoft), real names on social networks, Sean Parker, our web presence and data when we die, and dogs.
 ---
 
 h2. "Scaling GitHub's Employees":http://zachholman.com/posts/scaling-github-employees/ – Zach Holman

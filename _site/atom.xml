@@ -3,9 +3,49 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-10-03T15:27:19-07:00</updated>
+    <updated>2011-10-03T17:12:47-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Zerply Frontend &#x219D;</title>
+        
+        
+        <link href="http://lukesbeard.com/posts/zerply-frontend/"/>
+        
+        <updated>2011-10-03T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/10/zerply-front-end</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/zerply.png"></img>
+          
+          <p>A great post by <a href="http://lukesbeard.com/">Luke Beard</a> on front-end implementation at Zerply.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
+    
+    <entry>
+        <title>Scalable and Modular Architecture for CSS &#x219D;</title>
+        
+        
+        <link href="http://smacss.com/book/all"/>
+        
+        <updated>2011-10-03T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/10/scalable-and-modular-architecture-for-CSS</id>
+        <content type="html">
+          
+          <p>Amazing resource by <a href="http://snook.ca/">Jonathan Snook</a>. I&#8217;ve linked to the ‘full’ version so you can ‘read later’.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Mad Men opening title sequence &#x219D;</title>

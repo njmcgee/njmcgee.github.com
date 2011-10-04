@@ -1,0 +1,8 @@
+---
+layout: post
+title: Scalable and Modular Architecture for CSS
+summary-only: yes
+external: http://smacss.com/book/all
+---
+
+Amazing resource by "Jonathan Snook":http://snook.ca/. I've linked to the ‘full’ version so you can ‘read later’.

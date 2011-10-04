@@ -29,6 +29,6 @@ h2. "The End":http://designmind.frogdesign.com/articles/the-end.html – David A
 
 “What happens to us on the Internet when we die? A slew of electronic death startups are offering to help write your final chapter … before someone else does.”
 
-h2. "Dog Story":http://www.paulgraham.com/stuff.html – Adam Gopnik
+h2. "Dog Story":http://www.newyorker.com/reporting/2011/08/08/110808fa_fact_gopnik?currentPage=all – Adam Gopnik
 
 “How did the dog become our master?” You’re a dog person? Read this.

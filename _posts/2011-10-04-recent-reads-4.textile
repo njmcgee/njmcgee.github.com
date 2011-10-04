@@ -1,0 +1,34 @@
+---
+layout: post
+title: Recent reads 4
+summary: Recent articles I’ve been enjoying on my Kindle. 
+---
+
+h2. "Scaling GitHub's Employees":http://zachholman.com/posts/scaling-github-employees/ – Zach Holman
+
+Holman continues with his “How Github works” series and starts to explain how a company of 42 operates like this: <blockquote>We do things differently at GitHub: we work out of chat rooms, we don’t enforce hours, and we have zero managers. People work on what they want to work on. Product development is driven by whoever wants to drive product.</blockquote>
+  
+
+h2. "American Firms Now Embrace Design, But They're Aging Fast. What's Next?":http://www.fastcodesign.com/1665046/american-firms-now-embrace-design-but-theyre-aging-fast-whats-next – Robert Fabricant
+
+Where is American (interface) design headed? Fabricant has some concerns after looking at the euro-trashy Windows 7 interface, the “distinctly Disney-esque, almost kitschy quality” of some of Apple's applications, and the soft “blandly attractive design language” Google have recently embraced in favor of their previous data driven approach. 
+
+h2. "Browser Market Pollution: IE[x] is the new IE6":http://paulirish.com/2011/browser-market-pollution-iex-is-the-new-ie6/ – Paul Irish
+
+Irish explains how Microsoft's browser release and deprecation cycles could have us soon developing for 76 browsers. Scary stuff - take a look.
+
+h2. "“Real Names” Policies Are an Abuse of Power":http://www.zephoria.org/thoughts/archives/2011/08/04/real-names.html – Danah Boyd
+
+Boyd explains the many benefits of pseudonymity and the many negative effects of enforcing “real names” on social networks. 
+
+h2. "Agent Of Disruption":http://www.forbes.com/forbes/2011/1010/forbes400-11-networks-sean-parker-napster-facebook-steven-bertoni_print.html – Steven Bertoni
+
+Fascinating piece on Sean Parker. Bertoni spends a few days with the man, and gathers comments from Jack Dorsey, Peter Thiel, Ron Conway, Mark Zuckerberg, and many more. 
+
+h2. "The End":http://designmind.frogdesign.com/articles/the-end.html – David A. Greene
+
+“What happens to us on the Internet when we die? A slew of electronic death startups are offering to help write your final chapter … before someone else does.”
+
+h2. "Dog Story":http://www.paulgraham.com/stuff.html – Adam Gopnik
+
+“How did the dog become our master?” You’re a dog person? Read this.

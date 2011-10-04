@@ -32,3 +32,7 @@ h2. "The End":http://designmind.frogdesign.com/articles/the-end.html – David A
 h2. "Dog Story":http://www.newyorker.com/reporting/2011/08/08/110808fa_fact_gopnik?currentPage=all – Adam Gopnik
 
 “How did the dog become our master?” You’re a dog person? Read this.
+
+h2. "Stuff":http://www.paulgraham.com/stuff.html – Paul Graham
+
+An oldie but a goodie and I couldn’t agree more. What’s worse than owning something worthless? Paying for something you don’t use.

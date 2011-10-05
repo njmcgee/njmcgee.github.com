@@ -1,8 +1,0 @@
----
-layout: post
-title: Elliott
-summary: Just playing with some textures, compositions and names.
-image-path: /images/posts/elliott.png
----
-
-Just playing with some textures, compositions and names.

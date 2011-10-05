@@ -3,9 +3,30 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-10-04T14:33:55-07:00</updated>
+    <updated>2011-10-05T15:38:04-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Elliott </title>
+        
+        
+        <link href="http://njmcgee.com/2011/10/freya.html"/>
+        
+        <updated>2011-10-05T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/10/freya</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/elliott.png"></img>
+          
+          <p>Just playing with some textures, compositions and names.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Recent reads 4 </title>

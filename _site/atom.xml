@@ -3,9 +3,30 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-10-05T15:58:56-07:00</updated>
+    <updated>2011-10-06T14:19:36-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Elwood </title>
+        
+        
+        <link href="http://njmcgee.com/2011/10/elwood.html"/>
+        
+        <updated>2011-10-06T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/10/elwood</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/elwood.png"></img>
+          
+          
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Elliott </title>

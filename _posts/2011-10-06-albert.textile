@@ -1,0 +1,8 @@
+---
+layout: post
+title: Albert
+image-path: /images/posts/albert.png
+summary: I’d been racking by brain to think of a daily design project. Something I can spend an hour or two on – typographic experiments, lots of colors and styles, an excuse to play and build up a library of visual assets. Then it dawned on me. I’m expecting my first child in two months, why not play with some of the names we are throwing around?
+---
+
+I’d been racking by brain to think of a daily design project. Something I can spend an hour or two on – typographic experiments, lots of colors and styles, an excuse to play and build up a library of visual assets. Then it dawned on me. I’m expecting my first child in two months, why not play with some of the names we are throwing around?

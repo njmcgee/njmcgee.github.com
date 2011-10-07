@@ -1,0 +1,10 @@
+---
+layout: post
+title: The Typography-out approach in the World of Browser-based Web Design
+summary-only: yes
+external: http://elliotjaystocks.com/blog/the-typography-out-approach-in-the-world-of-browser-based-web-design/
+---
+<div class="clear"></div>
+<blockquote>I feel that a typography-first, content-out approach to web design moves us one step further away from the unnecessary distractions of design-for-design’s-sake and one step closer to becoming true typographers.</blockquote>
+
+It’s true. The recent explosion of typographic possibilities paired with the inherit challenges of web design (client-side variations) is re-inventing the technical art of typography.

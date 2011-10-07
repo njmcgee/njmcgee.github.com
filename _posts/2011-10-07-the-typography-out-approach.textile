@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Typography-out approach in the World of Browser-based Web Design
+title: The Typography-out Approach in the World of Browser-based Web Design
 summary-only: yes
 external: http://elliotjaystocks.com/blog/the-typography-out-approach-in-the-world-of-browser-based-web-design/
 ---

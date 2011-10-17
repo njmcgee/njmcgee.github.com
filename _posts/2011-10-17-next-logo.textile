@@ -1,0 +1,9 @@
+---
+layout: post
+title: Paul Rand + Steve Jobs
+summary-only: yes
+external: http://imprint.printmag.com/branding/paul-rand-steve-jobs/
+image-path: /images/posts/next.png
+---
+
+The Next logo - love it or hate it, Rand "makes a pretty compelling argument":http://imprint.printmag.com/branding/paul-rand-steve-jobs/.

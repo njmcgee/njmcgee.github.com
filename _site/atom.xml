@@ -3,7 +3,7 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-10-26T12:59:58-07:00</updated>
+    <updated>2011-10-26T13:14:22-07:00</updated>
     <id>http://njmcgee.com/</id>
     
     
@@ -16,6 +16,8 @@
         <updated>2011-10-26T00:00:00-07:00</updated>
         <id>njmcgee.com:/2011/10/shape-type-a-letter-shaping-game</id>
         <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/shape.png"></img>
           
           <p>A wonderful follow-up to the beautifully built <a href="http://type.method.ac/">KernType</a>.</p>
           
@@ -36,7 +38,30 @@
         <id>njmcgee.com:/2011/10/joss-crowcrofts-blog</id>
         <content type="html">
           
+           <img src="http://njmcgee.com/images/posts/sandbox.jpg"></img>
+          
           <p>Awesome front-end blog, some fantastic open-source JS resources.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
+    
+    <entry>
+        <title>An explanation of the CSS animation on Apple's iPhone 4S webpage &#x219D;</title>
+        
+        
+        <link href="http://johnbhall.com/iphone-4s/"/>
+        
+        <updated>2011-10-26T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/10/explanation-of-the-CSS-animation-on-apples-iphone-4s-webpage</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/iphone.jpg"></img>
+          
+          <p>Curious how the beautiful <span class="caps">CSS</span> animations on the <a href="http://johnbhall.com/iphone-4s/">iPhone 4s</a> page work?</p>
           
         </content>
         <author>

@@ -1,0 +1,9 @@
+---
+layout: post
+title: An explanation of the CSS animation on Apple's iPhone 4S webpage
+summary-only: yes
+external: http://johnbhall.com/iphone-4s/
+image-path: /images/posts/iphone.jpg
+---
+
+Curious how the beautiful CSS animations on the "iPhone 4s":http://johnbhall.com/iphone-4s/ page work?

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Shape Type. A letter shaping game.
+summary-only: yes
+external: http://shape.method.ac/
+---
+
+A wonderful follow-up to the beautifully built "KernType":http://type.method.ac/.

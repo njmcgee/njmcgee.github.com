@@ -3,9 +3,28 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-10-26T12:57:13-07:00</updated>
+    <updated>2011-10-26T12:59:58-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Shape Type. A letter shaping game. &#x219D;</title>
+        
+        
+        <link href="http://shape.method.ac/"/>
+        
+        <updated>2011-10-26T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/10/shape-type-a-letter-shaping-game</id>
+        <content type="html">
+          
+          <p>A wonderful follow-up to the beautifully built <a href="http://type.method.ac/">KernType</a>.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Joss Crowcroft’s Blog &#x219D;</title>

@@ -3,9 +3,28 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-10-17T16:40:22-07:00</updated>
+    <updated>2011-10-26T12:57:13-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Joss Crowcroft’s Blog &#x219D;</title>
+        
+        
+        <link href="http://www.josscrowcroft.com/"/>
+        
+        <updated>2011-10-26T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/10/joss-crowcrofts-blog</id>
+        <content type="html">
+          
+          <p>Awesome front-end blog, some fantastic open-source JS resources.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Paul Rand + Steve Jobs &#x219D;</title>

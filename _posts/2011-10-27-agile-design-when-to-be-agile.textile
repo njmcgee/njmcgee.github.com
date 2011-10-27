@@ -1,0 +1,27 @@
+---
+layout: post
+title: Agile design? When to be (and not to be) agile.
+summary: How does a designer fit into an agile team or process? I’ve put together some general tips, advantages, disadvantages and things to avoid.
+---
+
+Agile methodologies were designed to optimize the production of software by focussing on achievable goals, and defending against client or management interference. I haven’t met an (motivated) engineer that has worked in a (suitably implemented) agile environment that hasn’t enjoyed the empowerment, environment, and ability to get things done. If things go to plan, small engineering teams become collaborative decision makers, designers and managers of their own time, and produce results at pace. Sounds great if you’re an engineer right? But many ask, and wonder, how does a designer fit into an agile team or process?
+
+I’ve put together some general tips, advantages, disadvantages and things to avoid:
+
+* Agile planning and prioritization can help you. Agreed upon components and pieces of functionality can make interface and visual design wonderfully smooth. The collaborative, democratic nature of this process with a talented team can also be a real pleasure. 
+
+* While prioritizing, remember to weigh in if you see design or front-end complexity the engineers don’t. It’s your responsibility to defend and manage your workload. Just because something is a “few lines of code” doesn’t mean it’s easy from a user, interaction, or design point of view.
+
+* Embrace your constraints. You’ll go into a sprint knowing what you can (and can’t) achieve. Use this to your advantage and makes those things awesome.
+
+* Enjoy the protection from clients, hovering art directors and other committees during a sprint. Focus on your goals, and kick ass. 
+
+* Remember that further iterations are planned, and are actually going to happen. It’s a reassuring luxury many designers don’t get to experience.
+
+* If you want to work in an agile team, *join* the team. Make sure you’re there for all the planning meetings and retrospectives. Be involved as possible in the front-end implementation (yep, learn HTML/CSS).
+
+* You don’t need to be agile if you don’t have interference from above. You can still be nimble, flexible and iterate. Take bits and pieces you find *useful*, when they’re *useful*. Ignore the rest.
+
+* Some things shouldn’t be rushed and don’t benefit from regular iteration. Don’t put them in sprints. For example, it might not be wise to design your company’s logo in a week. 
+
+* Relinquish control. Be ready to release something imperfect, with the knowledge that it will improve. Hopefully often, and if you do your job well, to the point that it far exceeds anything you could have designed on your own with an unlimited time-frame. Shipping products regularly has many advantages; learning from mistakes, and gaining user feedback are two very important ones.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Daily Book Graphics
+summary-only: yes
+external: http://www.flickr.com/photos/23473719@N08/sets/72157619643277427/
+image-path: /images/posts/book-cover.jpg
+---
+
+A treasure chest of beautiful book covers at "Julian Montague’s":http://www.montagueprojects.com/  "Daily Book Graphics":http://www.flickr.com/photos/23473719@N08/sets/72157619643277427/ project (via "ISO50":http://blog.iso50.com/25927/daily-book-graphics/).

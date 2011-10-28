@@ -3,9 +3,30 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2011-10-27T13:00:21-07:00</updated>
+    <updated>2011-10-27T20:08:30-07:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Daily Book Graphics &#x219D;</title>
+        
+        
+        <link href="http://www.flickr.com/photos/23473719@N08/sets/72157619643277427/"/>
+        
+        <updated>2011-10-27T00:00:00-07:00</updated>
+        <id>njmcgee.com:/2011/10/daily-book-graphics</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/posts/book-cover.jpg"></img>
+          
+          <p>A treasure chest of beautiful book covers at <a href="http://www.montagueprojects.com/">Julian Montague’s</a>  <a href="http://www.flickr.com/photos/23473719@N08/sets/72157619643277427/">Daily Book Graphics</a> project (via <a href="http://blog.iso50.com/25927/daily-book-graphics/">ISO50</a>).</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Agile design? When to be (and not to be) agile. </title>

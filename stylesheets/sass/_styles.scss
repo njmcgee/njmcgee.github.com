@@ -39,16 +39,12 @@ p {
 	width: 13.728813559322034%; /*162 / 1180 */
 	float: left;
 	a {
-		display: block;
+		top: 30px;
 		width: 100%;
-		width: 11.8%;
-		position: fixed;
-		
+		width: 11.6%;
+		position: fixed;		
 		svg {
-			width: 100% ;
-			/*width: 91.358024691358025%;*/
-			
-			/*width: 91.358024691358025%;*/
+			width: 100%;
 		}
 	}
 	
@@ -66,8 +62,7 @@ header {
 		margin-bottom: 80px;
 	}
 	svg {
-		/*margin-top: 40%;*/		
-		margin-bottom: 80px;
+		margin-bottom: 70px;
 	}
 }
 #sidebar {

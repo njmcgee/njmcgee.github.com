@@ -1,5 +1,7 @@
 $text-color: #292b2b;
+$regular-weight: 300;
 $bold: 700;
+$heading-bold: 800;
 $border-height: 7px;
 $link-color: #b93c48;
 
@@ -7,6 +9,7 @@ body {
 	background-color: #fff;
 	font: normal 112.5% 'kepler-std-1', Georgia, serif;  /*18 px default*/
 	color: $text-color;
+	font-weight: $regular-weight;
 	line-height: 1.625em;
 }
 b {
@@ -18,7 +21,7 @@ a, a:hover, a:visited {
 }
 h1, h2, h3, h4, h5 {
 	font: normal 100% 'proxima-nova-1', Helvetica, sans-serif;
-	font-weight: 900;
+	font-weight: $heading-bold;
 	text-transform: uppercase;
 	letter-spacing: .125em;
 }

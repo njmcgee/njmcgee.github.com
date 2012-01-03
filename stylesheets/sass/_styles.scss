@@ -36,20 +36,14 @@ p {
 	margin: 0 auto; /*1112 / 1180*/
 }
 #logo {	
-	width: 13.728813559322034%; /*162 / 1180 */
-	float: left;
-	a {
-		top: 30px;
-		width: 100%;
-		width: 11.6%;
-		position: fixed;		
-		svg {
-			width: 100%;
-		}
+	width: 168px; /*162 / 1180 */
+	float: left;	
+	img {
+		margin-top: 32px;
+		position: fixed;
 	}
-	
-	
 }
+
 #main-column {
 	width: 80.508474576271186%; /*950 / 1180*/
 	float: left;

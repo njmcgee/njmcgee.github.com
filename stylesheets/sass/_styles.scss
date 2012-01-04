@@ -146,6 +146,7 @@ footer {
 	border-top: $text-color $border-height solid;
 	margin-top: 60px;
 	padding-top: 40px;
+	padding-bottom: 30px;
 	width: 80.5085%;
 	.logo { 
 		float: left;
@@ -200,6 +201,10 @@ footer {
 	span {
 		margin-right: 20px;
 	}
+}
+.external.hover {
+	color: $alternate-color;
+	text-decoration: underline;
 }
 
 /*Post pages*/

@@ -50,6 +50,6 @@ var header = $('header')
 $('#fixed').myFixture({ topBoundary: topBoundary });
 {% endhighlight %}
 
-Another (even more flexible) approach would be to make <code class="default-size">topBoundary</code> equal to the <code class="default-size">.offset.top()</code> of the <code class="default-size">#fixed</code> element on load.
+Another (even more flexible) approach would be to make <code class="default-size">topBoundary</code> equal to the <code class="default-size">offset().top</code> of the <code class="default-size">#fixed</code> element on load.
 
 Enjoy!

@@ -16,20 +16,62 @@
 
 
 @media screen and (max-width: 1024px) {
-	
-}
-@media screen and (max-width: 960px) {
-	body {
-		background: blue;
+	nav#elsewhere {
+		li {
+			width: 50%;
+		}
+	}
+	footer {
+		.logo { 
+			width: 100%;
+			display: block;
+			margin-bottom: 30px;
+		}	
+		nav {
+			width: 30%;
+		}
+		#fine-print {
+			width: 70%;
+		}
 	}
 }
-@media screen and (max-width: 768px) {
-	body {
-		background: black;
+@media screen and (max-width: 980px) {
+	#logo {
+		display: none;
+	}
+	#container {
+		width: 90%;
+	}
+	#sidebar, body.post #sidebar {
+		margin: 0;
+	}
+	#main-column, #sidebar, #blog, footer {
+		width: 100%;
+		display: block;
+	} 
+	footer {
+		margin-left: 0;
+	}
+	p.intro {
+		font-size: 1.166666666666667em; /* /18 */
+	}
+	nav#elsewhere {
+		li {
+			width: 25%;
+			font-size: 1.333333333333333em; /* /18 */ ;
+		}
 	}
 }
 @media screen and (max-width: 480px) {
-	body {
-		background: #f09;
+	footer {
+		nav {
+			width: 100%;
+			display: block;
+			margin-bottom: 30px;
+		}
+		#fine-print {
+			width: 100%;
+			display: block;
+		}
 	}
 }

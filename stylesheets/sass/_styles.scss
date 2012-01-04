@@ -85,7 +85,7 @@ p, ul, ol {
 	margin: 0 auto; /*1112 / 1180*/
 }
 #logo {	
-	width: 176px; /*162 / 1180 */
+	width: 176px; 
 	float: left;	
 	img {
 		margin-top: 32px;
@@ -132,12 +132,34 @@ body.post #sidebar {
 .clear {
 	clear: both;
 }
-nav {
+nav#elsewhere {
 	font-size: 0.666666666666667em;
 	li {
 		float: left;
 		margin-bottom: 20px;
 		width: 25%;
+	}
+}
+
+footer {
+	margin-left: 176px;
+	border-top: $text-color $border-height solid;
+	margin-top: 60px;
+	padding-top: 40px;
+	width: 80.5085%;
+	.logo { 
+		float: left;
+		width: 26%;
+	}	
+	nav {
+		float: left;
+		width: 16.1053%;
+	}
+	#fine-print {
+		width: 57.8947%;
+		float: left;
+		font-size: 0.888888888888889em;
+		line-height: 1.45em;
 	}
 }
 

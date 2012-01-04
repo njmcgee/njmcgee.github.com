@@ -1,25 +1,37 @@
 $text-color: #292b2b;
 $regular-weight: 300;
-$bold: 700;
+$bold: 600;
 $heading-bold: 800;
 $border-height: 7px;
 $link-color: #b93c48;
+$alternate-color: #1E6386;
+
+@mixin box-shadow {
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .1);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .1);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .1);
+}
 
 body {
 	background-color: #fff;
+	background: url(/images/bg.png) repeat;
 	font: normal 112.5% 'kepler-std-1', Georgia, serif;  /*18 px default*/
 	color: $text-color;
 	font-weight: $regular-weight;
 	line-height: 1.625em;
+	border-top: $text-color $border-height solid;
 }
 b {
 	font-weight: $bold;
 }
-a, a:hover, a:visited {
+a, a:visited {
 	color: $link-color;
 	text-decoration: none;
 }
-h1, h2, h3, h4, h5 {
+a:hover {
+	color: $alternate-color;
+}
+h1, h2, h3, h4, h5, nav {
 	font: normal 100% 'proxima-nova-1', Helvetica, sans-serif;
 	font-weight: $heading-bold;
 	text-transform: uppercase;
@@ -39,7 +51,7 @@ p {
 	margin: 0 auto; /*1112 / 1180*/
 }
 #logo {	
-	width: 168px; /*162 / 1180 */
+	width: 176px; /*162 / 1180 */
 	float: left;	
 	img {
 		margin-top: 32px;
@@ -56,7 +68,7 @@ header {
 	padding-top: 80px;
 	padding-bottom: 60px;
 	h1 {		
-		margin-bottom: 80px;
+		display: none;
 	}
 	svg {
 		margin-bottom: 70px;
@@ -66,7 +78,11 @@ header {
 	width: 36.842105263157895%; /*350 / 950*/
 	float: left;
 	margin-right: 5.263157894736842%; /*50 / 950 */
-	border-top: $text-color $border-height solid;
+	#links, #work {
+		border-top: $text-color $border-height solid;
+		padding-top: 40px;
+		padding-bottom: 30px;
+	}
 }
 #blog {
 	width: 57.894736842105263%; /*550 / 950 */
@@ -74,6 +90,14 @@ header {
 }
 .clear {
 	clear: both;
+}
+nav {
+	font-size: 0.666666666666667em;
+	li {
+		float: left;
+		margin-bottom: 20px;
+		width: 25%;
+	}
 }
 
 
@@ -85,7 +109,11 @@ header {
 	b {
 		font-weight: $bold;
 	}
+	a {
+		text-decoration: underline;
+	}
 }
+
 
 
 /*Blog posts*/
@@ -95,6 +123,8 @@ header {
 	border-top: $text-color $border-height solid;	
 	img {
 		margin-bottom: 25px;
+		@include box-shadow;
+		max-width: 100%;
 	}
 }
 .meta-data {
@@ -103,10 +133,4 @@ header {
 	span {
 		margin-right: 20px;
 	}
-}
-
-
-#sidebar {
-	padding-top: 40px;
-	padding-bottom: 30px;
 }

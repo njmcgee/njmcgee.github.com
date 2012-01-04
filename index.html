@@ -14,13 +14,9 @@ title: Nathan McGinness
         <a class="permalink" href="{{ post.url }}">Permalink</a>
       {% endif %}
     </div>
-    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    {% if post.image-path %}
-      {% if post.external %}
-        <a href="{{ post.external }}"><img class="{{ post.no-shadow }}" src="{{ post.image-path }}"/ ></a>
-      {% else %}
-        <a href="{{ post.url }}"><img class="{{ post.no-shadow }}" src="{{ post.image-path }}"/ ></a>
-      {% endif %}       
+    <h1><a href="{% if post.external %} {{ post.external }} {% else %} {{ post.url }} {% endif %}">{{ post.title }}</a></h1>
+    {% if post.image-path %}      
+      <a href=" {% if post.external %} {{ post.external }} {% else %} {{ post.url }} {% endif %}"><img class="{{ post.no-shadow }}" src="{{ post.image-path }}"/ ></a>             
     {% endif %}
     {% if post.youtube %}
       <iframe width="550" height="452" src="{{ post.youtube }}" frameborder="0" allowfullscreen></iframe>

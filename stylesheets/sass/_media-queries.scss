@@ -13,7 +13,12 @@
 
 
 
-
+#secondary-logo {
+	display: none;
+}
+#container {
+	max-width: 1680px;
+}
 
 @media screen and (max-width: 1024px) {
 	nav#elsewhere {
@@ -60,6 +65,19 @@
 			width: 25%;
 			font-size: 1.333333333333333em; /* /18 */ ;
 		}
+	}
+	#secondary-logo {
+		display: inline;
+		margin-right: 20px;
+		float: left;
+		margin-top: -50px;
+	}
+	header svg {
+		float: left;
+		margin-bottom: 78px;
+	}
+	footer {
+		margin-top: 0;
 	}
 }
 @media screen and (max-width: 480px) {

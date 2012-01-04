@@ -1,18 +1,24 @@
 ---
-layout: default
+layout: post-layout
 ---
 <article id="post">
-  <span class="date grid_3 alpha">{{ page.date | date: "%d %B %Y" }}</span> 
-  <h1 class="grid_14 omega">
+  <div class="meta-data">
+    <span class="date">
+      {{ page.date | date: "%d %B %Y" }}      
+    </span> 
     {% if page.external %}
-      <a href="{{ page.external }}">{{ page.title }} <span class="external">&#x219D;</span></a>
+      <span class="external">External link</span>
+    {% endif %}
+  </div>
+  <h1>
+    {% if page.external %}
+      <a href="{{ page.external }}">{{ page.title }}</a>
     {% else %}
       {{ page.title }}           
     {% endif %}    
   </h1>
   {% if page.image-path %}
-    {% if page.remove-image %}
-      
+    {% if page.remove-image %}      
     {% else %}
       <img src="{{ page.image-path }}"/ >
     {% endif %}    
@@ -46,4 +52,4 @@ layout: default
   </script>
   <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
   <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-</div>
+</article>

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Build your own Atari
+summary-only: yes
+external: http://www.altairkit.com/
+image-path: /images/posts/atari.jpg
+---
+
+Geek out with style and build your own Altair 8800, one of the first personal computers ever sold. (via "Kottke":http://kottke.org/11/12/altair-8800-kits)

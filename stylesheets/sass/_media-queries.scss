@@ -91,6 +91,9 @@
 	h1 {
 		font-size: 1.444444444444444em;
 	}	
+	header svg {
+		margin-bottom: 20px;
+	}
 }
 
 
@@ -100,8 +103,5 @@
 	}
 	#secondary-logo {
 		background: url(/images/nm-logo@2x.png) no-repeat;
-	}
-	header svg {
-		margin-bottom: 20px;
 	}
 }

@@ -21,6 +21,14 @@ $alternate-color: #1E6386;
 	letter-spacing: normal;
 	margin-bottom: 12px;
 }
+@mixin nm-logo {
+	width: 150px;
+	height: 149px;
+	background: url(/images/nm-logo.png) no-repeat;
+	-webkit-background-size: 150px 149px;
+	text-indent: -9999px;
+	display: block;
+}
 
 /*Structure and type*/
 
@@ -91,11 +99,12 @@ p, ul, ol {
 	margin: 0 auto; /*1112 / 1180*/
 }
 #logo {	
-	width: 176px; 
+	width: 172px; 
 	float: left;	
-	img {
-		margin-top: 32px;
+	a {
+		@include nm-logo;		
 		position: fixed;
+		margin-top: 4px;
 	}
 }
 
@@ -148,7 +157,7 @@ nav#elsewhere {
 }
 
 footer {
-	margin-left: 176px;
+	margin-left: 172px;
 	border-top: $text-color $border-height solid;
 	margin-top: 60px;
 	padding-top: 40px;

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Baffles and Bastions
+summary-only: yes
+external: http://bldgblog.blogspot.com/2012/01/baffler.html
+image-path: /images/posts/baffler.jpg
+---
+
+"BLDG BLOG":http://bldgblog.blogspot.com/ (one of my all-time favorite blogs) dug up this fascinating image from a paper called "Baffles and Bastions," published in the "Journal of Archaeological Research":http://www.springer.com/social+sciences/archaeology+%26+anthropology/journal/10814.
+
+<blockquote>All of the features they subsequently analyze occur at peripheries, borders, and thresholds. In their own words, "the militarily functional ditch and gate features and bastions discussed below, in fact and by definition, are all distinguished by being part of enceintes (that is, surrounding barriers or enclosures). Enceintes are barriers that prevent access to and, almost always, obscure vision of a particular location."</blockquote>
+
+Really caught my eye. Coincidentally(?) reminds me of level design in 1st person shooter games. 

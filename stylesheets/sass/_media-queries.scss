@@ -79,6 +79,19 @@
 		}
 	}
 }
+@media screen and (max-width: 320px) {
+	nav#elsewhere {
+		li {
+			width: 50%;
+		}
+		.meta-data {
+			font-size: 0.833333333333333em;
+		}
+		h1 {
+			font-size: 0.833333333333333em;
+		}
+	}
+}
 
 
 @media screen and (-webkit-device-pixel-ratio: 2) {

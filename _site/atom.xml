@@ -3,9 +3,28 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2012-01-06T13:39:30-08:00</updated>
+    <updated>2012-01-09T14:18:20-08:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Herb Lubalin on his PBS Logo </title>
+        
+        
+        <link href="http://njmcgee.com/2012/01/pbs-logo.html"/>
+        
+        <updated>2012-01-09T00:00:00-08:00</updated>
+        <id>njmcgee.com:/2012/01/pbs-logo</id>
+        <content type="html">
+          
+          <p>A super-cute animation explaining the client-designer conversation behind the the <span class="caps">PBS</span> logo.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Baffles and Bastions &#x219D;</title>

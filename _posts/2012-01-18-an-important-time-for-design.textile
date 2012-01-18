@@ -1,0 +1,10 @@
+---
+layout: post
+title: An Important Time for Design
+summary-only: yes
+external: http://www.alistapart.com/articles/an-important-time-for-design/
+---
+
+<blockquote>It’s time for the design community to follow in developers’ footsteps and fundamentally realign its focus. We need to think about products over posters and people over page views. We need this to happen at every level: in design schools, in design writing, and in the things we celebrate online and in person. We have a new purpose: elevate design and help change the world. Let’s talk about how to do that.</blockquote>
+
+Yep, a wonderful and lucky time to be a web designer. Let’s not just enjoy it, but make the most of it.

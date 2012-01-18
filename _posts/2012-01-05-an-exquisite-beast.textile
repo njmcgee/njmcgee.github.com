@@ -6,4 +6,4 @@ external: http://anexquisitebeast.com/
 image-path: /images/posts/beast.png
 ---
 
-Prepare to scroll horizontally. Emory Allen adds to his illustration daily. Wonderfully simple idea. Why haven’t we seen this before? Or have we?
+Emory Allen adds to his illustration daily. Wonderfully simple idea. Why haven’t we seen this before? Or have we?

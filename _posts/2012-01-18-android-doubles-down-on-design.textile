@@ -1,0 +1,12 @@
+---
+layout: post
+title: Android Doubles Down on Design
+summary-only: yes
+external: http://www.subtraction.com/2012/01/13/android-doubles-down-on-design?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+subtraction+Subtraction
+---
+
+Khoi Vinh's reflects on Google’s new "Android Design":http://developer.android.com/design/index.html creative vision/resource. 
+
+<blockquote>What struck me the most about the site, though, is that its vision is so broad that it becomes broadly generic, too. There’s nothing about “enchant me,” “simplify my life,” and “make me amazing” that’s objectionable, but there’s also nothing about those concepts that sets the platform apart from what iOS or Windows Phone are trying to do, either. The design principles are smart and illuminating, and in fact everyone should read them as they offer a lot of good advice. But again you could apply these to just about any design system, whether an OS or a suite of products.</blockquote>
+
+Agree. Impressive content, well written, and a welcome resource (to designers and product people in general). The challenge is in shaping and influencing the platform’s existing developers and product designers. A difficult but worthwhile goal that will require more than well crafted style guides. 

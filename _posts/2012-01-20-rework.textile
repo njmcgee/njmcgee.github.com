@@ -1,0 +1,10 @@
+---
+layout: post
+title: Rework
+summary-only: yes
+external: http://37signals.com/rework/
+---
+<div class="clear"></div>
+<blockquote>Marketing is not a department; it’s the sum total of everything you do.</blockquote>
+Currently reading "Rework":http://37signals.com/rework/ by Jason Fried & David Heinemeier Hansson of "37signals":http://37signals.com. Highly recommended. Countless wonderful quotes and plenty of motivation to be found. Thanks to "The Godfounder":http://blog.thegodfounder.com/post/16008574461/marketing-is-not-a-department-its-the-sum-total for reminding me of this one.
+

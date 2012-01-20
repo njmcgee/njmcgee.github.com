@@ -1,0 +1,8 @@
+---
+layout: post
+title: Pictos server
+summary-only: yes
+external: http://pictos.cc/server/
+---
+
+The super talented "Drew Wilson":http://drewwilson.com/ has just launched "Pictos Server":http://pictos.cc/server/. Similar to Typekit, it hosts the icons you use on your site and serves them as a web font. Should provide great performance & design flexibility, particularly if you’re using something like "SASS":http://sass-lang.com/ for CSS. 

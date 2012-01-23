@@ -8,5 +8,5 @@ external: http://vimeo.com/34017777
 <div class="clear"></div>
 <blockquote>We’re the designers. We’re the builders.</blockquote>
 
-Everyone is talking about it. I finally watched it - great stuff.
+Everyone is talking about it. I finally watched it.
 

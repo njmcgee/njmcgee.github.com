@@ -8,5 +8,5 @@ external: http://vimeo.com/34017777
 <div class="clear"></div>
 <blockquote>We’re the designers. We’re the builders.</blockquote>
 
-Everyone is talking about it. I finally watched it.
+<a href="http://www.wilsonminer.com/">Wilson Miner</a>’s talk at "Build":http://2011.buildconf.com/. Everyone is talking about it. I finally watched it.
 

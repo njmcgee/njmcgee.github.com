@@ -3,9 +3,30 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2012-01-23T15:52:21-08:00</updated>
+    <updated>2012-01-25T11:25:34-08:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Cinemetrics &#x219D;</title>
+        
+        
+        <link href="http://cinemetrics.fredericbrodbeck.de/"/>
+        
+        <updated>2012-01-25T00:00:00-08:00</updated>
+        <id>njmcgee.com:/2012/01/cinemetrics</id>
+        <content type="html">
+          
+          <div class="clear"></div>
+<blockquote>cinemetrics is about measuring and visualizing movie data, in order to reveal the characteristics of films and to create a visual “fingerprint” for them. Information such as the editing structure, color, speech or motion are extracted, analyzed and transformed into graphic representations so that movies can be seen as a whole and easily interpreted or compared side by side.</blockquote>
+<p>Extra goodness at <a href="http://cinemetrics.fredericbrodbeck.de/">http://cinemetrics.fredericbrodbeck.de/</a>.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Wilson Miner - When We Build &#x219D;</title>

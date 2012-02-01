@@ -1,0 +1,9 @@
+---
+layout: post
+title: Git For Designers
+summary-only: yes
+external: http://thinkvitamin.com/design/git-for-designers-part-1/
+---
+
+No more excuses if you’re not using git. Here’s the perfect intro to the basics; installation, adding, commiting, branching and merging. Do it.
+

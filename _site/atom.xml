@@ -3,9 +3,28 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2012-02-01T00:11:35-08:00</updated>
+    <updated>2012-02-01T14:36:21-08:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Git For Designers &#x219D;</title>
+        
+        
+        <link href="http://thinkvitamin.com/design/git-for-designers-part-1/"/>
+        
+        <updated>2012-02-01T00:00:00-08:00</updated>
+        <id>njmcgee.com:/2012/02/git-for-designers</id>
+        <content type="html">
+          
+          <p>No more excuses if you’re not using git. Here’s the perfect intro to the basics; installation, adding, commiting, branching and merging. Do it.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Wilson Miner - When We Build &#x219D;</title>

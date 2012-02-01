@@ -3,7 +3,6 @@ layout: post
 title: Joss Crowcroft’s Blog
 summary-only: yes
 external: http://www.josscrowcroft.com/
-image-path: /images/posts/sandbox.jpg
 ---
 
 Awesome front-end blog, some fantastic open-source JS resources. 

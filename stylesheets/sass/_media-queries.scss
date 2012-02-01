@@ -4,7 +4,11 @@
 #container {
 	max-width: 1680px;
 }
-
+@media screen and (max-width: 1200px) {
+	p.intro {
+		font-size: 1.7em; /* /18 */
+	}
+}
 @media screen and (max-width: 1024px) {
 	nav#elsewhere {
 		li {
@@ -43,7 +47,7 @@
 		margin-left: 0;
 	}
 	p.intro {
-		font-size: 1.166666666666667em; /* /18 */
+		font-size: 1.4em; /* /18 */
 	}
 	nav#elsewhere {
 		li {

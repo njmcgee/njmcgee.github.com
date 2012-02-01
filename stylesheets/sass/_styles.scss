@@ -94,6 +94,9 @@ h1 {
 p, ul, ol {
 	margin-bottom: 30px;
 }
+i, em {
+	font-style: italic;
+}
 
 #container {
 	width: 94.2372881355932%;
@@ -183,16 +186,13 @@ footer {
 /*Homepage*/
 
 .intro {
-	font-size: 1.611111111111111em; /* 29px / 18px */
-	line-height: 1.2em;
+	font-size: 2em; /* 29px / 18px */
+	line-height: 1.35em;
 	font-style: italic;
 	margin-bottom: 3px;
 	margin-bottom: 12px;
 	b {
 		font-weight: $bold;
-	}
-	a {
-		text-decoration: underline;
 	}
 }
 

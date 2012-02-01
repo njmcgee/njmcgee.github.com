@@ -3,30 +3,9 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2012-01-25T11:25:34-08:00</updated>
+    <updated>2012-01-31T23:18:11-08:00</updated>
     <id>http://njmcgee.com/</id>
     
-    
-    <entry>
-        <title>Cinemetrics &#x219D;</title>
-        
-        
-        <link href="http://cinemetrics.fredericbrodbeck.de/"/>
-        
-        <updated>2012-01-25T00:00:00-08:00</updated>
-        <id>njmcgee.com:/2012/01/cinemetrics</id>
-        <content type="html">
-          
-          <div class="clear"></div>
-<blockquote>cinemetrics is about measuring and visualizing movie data, in order to reveal the characteristics of films and to create a visual “fingerprint” for them. Information such as the editing structure, color, speech or motion are extracted, analyzed and transformed into graphic representations so that movies can be seen as a whole and easily interpreted or compared side by side.</blockquote>
-<p>Extra goodness at <a href="http://cinemetrics.fredericbrodbeck.de/">http://cinemetrics.fredericbrodbeck.de/</a>.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
     
     <entry>
         <title>Wilson Miner - When We Build &#x219D;</title>
@@ -59,31 +38,8 @@
         <id>njmcgee.com:/2012/01/sublime-text-2</id>
         <content type="html">
           
-           <img src="http://njmcgee.com/images/posts/sublime-text-2.png"></img>
-          
-          <p>I’ve used and loved <a href="http://macromates.com/">Textmate</a> for over five years and I have no serious complaints. It doesn’t bother me that it’s a dead piece of software (in fact it was nice to have something that didn’t change). I have simple requirements, and a elegant and powerful tool that never breaks. As a result I’ve essentially been ignoring the text-editor space (except for the stripped back writing tool <a href="http://www.iawriter.com/">iA Writer</a> which is very sexy).</p>
-<p><a href="http://esbueno.noahstokes.com/post/15674346663/thirty-five">Noah Stokes prompted me</a> to finally give <a href="http://www.sublimetext.com/2">Sublime Text 2</a> a try. It’s awesome. You can still <a href="http://www.sublimetext.com/docs/2/osx_command_line.html">launch from terminal</a>, it has it’s own console, a badass command pallete, it supports Textmate themes and bundles, and has a nice distraction free (full-screen) mode. Install <a href="http://wbond.net/sublime_packages/package_control">Package Control</a>, <a href="https://github.com/buymeasoda/soda-theme">Soda Theme</a>, and read <a href="http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/">this article</a>. Also be sure to give the multi-cursor functionality a whirl &#8211; it will wig you out.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Rework &#x219D;</title>
-        
-        
-        <link href="http://37signals.com/rework/"/>
-        
-        <updated>2012-01-20T00:00:00-08:00</updated>
-        <id>njmcgee.com:/2012/01/rework</id>
-        <content type="html">
-          
-          <div class="clear"></div>
-<blockquote>Marketing is not a department; it’s the sum total of everything you do.</blockquote>
-<p>Currently reading <a href="http://37signals.com/rework/">Rework</a> by Jason Fried &amp; David Heinemeier Hansson of <a href="http://37signals.com">37signals</a>. Highly recommended. Countless wonderful quotes and plenty of motivation to be found. Thanks to <a href="http://blog.thegodfounder.com/post/16008574461/marketing-is-not-a-department-its-the-sum-total">The Godfounder</a> for reminding me of this one.</p>
+          <p>I’ve loved <a href="http://macromates.com/">Textmate</a> for over five years. It doesn’t bother me that it’s a dead piece of software. In a field where <em>everything changes all the time</em> it’s nice to have something stable. I wasn’t interested in trying anything new (except for the super-sexy stripped-back writing tool <a href="http://www.iawriter.com/">iA Writer</a>) until <a href="http://esbueno.noahstokes.com/post/15674346663/thirty-five">Noah Stokes prompted me</a> to finally give <a href="http://www.sublimetext.com/2">Sublime Text 2</a> a try.</p>
+<p>It’s awesome. You can still <a href="http://www.sublimetext.com/docs/2/osx_command_line.html">launch from terminal</a>, it has it’s own console, a badass command pallete, it supports Textmate themes and bundles, and has a nice distraction free (full-screen) mode. Install <a href="http://wbond.net/sublime_packages/package_control">Package Control</a>, <a href="https://github.com/buymeasoda/soda-theme">Soda Theme</a>, and read <a href="http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/">this article</a>. Also be sure to give the multi-cursor functionality a whirl &#8211; it will wig you out.</p>
           
         </content>
         <author>
@@ -174,111 +130,6 @@
     </entry>
     
     <entry>
-        <title>Herb Lubalin on his PBS Logo </title>
-        
-        
-        <link href="http://njmcgee.com/2012/01/pbs-logo.html"/>
-        
-        <updated>2012-01-09T00:00:00-08:00</updated>
-        <id>njmcgee.com:/2012/01/pbs-logo</id>
-        <content type="html">
-          
-          <p>A super-cute animation explaining the client-designer conversation behind the the <span class="caps">PBS</span> logo.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Baffles and Bastions &#x219D;</title>
-        
-        
-        <link href="http://bldgblog.blogspot.com/2012/01/baffler.html"/>
-        
-        <updated>2012-01-05T00:00:00-08:00</updated>
-        <id>njmcgee.com:/2012/01/baffles-andbastions</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/baffler.jpg"></img>
-          
-          <p><a href="http://bldgblog.blogspot.com/"><span class="caps">BLDG</span> <span class="caps">BLOG</span></a> (one of my all-time favorite blogs) dug up this fascinating image from a paper called &#8220;Baffles and Bastions,&#8221; published in the <a href="http://www.springer.com/social+sciences/archaeology+%26+anthropology/journal/10814">Journal of Archaeological Research</a>.</p>
-<blockquote>All of the features they subsequently analyze occur at peripheries, borders, and thresholds. In their own words, &#8220;the militarily functional ditch and gate features and bastions discussed below, in fact and by definition, are all distinguished by being part of enceintes (that is, surrounding barriers or enclosures). Enceintes are barriers that prevent access to and, almost always, obscure vision of a particular location.&#8221;</blockquote>
-<p>Really caught my eye. Coincidentally(?) reminds me of level design in 1st person shooter games.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>An Exquisite Beast &#x219D;</title>
-        
-        
-        <link href="http://anexquisitebeast.com/"/>
-        
-        <updated>2012-01-05T00:00:00-08:00</updated>
-        <id>njmcgee.com:/2012/01/an-exquisite-beast</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/beast.png"></img>
-          
-          <p>Emory Allen adds to his illustration daily. Wonderfully simple idea. Why haven’t we seen this before? Or have we?</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Build your own Atari &#x219D;</title>
-        
-        
-        <link href="http://www.altairkit.com/"/>
-        
-        <updated>2012-01-05T00:00:00-08:00</updated>
-        <id>njmcgee.com:/2012/01/altair-8800-kits</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/atari.jpg"></img>
-          
-          <p>Geek out with style and build your own Altair 8800, one of the first personal computers ever sold. (via <a href="http://kottke.org/11/12/altair-8800-kits">Kottke</a>)</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Daily Book Graphics &#x219D;</title>
-        
-        
-        <link href="http://www.flickr.com/photos/23473719@N08/sets/72157619643277427/"/>
-        
-        <updated>2011-10-27T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/10/daily-book-graphics</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/book-cover.jpg"></img>
-          
-          <p>A treasure chest of beautiful book covers at <a href="http://www.montagueprojects.com/">Julian Montague’s</a>  <a href="http://www.flickr.com/photos/23473719@N08/sets/72157619643277427/">Daily Book Graphics</a> project (via <a href="http://blog.iso50.com/25927/daily-book-graphics/">ISO50</a>).</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
         <title>Agile design? When to be (and not to be) agile. </title>
         
         
@@ -326,27 +177,6 @@
     </entry>
     
     <entry>
-        <title>Shape Type. A letter shaping game. &#x219D;</title>
-        
-        
-        <link href="http://shape.method.ac/"/>
-        
-        <updated>2011-10-26T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/10/shape-type-a-letter-shaping-game</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/shape.png"></img>
-          
-          <p>A wonderful follow-up to the beautifully built <a href="http://type.method.ac/">KernType</a>.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
         <title>Joss Crowcroft’s Blog &#x219D;</title>
         
         
@@ -355,8 +185,6 @@
         <updated>2011-10-26T00:00:00-07:00</updated>
         <id>njmcgee.com:/2011/10/joss-crowcrofts-blog</id>
         <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/sandbox.jpg"></img>
           
           <p>Awesome front-end blog, some fantastic open-source JS resources.</p>
           
@@ -377,30 +205,7 @@
         <id>njmcgee.com:/2011/10/explanation-of-the-CSS-animation-on-apples-iphone-4s-webpage</id>
         <content type="html">
           
-           <img src="http://njmcgee.com/images/posts/iphone.jpg"></img>
-          
-          <p>Curious how the beautiful <span class="caps">CSS</span> animations on the <a href="http://johnbhall.com/iphone-4s/">iPhone 4s</a> page work?</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Paul Rand + Steve Jobs &#x219D;</title>
-        
-        
-        <link href="http://imprint.printmag.com/branding/paul-rand-steve-jobs/"/>
-        
-        <updated>2011-10-17T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/10/next-logo</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/next.png"></img>
-          
-          <p>Some love it, some hate it. Read Rand’s <a href="http://imprint.printmag.com/branding/paul-rand-steve-jobs/">proposal book</a> designed specifically for Jobs before you make up your mind.</p>
+          <p>Curious how the beautiful <span class="caps">CSS</span> animations on the <a href="http://www.apple.com/iphone/">iPhone 4s</a> page actually work?</p>
           
         </content>
         <author>
@@ -422,90 +227,6 @@
           <div class="clear"></div>
 <blockquote>I feel that a typography-first, content-out approach to web design moves us one step further away from the unnecessary distractions of design-for-design’s-sake and one step closer to becoming true typographers.</blockquote>
 <p>It’s true. The recent explosion of typographic possibilities paired with the inherit challenges of web design (client-side variations) is re-inventing the technical art of typography.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Freya </title>
-        
-        
-        <link href="http://njmcgee.com/2011/10/freya.html"/>
-        
-        <updated>2011-10-06T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/10/freya</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/freya.png"></img>
-          
-          
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Elwood </title>
-        
-        
-        <link href="http://njmcgee.com/2011/10/elwood.html"/>
-        
-        <updated>2011-10-06T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/10/elwood</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/elwood.png"></img>
-          
-          <p>Probably time for a girls name.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Albert </title>
-        
-        
-        <link href="http://njmcgee.com/2011/10/albert.html"/>
-        
-        <updated>2011-10-06T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/10/albert</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/albert.png"></img>
-          
-          <p>I’d been racking by brain to think of a daily design project. Something I can spend an hour or two on – typographic experiments, lots of colors and styles, an excuse to play and build up a library of visual assets. Then it dawned on me. I’m expecting my first child in two months, why not play with some of the names we are throwing around?</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Elliott </title>
-        
-        
-        <link href="http://njmcgee.com/2011/10/elliott.html"/>
-        
-        <updated>2011-10-05T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/10/elliott</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/elliott.png"></img>
-          
-          <p>Just playing with some textures, compositions and names.</p>
           
         </content>
         <author>
@@ -558,8 +279,6 @@
         <id>njmcgee.com:/2011/10/zerply-front-end</id>
         <content type="html">
           
-           <img src="http://njmcgee.com/images/posts/zerply.png"></img>
-          
           <p>A great post by <a href="http://lukesbeard.com/">Luke Beard</a> on front-end implementation at Zerply.</p>
           
         </content>
@@ -589,53 +308,6 @@
     </entry>
     
     <entry>
-        <title>Mad Men opening title sequence &#x219D;</title>
-        
-        
-        <link href="http://www.artofthetitle.com/2011/09/19/mad-men/"/>
-        
-        <updated>2011-10-03T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/10/mad-men-titles</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/madmen.png"></img>
-          
-          <p><a href="http://www.artofthetitle.com/">Art of the Title</a> interviews Producer Cara McKenny and Creative Directors Steve Fuller and Mark Gardner on the production of the iconic Mad Men titles. Covers the initial brief,  concept, the politics involved in using a fall from a skyscraper, animation techniques, logo design, alternate approaches and more. Also see the wonderful Simpsons parody at the very bottom.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Instapaper round 2 </title>
-        
-        
-        <link href="http://njmcgee.com/2011/09/instapaper-take-2.html"/>
-        
-        <updated>2011-09-27T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/09/instapaper-take-2</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/instapaper2.png"></img>
-          
-          <p>It didn&#8217;t seem fair to give such a great product only an hour or two of attention, so I squeezed in another two hours. Still not enough, but it’s more fun to show things often, and see designs change.</p>
-<p>Again, this is how Instapaper currently looks when you log in:</p>
-<p><img src="/images/posts/instapaper-old.png" style="margin-left: 0;"/></p>
-<p>This time I&#8217;ve added the ability to batch archive, like or delete (could also potentially batch items to a folder, send to kindle etc). I’ve cleaned things up by only displaying the text, share and edit buttons on hover (click for full size):</p>
-<p><a href="/images/posts/instapaper2-full.png"><img src="/images/posts/instapaper2.png" style="margin-left: 0;"/></a></p>
-<p>There’s lots of things I’d love to give further polish and attention, if time allows I might come back to it. We’ll see. Any thoughts?</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
         <title>Instapaper facelift </title>
         
         
@@ -645,36 +317,12 @@
         <id>njmcgee.com:/2011/09/instapaper-facelift</id>
         <content type="html">
           
-           <img src="http://njmcgee.com/images/posts/instapaper.png"></img>
-          
-          <p>I love <a href="http://instapaper.com">Instapaper</a>. I use it every day, and it’s kindle integration has dramatically changed the way I read and enjoy content from the web. I’ve always enjoyed seeing unsolicited redesigns so I thought I’d take a quick stab at one.</p>
-<p>This is how Instapaper currently looks when you log in:</p>
+          <p>I love <a href="http://instapaper.com">Instapaper</a>. I use it every day, and it’s kindle integration has dramatically changed the way I read and enjoy content from the web.</p>
+<p>This is what Instapaper looks like you log in:</p>
 <p><img src="/images/posts/instapaper-old.png" style="margin-left: 0;"/></p>
 <p>I spent an hour or two imagining how I might improve things without any fundamental changes to the layout, typography, colors and stripped back philosophy (click for full size):</p>
-<p><a href="/images/posts/instapaper-full.png"><img src="/images/posts/instapaper.png" style="margin-left: 0;"/></a></p>
-<p>I&#8217;ve increased the page width from 750px to 940px to improve efficiency of space while providing more breathing room where needed. New icons are in <span class="caps">SVG</span> format meaning the design could be implemented without a single image.</p>
-<p>Update: further revisions can be found <a href="/2011/09/instapaper-take-2.html">here</a>.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Thomas Fournier &#x219D;</title>
-        
-        
-        <link href="http://tomartichaut.blogspot.com/2011/04/blog-post_14.html"/>
-        
-        <updated>2011-09-19T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/09/thomas-fournier</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/thomas.jpg"></img>
-          
-          <p>by <a href="http://tomartichaut.blogspot.com/">Thomas Fournier</a></p>
+<p><a href="/images/posts/instapaper2-full.png"><img src="/images/posts/instapaper2.png" style="margin-left: 0;"/></a></p>
+<p>New icons are in <span class="caps">SVG</span> format and the design could be implemented without a single image.</p>
           
         </content>
         <author>
@@ -719,7 +367,7 @@
 <blockquote>
 <p>Design is such an influential part of Facebook’s strategy that Cox and 64 other members of the design staff occupy desks that form a U-shape around founder and <span class="caps">CEO</span> Mark Zuckerberg.</p>
 </blockquote>
-<p>Expands on some of my previous posts on Facebook&#8217;s design strategy. The more I think about it, the more I wonder if Facebook’s business provides the scope for roughly 64 designers (many of whom are absolutely brilliant) to all be at their best?</p>
+<p>The more I think about it, the more I wonder if Facebook’s business provides the scope for roughly 64 designers (many of whom are absolutely brilliant) to all be at their best?</p>
           
         </content>
         <author>
@@ -742,27 +390,6 @@
 <p>I completely agree. You don’t get to call yourself a web designer if you’re illiterate in <span class="caps">HTML</span> &amp; <span class="caps">CSS</span> (let’s not get bogged down in whether this is ‘coding’ or not). The discussion seems to come around regularly and it’s amazing that there is actual resistance to this idea (see <a href="http://andyrutledge.com/web-design-is-product-design.php">Rutledge’s article</a> for a succinct rebuttal).</p>
 <p>But why do people resist this idea? Do they think markup and <span class="caps">CSS</span> is hard? Set in their ways? Scared it might be a slippery slope into nerdom?</p>
 <p>If you’re brilliant enough to design beautiful websites you’ve already spent years mastering typography, composition, content strategy, visual design techniques, and some very complex tools. Learning <span class="caps">HTML</span> &amp; <span class="caps">CSS</span> is a piece of cake in comparison. You’ve got no excuse, you’re obviously smart enough and you’re lucky. With HTML5, CSS3, modern browsers, <a href="http://github.com">Github</a>, <a href="http://sass-lang.com/"><span class="caps">SASS</span></a> &amp; <a href="http://compass-style.org/">Compass</a> it’s not just easy – it’s fun.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Dear Loser &#x219D;</title>
-        
-        
-        <link href="http://www.lettersofnote.com/2011/09/dear-loser.html"/>
-        
-        <updated>2011-09-02T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/09/dear-loser</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/dear-loser.jpg"></img>
-          
-          <p>via <a href="http://www.lettersofnote.com/2011/09/dear-loser.html">Letters of Note</a>.</p>
           
         </content>
         <author>
@@ -857,27 +484,6 @@
     </entry>
     
     <entry>
-        <title>Ease up on the all-caps &#x219D;</title>
-        
-        
-        <link href="http://littlebigdetails.com/post/9417762507/getsatisfaction-gives-instant-feedback-when"/>
-        
-        <updated>2011-08-26T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/08/ease-up-on-the-all-caps</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/getsatisfaction.png"></img>
-          
-          <p>Thoughtful, fun design. <a href="http://littlebigdetails.com/">Little Big Details</a> is great.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
         <title>Actelion Imagery Wizard &#x219D;</title>
         
         
@@ -912,29 +518,6 @@ I made a video teaser for my upcoming game Faraway.<br/>
 Cool fact: it was all made in code, it’s an uncut programming sequence. No video editors were used.<br/>
 - The game will come out this fall on iOS. Specific date and platform are <span class="caps">TBA</span>.
 </blockquote>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Glass Beach &#x219D;</title>
-        
-        
-        <link href="http://thisiscolossal.com/2011/08/glass-beach/"/>
-        
-        <updated>2011-08-22T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/08/glass-beach</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/glass-beach.jpg"></img>
-          
-          <div class="clear"></div>
-<blockquote>During the early 20th century residents of Fort Bragg, California chose to dispose of their waste by hurling it off the cliffs above a beach. No object was too toxic or too large as household appliances, automobiles, and all matter of trash were tossed into the crashing waves below, eventually earning it the name The Dumps. In 1967 the North Coast Water Quality Board closed the area completely and initiated a series of cleanups to slowly reverse decades of pollution and environmental damage. But there was one thing too costly (or perhaps impossible) to tackle: the millions of tiny glass shards churning in the surf. Over time the unrelenting ocean waves have, in a sense, cleansed the beach, turning the sand into a sparkling, multicolored bed of smooth glass stones now known as Glass Beach</blockquote>
-<p>(via <a href="http://thisiscolossal.com/2011/08/glass-beach/">Colossal</a>)</p>
           
         </content>
         <author>
@@ -993,27 +576,6 @@ Cool fact: it was all made in code, it’s an uncut programming sequence. No vid
 </blockquote>
 <p>Matt Drance wonders if Facebook are taking a risk by putting too much talent in the same room. It’s an odd concern. A individual doesn’t need talent to ruin a good team (but ego might help). This all boils down to the individuals involved and Facebook’s ability to give their brilliant new talent scope and room to work. One thing is for sure, you don’t lower your recruitment standards out of a superstitious belief that an “All-Star team” is going to fail.</p>
 <p>To be fair, the article acknowledges this and the leadership challenges involved, but ends by wondering if Facebook can replicate Apple’s design driven success. Why an Apple (or Steve Jobs) comparison is necessary I’m not sure,  but seeing important companies put such great value in design is encouraging to see – no need for alarm bells.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Lucas Simões &#x219D;</title>
-        
-        
-        <link href="http://www.flickr.com/photos/lucsa/"/>
-        
-        <updated>2011-08-05T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/08/lucas-simoes</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/lucas-simoes.jpg"></img>
-          
-          <p>São Paulo based architect and artist Lucas Simões produces portraits by making cuts in layered photographs. (via <a href="http://thisiscolossal.com/2011/08/new-work-from-lucas-simoes/">Quipsologies</a>)</p>
           
         </content>
         <author>
@@ -1136,27 +698,6 @@ Your studio is bullshit</p>
     </entry>
     
     <entry>
-        <title>Peoplemovin - Migration flows across the world &#x219D;</title>
-        
-        
-        <link href="http://www.peoplemov.in/"/>
-        
-        <updated>2011-07-14T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/07/peoplemovin-migration-flows</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/migrants.jpg"></img>
-          
-          <p>People Movin by Carlo Zapponi is an interactive graph that displays migration patterns. It’s simple, but incredibly rich and impressively built with Canvas/HTML5.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
         <title>Steve Lambert’s brilliant &amp; awkward 404 page &#x219D;</title>
         
         
@@ -1196,43 +737,6 @@ Your studio is bullshit</p>
     </entry>
     
     <entry>
-        <title>Boom or bubble? &#x219D;</title>
-        
-        
-        <link href="/images/big-boom.jpg"/>
-        
-        <updated>2011-07-13T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/07/boom-or-bubble</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/big-boom-small.jpg"></img>
-          
-          <p>Impressive infographics comparing recent data to that of the the late 90’s. Some of the more interesting pieces of data:</p>
-<ul>
-	<li>Venture investment peaked in the 1st quarter of 2000 at $27 billion</li>
-	<li>Current investment looks to be around the $6 billion mark</li>
-</ul>
-<ul>
-	<li>A total of 619 tech IPOs in 1998, 1999 and 2000.</li>
-	<li>A total of 84 tech IPOs in 2009, 2010 and 2011.</li>
-</ul>
-<ul>
-	<li>The current number of active Facebook users is equal to the number of total internet users in 2002.</li>
-	<li>The current number of iPhone owners is equal to the number of total internet users in 1997.</li>
-</ul>
-<ul>
-	<li>Current revenue multipliers look quite high. Facebook at 37.5x ($75 billion valuation at $2 billion revenue), Zynga at 40x ($10 billion valuation at $850 million revenue), Twitter at 55x ($8.5 billion valuation at $150 million revenue).</li>
-</ul>
-<p>Designed by <a href="http://www.kissmetrics.com/">Kissmetrics</a>.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
         <title>DesignersMX &#x219D;</title>
         
         
@@ -1244,70 +748,7 @@ Your studio is bullshit</p>
           
            <img src="http://njmcgee.com/images/posts/more-mixtapes.jpg"></img>
           
-          <p>More mixtapes! <a href="http://designers.mx/">DesignersMX</a> invites designers to submit a mix and design an accompanying cover. Listening to <a href="http://designers.mx/patterns_process/">Patterns and Process</a> at the moment, purely because I liked the cover. Good mix though.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>The Illuminated Mixtapes &#x219D;</title>
-        
-        
-        <link href="http://gigawattdesign.com/tunes/index.html"/>
-        
-        <updated>2011-07-07T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/07/illuminated-mixtapes</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/mixtape.jpg"></img>
-          
-          <p><a href="http://gigawattdesign.com/tunes/index.html">Adam Parks</a> has put together 20 wonderful mixtapes, illustrating a cover for each. (via <a href="http://www.subtraction.com/2011/07/07/the-illuminated-mixtapes?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+subtraction+Subtraction">Subtraction</a>)</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Ridiculous Pool Paint Attack </title>
-        
-        
-        <link href="http://njmcgee.com/2011/07/skate-paint.html"/>
-        
-        <updated>2011-07-06T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/07/skate-paint</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/skate-paint.jpg"></img>
-          
-          <p>Always love these sort of generative processes brought into the physical. Complete with paint, real mess, even stacks and grinds. Check out the <a href="http://www.youtube.com/watch?v=ScW5kWzSaSI&amp;feature=player_embedded#at=25">making-of video</a>. (via <a href="http://thisiscolossal.com/2011/07/the-ridiculous-pool-spraypaint-skateboarding/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+colossal+%28Colossal%29">Colossal</a>)</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Lego Architecture - Falling Water &#x219D;</title>
-        
-        
-        <link href="http://architecture.lego.com/en-us/Products/architect/21005%20-%20Fallingwater.aspx"/>
-        
-        <updated>2011-07-06T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/07/falling-waters-lego</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/fallingwater.jpg"></img>
-          
-          <p>I want. <a href="http://architecture.lego.com/en-us/Products/architect/21004%20-%20Guggenheim.aspx">The Guggenheim Museum</a>, <a href="http://architecture.lego.com/en-us/Products/Architect/21008%20-%20Burj%20Khalifa.aspx">Burj Khalifa</a> and <a href="http://architecture.lego.com/en-us/Products/Architect/21009%20-%20Farnsworth%20House.aspx">The Farnsworth House</a> also available.</p>
+          <p><a href="http://designers.mx/">DesignersMX</a> invites designers to submit a mix and design an accompanying cover. Knock Knock?</p>
           
         </content>
         <author>
@@ -1327,28 +768,6 @@ Your studio is bullshit</p>
         <content type="html">
           
           <p>Filmed at Lautner’s famous Chemosphere House. If you like the building find yourself a copy of <a href="http://www.infinitespacethemovie.com/">Infinite Space</a>, a wonderful documentary on Lautner’s work (including this building). If you like Sasha Grey I don’t think you’ll need my help finding more of her.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Austin Madison on creativity </title>
-        
-        
-        <link href="http://njmcgee.com/2011/07/austin-madison-on-creativity.html"/>
-        
-        <updated>2011-07-05T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/07/austin-madison-on-creativity</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/letter01.jpg"></img>
-          
-          <p><img src="/images/posts/letter02.jpg" style="margin-left: 0;" /></p>
-<p>Via <a href="http://www.lettersofnote.com/2011/07/persist.html">Letters of Note</a>.</p>
           
         </content>
         <author>
@@ -1399,43 +818,22 @@ Your studio is bullshit</p>
     </entry>
     
     <entry>
-        <title>OpenPhoto, a photo service for your S3 or Dropbox account &#x219D;</title>
+        <title>Where’s my equity? </title>
         
         
-        <link href="http://www.kickstarter.com/projects/jmathai/openphoto-a-photo-service-for-your-s3-or-dropbox-a"/>
+        <link href="http://njmcgee.com/2011/06/wheres-my-equity.html"/>
         
         <updated>2011-06-30T00:00:00-07:00</updated>
         <id>njmcgee.com:/2011/06/wheres-my-equity</id>
         <content type="html">
           
-          <p>When I see a very talented (and professionally proven) designer, writer or engineer asking for charity on Kickstarter I can’t help but feel that something is a bit whack &#8211; on two counts:</p>
+          <p>When I see a very talented (and professionally proven) designer, writer or engineer <a href="http://www.kickstarter.com/projects/jmathai/openphoto-a-photo-service-for-your-s3-or-dropbox-a">asking for charity on Kickstarter</a> I can’t help but feel that something is a bit whack &#8211; on two counts.</p>
 <p><strong>1.</strong> The creative (or arguably the entrepreneur in this case) is selling themselves short. We often see Kickstarters justifying the amount they are asking for by playing down any idea they will be paid and noting that the money will go towards bills, materials, etc. Why shouldn’t a talented creative, working on a project that people want be paid well!?</p>
 <p><strong>2.</strong> Where’s my equity? We are seeing start-up costs be funded without any exchange in return. What if Openphoto grows to the size of Flickr? The earliest of angels receive nothing for their investment (in some Kickstarter projects in the many thousands of dollars), or even a promise of being paid back.</p>
 <p>I doubt this is the first software project on Kickstarter but it’s come right out of Sunnyvale, and an ex Yahoo/Flickr employee. There’s angel capital flying around The Bay Area at the moment &#8211; I can’t imagine being in a better place to access investors (big or small).</p>
 <p>Somewhere there’s probably a line between personal creative projects, and professional or commercial endeavors. I’d suggest it’s somewhere between:</p>
 <p>I need more wool so I can knit my grandchildren beautiful sweaters; and; I need $25,000 to bootstrap my new start-up for free.</p>
 <p>That being said, I’m not against charitable behavior in creative projects, I understand there’s many without access to capital, and it seems that people want to give, so best of luck to all involved. I’m just confused about who is actually benefitting here.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Oxford Writing and Style Guide no longer recommending the Oxford comma &#x219D;</title>
-        
-        
-        <link href="http://kottke.org/11/06/ditching-the-oxford-comma"/>
-        
-        <updated>2011-06-29T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/06/the-kottke-style-guide</id>
-        <content type="html">
-          
-          <p>Kottke on Oxford now recommending that internal documents ditch the serial/Oxford comma:</p>
-<blockquote>The kottke.org style guide still advocates the use of the Oxford comma, but take that with a grain of salt; I also misuse semicolons, use too many (often unnecessary) parentheses &#8212; not to mention m-dashes that are actually rendered as two n-dashes in old-school <span class="caps">ASCII</span> fashion &#8212; use too many commas, and place punctuation outside quotation marks, which many people find, in the words of Bill S. Preston Esq. and Ted &#8220;Theodore&#8221; Logan, &#8220;bogus&#8221;.</blockquote>
-<p>Funny stuff. If you get off on discussions about typographic structure and punctuation check out <a href="http://5by5.tv/talkshow/45">Episode #45 of the Talk Show</a> where Gruber and Benjamin discuss logical punctuation. I personally won’t defend Kottke’s use of “dumb quotes” but that’s maybe because pressing <code class="inline">alt + [</code> has become an ingrained behavior when writing a quotation.</p>
           
         </content>
         <author>
@@ -1482,25 +880,6 @@ Your studio is bullshit</p>
     </entry>
     
     <entry>
-        <title>Slow motion never gets old </title>
-        
-        
-        <link href="http://njmcgee.com/2011/06/slo-mo-never-gets-old.html"/>
-        
-        <updated>2011-06-28T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/06/slo-mo-never-gets-old</id>
-        <content type="html">
-          
-          <p>(via <a href="http://kottke.org/11/06/slo-mo-cymbal-strike">Kottke</a>)</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
         <title>Native style momentum scrolling to arrive in iOS 5 &#x219D;</title>
         
         
@@ -1511,27 +890,6 @@ Your studio is bullshit</p>
         <content type="html">
           
           <p>It’s great news and more evidence that Apple are willing to lead the way in mobile browser development. <code class="inline">position: fixed</code> and <code class="inline">overflow: scroll</code> are also on their way with iOS 5, but let’s not get excited until Android catches up. Until these handsets enable position fixing and full overflow support we’ll have no choice but to continue to add JavaScript to fake these behaviors.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Topguest on your smartphone </title>
-        
-        
-        <link href="http://njmcgee.com/2011/06/topguest-on-your-smartphone.html"/>
-        
-        <updated>2011-06-16T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/06/topguest-on-your-smartphone</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/posts/topguest-mobile.jpg"></img>
-          
-          <p>I’ve been working on a mobile optimized version of Topguest and it went live today. Visit <a href="http://topguest.com">topguest.com</a> on your smartphone to take a look.</p>
           
         </content>
         <author>
@@ -1582,26 +940,6 @@ Your studio is bullshit</p>
 <p>Need evidence? <a href="http://www.underconsideration.com/fpo/archives/2011/05/president-barack-obama-at-facebook-tickets.php"><span class="caps">FPO</span></a> profiles the tickets the Facebook team produced in less than 24 for Obama&#8217;s Town Hall event at Facebook’s headquarters.</p>
 <p><img src="/images/posts/tickets.jpg" style="margin-left: 0;" /></p>
 <p><a href="https://www.facebook.com/video/video.php?v=10150096693006777&amp;oid=75877461389&amp;comments">Take a video tour of the Facebook Analog Research Laboratory</a>.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Walt Disney's MultiPlane Camera </title>
-        
-        
-        <link href="http://njmcgee.com/2011/06/disneys-multiplane-camera.html"/>
-        
-        <updated>2011-06-14T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/06/disneys-multiplane-camera</id>
-        <content type="html">
-          
-          <p>Innovation and execution. I think I’ll stop in at <a href="http://www.lostweekendvideo.com">Lost Weekend</a> and grab some Goofy cartoons.</p>
-<p>(via <a href="http://daringfireball.net/linked/2011/06/14/walt-disney-animation">Daring Fireball</a>)</p>
           
         </content>
         <author>
@@ -1739,49 +1077,6 @@ Your studio is bullshit</p>
            <img src="http://njmcgee.com/images/posts/anni-albers.jpg"></img>
           
           <p>Have found some simply stunning Anni Albers (the wife of my favourite artist, Josef Albers) prints at the National Gallery Of Australia.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>A new Topguest </title>
-        
-        
-        <link href="http://njmcgee.com/2011/05/a-new-topguest.html"/>
-        
-        <updated>2011-05-26T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/05/a-new-topguest</id>
-        <content type="html">
-          
-           <img src="http://njmcgee.com/images/topguest-devices.jpg"></img>
-          
-          <p>You might have noticed that things are changing at Topguest. A new design, some subtle but important changes to the application, and we’ve just launched the beginnings of a new mobile web experience.</p>
-<p>One of the more dramatic changes is the much brighter color scheme. After applying it to some important layouts I mentioned to the team that we’d “turned the lights on”. This stuck with me, as I worked through problems unrelated to color or shade, and I hope it shows. We hope the new (and upcoming) changes, bring clarity, ease of use, and lots more points!</p>
-<p>Things aren’t slowing anytime soon. We’re adding programs and new locations every day, and be sure to visit <a href="http://topguest.com">http://topguest.com</a> on your mobile browser. We’re regularly adding mobile optimized functionality so you can manage your points, and find locations on the go.</p>
-<p>Any feedback? <a href="mailto:nathan@topguest.com">Get in touch</a>.</p>
-          
-        </content>
-        <author>
-            <name></name>
-            <uri></uri>
-        </author>
-    </entry>
-    
-    <entry>
-        <title>Our vision for the future of loyalty &#x219D;</title>
-        
-        
-        <link href="http://blog.topguest.com/2011/05/the-future-of-loyalty.html"/>
-        
-        <updated>2011-05-24T00:00:00-07:00</updated>
-        <id>njmcgee.com:/2011/05/the-future-of-loyalty</id>
-        <content type="html">
-          
-          <p>Our <span class="caps">CEO</span> Geoff on the business we do at Topguest.</p>
           
         </content>
         <author>

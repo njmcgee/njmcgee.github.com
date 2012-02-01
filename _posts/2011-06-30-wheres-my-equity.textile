@@ -1,11 +1,10 @@
 ---
 layout: post
-title: OpenPhoto, a photo service for your S3 or Dropbox account
-summary-only: yes
-external: http://www.kickstarter.com/projects/jmathai/openphoto-a-photo-service-for-your-s3-or-dropbox-a
+title: Where’s my equity?
+summary: When I see a very talented (and professionally proven) designer, writer or engineer asking for charity on Kickstarter I can’t help but feel that something is a bit whack - on two counts
 ---
 
-When I see a very talented (and professionally proven) designer, writer or engineer asking for charity on Kickstarter I can’t help but feel that something is a bit whack - on two counts:
+When I see a very talented (and professionally proven) designer, writer or engineer "asking for charity on Kickstarter":http://www.kickstarter.com/projects/jmathai/openphoto-a-photo-service-for-your-s3-or-dropbox-a I can’t help but feel that something is a bit whack - on two counts.
 
 <strong>1.</strong> The creative (or arguably the entrepreneur in this case) is selling themselves short. We often see Kickstarters justifying the amount they are asking for by playing down any idea they will be paid and noting that the money will go towards bills, materials, etc. Why shouldn’t a talented creative, working on a project that people want be paid well!?
 

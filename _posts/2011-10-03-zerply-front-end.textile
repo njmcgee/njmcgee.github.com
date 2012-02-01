@@ -3,7 +3,7 @@ layout: post
 title: Zerply Frontend
 summary-only: yes
 external: http://lukesbeard.com/posts/zerply-frontend/
-image-path: /images/posts/zerply.png
+_image-path: /images/posts/zerply.png
 ---
 
 A great post by "Luke Beard":http://lukesbeard.com/ on front-end implementation at Zerply.

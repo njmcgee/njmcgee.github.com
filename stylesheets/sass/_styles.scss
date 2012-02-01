@@ -188,11 +188,15 @@ footer {
 .intro {
 	font-size: 2em; /* 29px / 18px */
 	line-height: 1.35em;
-	font-style: italic;
+	// font-style: italic;
+	font-weight: $bold;
 	margin-bottom: 3px;
 	margin-bottom: 12px;
 	b {
-		font-weight: $bold;
+		//font-style: italic;
+		font-weight: 700;
+		// text-decoration: underline;
+		// color: $alternate-color;
 	}
 }
 

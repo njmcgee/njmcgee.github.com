@@ -3,9 +3,41 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2012-02-01T14:36:21-08:00</updated>
+    <updated>2012-02-06T11:38:06-08:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Recent reads 5 </title>
+        
+        
+        <link href="http://njmcgee.com/2012/02/recent-reads-5.html"/>
+        
+        <updated>2012-02-06T00:00:00-08:00</updated>
+        <id>njmcgee.com:/2012/02/recent-reads-5</id>
+        <content type="html">
+          
+          <h2><a href="http://thinkvitamin.com/design/the-separation-of-structure-presentation-and-behavior-is-dead/">The separation of structure, presentation and behavior is dead</a> – Kevin Dees</h2>
+<p>Less than two years ago I’d preach to my university students about the benefits in separating structure, presentation, and behavior. I’d tell stories about how far we had come since the <i>&lt;blink&gt;</i> tag. Kevin Dees highlights my hypocrisy. Separation is a useful concept, but it over-simplifies the way we work.</p>
+<h2><a href="http://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/">The Gervais Principle, Or The Office According to “The Office”</a> – Venkatesh Rao</h2>
+<p>A not particularly easy to read, but incredibly insightful piece on the modern corporate office.</p>
+<h2><a href="http://www.vanityfair.com/style/2012/01/prisoners-of-style-201201?currentPage=all">You Say You Want a Devolution?</a> – Kurt Andersen</h2>
+<p>Is popular culture is stuck on repeat?</p>
+<h2><a href="http://www.alistapart.com/articles/building-twitter-bootstrap/">Building Twitter Bootstrap</a> – Mark Otto</h2>
+<p><a href="http://twitter.github.com/bootstrap/">Bootstrap 2</a> is here! To celebrate, go and read the story of how it came to be.</p>
+<h2><a href="http://www.forbes.com/sites/venkateshrao/2011/12/05/the-rise-of-developeronomics/">The Rise of Developeronomics</a> – Venkatesh Rao</h2>
+<p>Software developers are in a unique position. They can generate wealth faster than any other economic force. They are of such value, in such high demand, that even when companies and markets crash they have no reason to frown. Before the dust settles, and investors and business people prepare to squabble over pennies, the talented developer walks away, into another high-cash, or high-equity position (often both). Rao argues that smart investors should find ways to invest in these people, not their software.</p>
+<h2><a href="http://www.odannyboy.com/2011/11/my-favorite-design-articles-2011/">My Favorite Design Articles 2011</a> – Dan Saffer</h2>
+<p>Design articles. Lots of em.</p>
+<h2><a href="http://blog.frankchimero.com/post/11620616234">Untitled</a> – Frank Chimero</h2>
+<p>A thoughtful, ephemeral ramble by Chimero on learning, fear, making things and love.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Git For Designers &#x219D;</title>

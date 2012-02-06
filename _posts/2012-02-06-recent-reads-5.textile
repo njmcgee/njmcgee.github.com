@@ -1,0 +1,33 @@
+---
+layout: post
+title: Recent reads 5
+summary: This time around I’ve got articles on why we should abandon the idea of separation in front-end development, the truly bizarre nature of modern corporate offices, popular culture’s current road block, investing in software engineers (not their software), and the learning, fear and love involved in making things.
+---
+
+h2. "The separation of structure, presentation and behavior is dead":http://thinkvitamin.com/design/the-separation-of-structure-presentation-and-behavior-is-dead/ – Kevin Dees
+
+Less than two years ago I’d preach to my university students about the benefits in separating structure, presentation, and behavior. I’d tell stories about how far we had come since the <i>&lt;blink&gt;</i> tag. Kevin Dees highlights my hypocrisy. Separation is a useful concept, but it over-simplifies the way we work.   
+
+h2. "The Gervais Principle, Or The Office According to “The Office”":http://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/ – Venkatesh Rao
+
+A not particularly easy to read, but incredibly insightful piece on the modern corporate office. 
+
+h2. "You Say You Want a Devolution?":http://www.vanityfair.com/style/2012/01/prisoners-of-style-201201?currentPage=all – Kurt Andersen
+
+Is popular culture is stuck on repeat? 
+
+h2. "Building Twitter Bootstrap":http://www.alistapart.com/articles/building-twitter-bootstrap/ – Mark Otto
+
+"Bootstrap 2":http://twitter.github.com/bootstrap/ is here! To celebrate, go and read the story of how it came to be.
+
+h2. "The Rise of Developeronomics":http://www.forbes.com/sites/venkateshrao/2011/12/05/the-rise-of-developeronomics/ – Venkatesh Rao
+
+Software developers are in a unique position. They can generate wealth faster than any other economic force. They are of such value, in such high demand, that even when companies and markets crash they have no reason to frown. Before the dust settles, and investors and business people prepare to squabble over pennies, the talented developer walks away, into another high-cash, or high-equity position (often both). Rao argues that smart investors should find ways to invest in these people, not their software.
+
+h2. "My Favorite Design Articles 2011":http://www.odannyboy.com/2011/11/my-favorite-design-articles-2011/ – Dan Saffer
+
+Design articles. Lots of em.
+
+h2. "Untitled":http://blog.frankchimero.com/post/11620616234 – Frank Chimero
+
+A thoughtful, ephemeral ramble by Chimero on learning, fear, making things and love. 

@@ -1,0 +1,35 @@
+---
+layout: post
+title: Web employment resources
+summary: Thinking of moving on? Entering the start-up world? Time to freelance full-time? Or just want to get a feel for the market? Here’s a list of valuable job-related resources.
+---
+
+If you’re good at making things on the web I’m guessing you’re probably not starving for work right now. I went to a "UX meet-up":http://www.uxhappyhour.com/ last night and the first three people I met were recruiters. While recruiters can be useful (I’ve met two truly excellent, thoughtful and knowledgeable recruiters), most create noise, and suck time.
+
+We’re in demand. We have a lot of leverage and can be cautious about making full-time commitments (until we find, or come up with an idea we really want to invest in). Wanna cut out the middle-woman and test the waters?
+
+h2. "Authentic Jobs":http://www.authenticjobs.com/
+
+Large global listing of design related jobs. Great filtering - search by location, category and employment arrangement.
+
+h2. "Github Jobs":http://jobs.github.com/
+
+An engineering focus but you’ll find some quality, tech-driven companies.
+
+h2. "37 Signals Job Board":http://jobs.github.com/
+
+A wonderful mix of companies. You’ll find agencies, start-ups, media companies, NFPs, and much more. 
+
+h2. "Dribbble Jobs":http://dribbble.com/jobs
+
+A handful of positions added each day. Design focused.
+
+h2. "Elegantly":http://elegant.ly/
+
+Looking for equity in an early stage start-up? Want ownership over a product, and to be part of a small fast-paced team? Elegantly is a great place to start. Designers must apply, and are then able to anonymously browse pitches from start-up founders. 
+
+h2. "AngelList Jobs":http://angel.co/jobs
+
+More access to early stage companies. Also a great place to get a feel for the market. AngelList Jobs is great because companies list the salaries and equity they are offering.
+
+Am I missing any other great employment resources? Please <a href="mailto:nathanmcginness@gmail.com">let me know</a>.

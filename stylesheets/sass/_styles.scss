@@ -4,7 +4,7 @@ $text-color: #292b2b;
 $regular-weight: 300;
 $bold: 600;
 $heading-bold: 800;
-$border-height: 7px;
+$border-height: 6px;
 $link-color: #b93c48;
 $alternate-color: #1E6386;
 
@@ -16,10 +16,10 @@ $alternate-color: #1E6386;
 	box-shadow: 0px 0px 3px rgba(0, 0, 0, .1);
 }
 @mixin inline-h2 {
-	font-family: 'kepler-std-1', Georgia, serif;  
 	text-transform: none;
 	letter-spacing: normal;
 	margin-bottom: 12px;
+	margin-top: 6px;
 	line-height: 1.625em;
 }
 @mixin nm-logo {
@@ -187,16 +187,13 @@ footer {
 
 .intro {
 	font-size: 2em; /* 29px / 18px */
+	font-family:  'proxima-nova-1', Helvetica, sans-serif;
 	line-height: 1.35em;
-	// font-style: italic;
-	font-weight: $bold;
+	font-weight: $heading-bold;
 	margin-bottom: 3px;
 	margin-bottom: 12px;
 	b {
-		//font-style: italic;
-		// font-weight: 700;
-		// text-decoration: underline;
-		// color: $alternate-color;
+		font-weight: $heading-bold;
 	}
 }
 

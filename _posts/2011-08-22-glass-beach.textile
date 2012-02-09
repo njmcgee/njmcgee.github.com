@@ -1,0 +1,11 @@
+---
+layout: post
+title: Glass Beach
+summary-only: yes
+external: http://thisiscolossal.com/2011/08/glass-beach/
+image-path: /images/posts/glass-beach.jpg
+---
+
+<div class="clear"></div>
+<blockquote>During the early 20th century residents of Fort Bragg, California chose to dispose of their waste by hurling it off the cliffs above a beach. No object was too toxic or too large as household appliances, automobiles, and all matter of trash were tossed into the crashing waves below, eventually earning it the name The Dumps. In 1967 the North Coast Water Quality Board closed the area completely and initiated a series of cleanups to slowly reverse decades of pollution and environmental damage. But there was one thing too costly (or perhaps impossible) to tackle: the millions of tiny glass shards churning in the surf. Over time the unrelenting ocean waves have, in a sense, cleansed the beach, turning the sand into a sparkling, multicolored bed of smooth glass stones now known as Glass Beach</blockquote>
+(via "Colossal":http://thisiscolossal.com/2011/08/glass-beach/)

@@ -1,0 +1,29 @@
+---
+layout: post
+title: Why great web designers code
+summary: Should designers code? Who knows? It’s a dumb question. The <b>best</b> web designers do, and here’s why.
+---
+
+Should designers code? Who knows? It’s a dumb question. The <b>best</b> web designers do, and here’s why:
+
+h2. The fluid / responsive / adaptive  web
+
+You can pick any buzzword you like, but you can’t ignore the fact that web design has changed significantly in the last 2 years. This type of cross-platform design is still in it’s infancy and requires problem-solvers (designers) who are willing to get their hands dirty and push boundaries. We’ll continue to use tools like Photoshop, but handing a 960px fixed-width PSD to a team of engineers is starting to look plain dumb. 
+
+h2. Web typography
+
+The recent explosion of technical options brings with it a universe of aesthetic possibilities. Dynamic typography and the very nature of web-fonts means that any truly cutting edge typographer is learning how to design in the browser. Pushing text-boxes around in Photoshop simply doesn’t cut it anymore. 
+
+h2. Interaction design
+
+We can’t see into the future, and we can’t design for all interactions and edge cases in Photoshop. We discover interaction problems (and brilliant ideas) as we build out our interfaces and applications. Being technically involved provides a more complete understanding of our products. It also allows for rapid, organic adjustments.
+
+h2. Movement and animation
+
+The web moves. The graphic-only web designer ignores this crucial fact. Building an complete experience, and getting the details right requires working with JavaScript and CSS.
+
+h2. Iterative design (and prototyping)
+
+A website, application or online product is never finished. In fact, we learn the most about our products after we let them into the wild. The best designers take these learnings and feed them straight back into the production cycle. 
+
+The design trends, practices and methodologies above <b>demand</b> designers with technical expertise. The web designer who doesn’t code is becoming increasingly irrelevant. 

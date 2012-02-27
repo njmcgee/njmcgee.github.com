@@ -3,9 +3,54 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2012-02-24T11:35:16-08:00</updated>
+    <updated>2012-02-27T10:59:08-08:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>On Business Madness &#x219D;</title>
+        
+        
+        <link href="http://al3x.net/2012/02/12/on-business-madness.html"/>
+        
+        <updated>2012-02-27T00:00:00-08:00</updated>
+        <id>njmcgee.com:/2012/02/on-business-madness</id>
+        <content type="html">
+          
+          <p><a href="http://al3x.net/about.html">Alexander Payne</a> (co-founder and Chief Technology Officer at <a href="https://www.simple.com/">Simple</a>) on what I like to call “tech-business bullshit”.</p>
+<blockquote>
+<p>But, as I observe discussions of business matters in the startup community, I can’t help but think that none of us – for all the blustering blog posts, crowing keynotes, self-published manifestos, and chest-beating sound bites fed to hungry reporters – have little more than the slightest idea what we’re doing.</p>
+<p>We mistake dumb luck for a machine that produces success. We rely on induction when we should rely on deduction, and then, having realized our mistake, we lean on “data-driven decisions” in lieu of common sense. We chase patterns that aren’t there and miss eager markets right in front of us. All this while projecting the confidence, real or manufactured, that’s necessary to play the game.</p>
+</blockquote>
+<p>Honesty and humility. It’s refreshing and powerful, particuarly coming from someone in the banking industry.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
+    
+    <entry>
+        <title>Back patting </title>
+        
+        
+        <link href="http://njmcgee.com/2012/02/back-patting.html"/>
+        
+        <updated>2012-02-27T00:00:00-08:00</updated>
+        <id>njmcgee.com:/2012/02/back-patting</id>
+        <content type="html">
+          
+          <p>Last night I watched “tech people” bitch and moan about the Oscars (and the entertainment industry) on Twitter.</p>
+<p>Humor me with a thought experiment. Imagine the general public cared about the about tech industry&#8217;s success stories, personalities, fashions and fads. I bet our industry leaders would revel in the glamor and back-patting in the exact same way; Armani suits, designer dresses, bad jokes and millionaires handing gold statues to other millionaires.</p>
+<p>I agree with <a href="http://www.the-pastry-box-project.net/matthew-smith/2012-february-23/">Matthew Smith’s sentiments</a>, “I&#8217;d like to see less back patting and more challenging articulate critique executed with a healthy measure of grace.”</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Why great web designers code </title>

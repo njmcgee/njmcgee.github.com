@@ -1,0 +1,15 @@
+---
+layout: post
+title: On Business Madness
+summary-only: yes
+external: http://al3x.net/2012/02/12/on-business-madness.html
+---
+"Alexander Payne":http://al3x.net/about.html (co-founder and Chief Technology Officer at "Simple":https://www.simple.com/) on what I like to call “tech-business bullshit”. 
+
+<blockquote>
+	But, as I observe discussions of business matters in the startup community, I can’t help but think that none of us – for all the blustering blog posts, crowing keynotes, self-published manifestos, and chest-beating sound bites fed to hungry reporters – have little more than the slightest idea what we’re doing.
+
+	We mistake dumb luck for a machine that produces success. We rely on induction when we should rely on deduction, and then, having realized our mistake, we lean on “data-driven decisions” in lieu of common sense. We chase patterns that aren’t there and miss eager markets right in front of us. All this while projecting the confidence, real or manufactured, that’s necessary to play the game.
+</blockquote>
+
+Honesty and humility. It’s refreshing and powerful, particuarly coming from someone in the banking industry.

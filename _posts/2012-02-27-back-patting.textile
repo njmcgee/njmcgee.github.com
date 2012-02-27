@@ -6,6 +6,6 @@ summary-only: yes
 
 Last night I watched “tech people” bitch and moan about the Oscars (and the entertainment industry) on Twitter. 
 
-Humor me with a thought experiment. Imagine the general public cared about the about tech industry's success stories, personalities, fashions and fads. I bet our industry leaders would revel in the glamor and back-patting in the exact same way; Armani suits, designer dresses, bad jokes and millionaires handing gold statues to other millionaires. 
+Humor me with a thought experiment. Imagine the general public cared about the tech industry's success stories, personalities, fashions and fads. I bet our industry leaders would revel in the glamor and back-patting in the exact same way; Armani suits, designer dresses, bad jokes and millionaires handing gold statues to other millionaires. 
 
 I agree with "Matthew Smith’s sentiments":http://www.the-pastry-box-project.net/matthew-smith/2012-february-23/, “I'd like to see less back patting and more challenging articulate critique executed with a healthy measure of grace.”

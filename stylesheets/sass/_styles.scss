@@ -128,8 +128,9 @@ header {
 		margin-bottom: 70px;
 	}
 }
-body.post header {
+body.post header, body.about header {
 	padding-bottom: 0px;
+	
 }
 #sidebar {
 	width: 36.842105263157895%; /*350 / 950*/
@@ -256,6 +257,18 @@ body.about {
 			}
 		}
 	}
+}
+
+#awards {
+	h2 {
+		margin-bottom: 20px;
+	}
+}
+
+
+.project {
+	/*font-family: 'kepler-std-1', Georgia, serif;  */
+	font-weight: $regular-weight;
 }
 
 

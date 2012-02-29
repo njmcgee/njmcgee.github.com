@@ -109,7 +109,7 @@ i, em {
 	a {
 		@include nm-logo;		
 		position: fixed;
-		margin-top: 4px;
+		margin-top: 24px;
 	}
 }
 
@@ -119,8 +119,8 @@ i, em {
 }
 header {
 	width: 100%;
-	padding-top: 80px;
-	padding-bottom: 60px;
+	padding-top: 100px;
+	padding-bottom: 20px;
 	h1 {		
 		display: none;
 	}
@@ -128,10 +128,7 @@ header {
 		margin-bottom: 70px;
 	}
 }
-body.post header, body.about header {
-	padding-bottom: 0px;
-	
-}
+
 #sidebar {
 	width: 36.842105263157895%; /*350 / 950*/
 	float: left;

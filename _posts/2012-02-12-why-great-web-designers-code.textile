@@ -4,7 +4,7 @@ title: Why great web designers code
 summary: Should designers code? I don’t know. The best <i>web</i> designers do, and here’s why.
 ---
 
-Should designers code?  I don’t know. The best <i>web</i> designers do, and here’s why:
+<p class="intro">Should designers code?  I don’t know. The best <i>web</i> designers do, and here’s why:</p>
 
 h2. The fluid / responsive / adaptive  web
 

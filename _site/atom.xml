@@ -3,9 +3,34 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2012-03-01T11:06:16-08:00</updated>
+    <updated>2012-03-16T13:22:48+11:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Most Web Design Agencies Suck &#x219D;</title>
+        
+        
+        <link href="http://www.andybudd.com/archives/2012/03/most_web_design_agencies_suck/"/>
+        
+        <updated>2012-03-16T00:00:00+11:00</updated>
+        <id>njmcgee.com:/2012/03/most-web-design-agencies-suck</id>
+        <content type="html">
+          
+          <p>My biggest gripe with the agency model is well articulated by Andy Budd:</p>
+<blockquote>
+<p>So while clients buy into the seniority of the team, then end up getting none of the benefits. In many cases web design consultancies can be little more than employment agencies, hiring people in cheaply and simply slapping a margin on their day rate.</p>
+</blockquote>
+<p>I&#8217;m regularly disturbed when I get the opportunity to do a head count at an agency. Sales staff, project managers, account people, executives and administration staff commonly out-number the people producing the products paid for.</p>
+<p>We have the advertising industry to thank for this legacy. Right or wrong, this is how business was built. Landing the client was the biggest job. Finding and developing the idea a mystical process that justified the final whopping invoice. The eventual implementation (an advertisement) seems trivial once these two hoops have been jumped through.</p>
+<p>Agencies make software now, and software is never finished. Great software starts small, and requires ongoing iteration. Amazing software requires cross-disciplinary teams empowered to make decisions. The advertising business model is almost completely irrelevant. We need to find ways to put makers (designers, engineers, writers etc) directly in touch with the people who need their expertise. We need new ways of selling our time.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>On Business Madness &#x219D;</title>
@@ -13,7 +38,7 @@
         
         <link href="http://al3x.net/2012/02/12/on-business-madness.html"/>
         
-        <updated>2012-02-27T00:00:00-08:00</updated>
+        <updated>2012-02-27T00:00:00+11:00</updated>
         <id>njmcgee.com:/2012/02/on-business-madness</id>
         <content type="html">
           
@@ -37,11 +62,11 @@
         
         <link href="http://njmcgee.com/2012/02/back-patting.html"/>
         
-        <updated>2012-02-27T00:00:00-08:00</updated>
+        <updated>2012-02-27T00:00:00+11:00</updated>
         <id>njmcgee.com:/2012/02/back-patting</id>
         <content type="html">
           
-          <p>Last night I watched designers and developers bitch and moan about the Oscars (and the entertainment industry) on Twitter.</p>
+          <p class="">Last night I watched designers and developers bitch and moan about the Oscars (and the entertainment industry) on Twitter. </p>
 <p>Humor me with a thought experiment. Imagine the general public cared about Silicon Valley&rsquo;s success stories, personalities, fashions and fads. I bet our industry leaders would revel in the glamor and back-patting in the exact same way; Armani suits, designer dresses, bad jokes and millionaires handing gold statues to other millionaires.</p>
 <p>I agree with <a href="http://www.the-pastry-box-project.net/matthew-smith/2012-february-23/">Matthew Smith’s sentiments</a>, “I&#8217;d like to see less back patting and more challenging articulate critique executed with a healthy measure of grace.”</p>
           
@@ -58,11 +83,11 @@
         
         <link href="http://njmcgee.com/2012/02/why-great-web-designers-code.html"/>
         
-        <updated>2012-02-12T00:00:00-08:00</updated>
+        <updated>2012-02-12T00:00:00+11:00</updated>
         <id>njmcgee.com:/2012/02/why-great-web-designers-code</id>
         <content type="html">
           
-          <p>Should designers code?  I don’t know. The best <i>web</i> designers do, and here’s why:</p>
+          <p class="intro">Should designers code?  I don’t know. The best <i>web</i> designers do, and here’s why:</p>
 <h2>The fluid / responsive / adaptive  web</h2>
 <p>Pick any buzzword you like, you can’t ignore that web design is changing. Cross-platform design is in it’s infancy and it requires problem-solving designer willing to get their hands dirty and push boundaries. We’ll continue to use tools like Photoshop, but handing a 960px fixed-width <span class="caps">PSD</span> to a team of engineers is starting to look plain silly.</p>
 <h2>Web typography</h2>
@@ -88,7 +113,7 @@
         
         <link href="http://njmcgee.com/2012/02/web-employment-resources.html"/>
         
-        <updated>2012-02-08T00:00:00-08:00</updated>
+        <updated>2012-02-08T00:00:00+11:00</updated>
         <id>njmcgee.com:/2012/02/web-employment-resources</id>
         <content type="html">
           
@@ -122,7 +147,7 @@
         
         <link href="http://njmcgee.com/2012/02/recent-reads-5.html"/>
         
-        <updated>2012-02-06T00:00:00-08:00</updated>
+        <updated>2012-02-06T00:00:00+11:00</updated>
         <id>njmcgee.com:/2012/02/recent-reads-5</id>
         <content type="html">
           
@@ -154,7 +179,7 @@
         
         <link href="http://thinkvitamin.com/design/git-for-designers-part-1/"/>
         
-        <updated>2012-02-01T00:00:00-08:00</updated>
+        <updated>2012-02-01T00:00:00+11:00</updated>
         <id>njmcgee.com:/2012/02/git-for-designers</id>
         <content type="html">
           
@@ -173,7 +198,7 @@
         
         <link href="http://vimeo.com/34017777"/>
         
-        <updated>2012-01-23T00:00:00-08:00</updated>
+        <updated>2012-01-23T00:00:00+11:00</updated>
         <id>njmcgee.com:/2012/01/wilson-miner-when-we-build</id>
         <content type="html">
           
@@ -194,7 +219,7 @@
         
         <link href="http://www.sublimetext.com/2"/>
         
-        <updated>2012-01-23T00:00:00-08:00</updated>
+        <updated>2012-01-23T00:00:00+11:00</updated>
         <id>njmcgee.com:/2012/01/sublime-text-2</id>
         <content type="html">
           
@@ -214,7 +239,7 @@
         
         <link href="http://pictos.cc/server/"/>
         
-        <updated>2012-01-20T00:00:00-08:00</updated>
+        <updated>2012-01-20T00:00:00+11:00</updated>
         <id>njmcgee.com:/2012/01/pictos-server</id>
         <content type="html">
           
@@ -233,7 +258,7 @@
         
         <link href="http://www.subtraction.com/2012/01/13/android-doubles-down-on-design?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+subtraction+Subtraction"/>
         
-        <updated>2012-01-18T00:00:00-08:00</updated>
+        <updated>2012-01-18T00:00:00+11:00</updated>
         <id>njmcgee.com:/2012/01/android-doubles-down-on-design</id>
         <content type="html">
           
@@ -254,7 +279,7 @@
         
         <link href="http://www.alistapart.com/articles/an-important-time-for-design/"/>
         
-        <updated>2012-01-18T00:00:00-08:00</updated>
+        <updated>2012-01-18T00:00:00+11:00</updated>
         <id>njmcgee.com:/2012/01/an-important-time-for-design</id>
         <content type="html">
           
@@ -274,7 +299,7 @@
         
         <link href="http://esbueno.noahstokes.com/post/15674346663/thirty-five"/>
         
-        <updated>2012-01-12T00:00:00-08:00</updated>
+        <updated>2012-01-12T00:00:00+11:00</updated>
         <id>njmcgee.com:/2012/01/thirty-five</id>
         <content type="html">
           
@@ -295,7 +320,7 @@
         
         <link href="http://njmcgee.com/2011/10/agile-design-when-to-be-agile.html"/>
         
-        <updated>2011-10-27T00:00:00-07:00</updated>
+        <updated>2011-10-27T00:00:00+11:00</updated>
         <id>njmcgee.com:/2011/10/agile-design-when-to-be-agile</id>
         <content type="html">
           
@@ -342,7 +367,7 @@
         
         <link href="http://www.josscrowcroft.com/"/>
         
-        <updated>2011-10-26T00:00:00-07:00</updated>
+        <updated>2011-10-26T00:00:00+11:00</updated>
         <id>njmcgee.com:/2011/10/joss-crowcrofts-blog</id>
         <content type="html">
           
@@ -361,7 +386,7 @@
         
         <link href="http://johnbhall.com/iphone-4s/"/>
         
-        <updated>2011-10-26T00:00:00-07:00</updated>
+        <updated>2011-10-26T00:00:00+11:00</updated>
         <id>njmcgee.com:/2011/10/explanation-of-the-CSS-animation-on-apples-iphone-4s-webpage</id>
         <content type="html">
           
@@ -380,7 +405,7 @@
         
         <link href="http://elliotjaystocks.com/blog/the-typography-out-approach-in-the-world-of-browser-based-web-design/"/>
         
-        <updated>2011-10-07T00:00:00-07:00</updated>
+        <updated>2011-10-07T00:00:00+11:00</updated>
         <id>njmcgee.com:/2011/10/the-typography-out-approach</id>
         <content type="html">
           
@@ -401,7 +426,7 @@
         
         <link href="http://njmcgee.com/2011/10/recent-reads-4.html"/>
         
-        <updated>2011-10-04T00:00:00-07:00</updated>
+        <updated>2011-10-04T00:00:00+11:00</updated>
         <id>njmcgee.com:/2011/10/recent-reads-4</id>
         <content type="html">
           
@@ -435,7 +460,7 @@
         
         <link href="http://lukesbeard.com/posts/zerply-frontend/"/>
         
-        <updated>2011-10-03T00:00:00-07:00</updated>
+        <updated>2011-10-03T00:00:00+11:00</updated>
         <id>njmcgee.com:/2011/10/zerply-front-end</id>
         <content type="html">
           
@@ -454,7 +479,7 @@
         
         <link href="http://smacss.com/book/all"/>
         
-        <updated>2011-10-03T00:00:00-07:00</updated>
+        <updated>2011-10-03T00:00:00+11:00</updated>
         <id>njmcgee.com:/2011/10/scalable-and-modular-architecture-for-CSS</id>
         <content type="html">
           
@@ -473,7 +498,7 @@
         
         <link href="http://njmcgee.com/2011/09/instapaper-facelift.html"/>
         
-        <updated>2011-09-23T00:00:00-07:00</updated>
+        <updated>2011-09-23T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/09/instapaper-facelift</id>
         <content type="html">
           
@@ -497,7 +522,7 @@
         
         <link href="http://appendto.com/jquery-overtakes-flash"/>
         
-        <updated>2011-09-09T00:00:00-07:00</updated>
+        <updated>2011-09-09T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/09/jquery-overtakes-flash</id>
         <content type="html">
           
@@ -519,7 +544,7 @@
         
         <link href="http://designmind.frogdesign.com/articles/facebook-s-design-strategy-a-status-update.html"/>
         
-        <updated>2011-09-06T00:00:00-07:00</updated>
+        <updated>2011-09-06T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/09/facebooks-design-strategy</id>
         <content type="html">
           
@@ -542,7 +567,7 @@
         
         <link href="http://njmcgee.com/2011/09/should-designers-code.html"/>
         
-        <updated>2011-09-02T00:00:00-07:00</updated>
+        <updated>2011-09-02T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/09/should-designers-code</id>
         <content type="html">
           
@@ -564,7 +589,7 @@
         
         <link href="http://evolutionofweb.appspot.com/"/>
         
-        <updated>2011-09-01T00:00:00-07:00</updated>
+        <updated>2011-09-01T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/09/evolution-of-the-web</id>
         <content type="html">
           
@@ -585,7 +610,7 @@
         
         <link href="http://andyrutledge.com/web-design-is-product-design.php"/>
         
-        <updated>2011-08-31T00:00:00-07:00</updated>
+        <updated>2011-08-31T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/08/web-design-is-product-design</id>
         <content type="html">
           
@@ -607,7 +632,7 @@
         
         <link href="http://uxuiuxui.tumblr.com/"/>
         
-        <updated>2011-08-31T00:00:00-07:00</updated>
+        <updated>2011-08-31T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/08/uxui-uxui</id>
         <content type="html">
           
@@ -628,7 +653,7 @@
         
         <link href="http://www.oldsf.org/"/>
         
-        <updated>2011-08-26T00:00:00-07:00</updated>
+        <updated>2011-08-26T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/08/old-sf</id>
         <content type="html">
           
@@ -649,7 +674,7 @@
         
         <link href="http://www.onformative.com/work/actelion-imagery-wizard/"/>
         
-        <updated>2011-08-24T00:00:00-07:00</updated>
+        <updated>2011-08-24T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/08/onformative-generative-branding</id>
         <content type="html">
           
@@ -668,7 +693,7 @@
         
         <link href="http://www.playfaraway.com/"/>
         
-        <updated>2011-08-24T00:00:00-07:00</updated>
+        <updated>2011-08-24T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/08/faraway</id>
         <content type="html">
           
@@ -692,7 +717,7 @@ Cool fact: it was all made in code, it’s an uncut programming sequence. No vid
         
         <link href="http://thisiscolossal.com/2011/08/glass-beach/"/>
         
-        <updated>2011-08-22T00:00:00-07:00</updated>
+        <updated>2011-08-22T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/08/glass-beach</id>
         <content type="html">
           
@@ -715,7 +740,7 @@ Cool fact: it was all made in code, it’s an uncut programming sequence. No vid
         
         <link href="http://njmcgee.com/2011/08/recent-reads-3.html"/>
         
-        <updated>2011-08-18T00:00:00-07:00</updated>
+        <updated>2011-08-18T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/08/recent-reads-3</id>
         <content type="html">
           
@@ -749,7 +774,7 @@ Cool fact: it was all made in code, it’s an uncut programming sequence. No vid
         
         <link href="http://www.appleoutsider.com/2011/08/03/ball/"/>
         
-        <updated>2011-08-05T00:00:00-07:00</updated>
+        <updated>2011-08-05T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/08/the-problem-with-all-star-teams</id>
         <content type="html">
           
@@ -773,7 +798,7 @@ Cool fact: it was all made in code, it’s an uncut programming sequence. No vid
         
         <link href="http://pushpoppress.com/about/"/>
         
-        <updated>2011-08-03T00:00:00-07:00</updated>
+        <updated>2011-08-03T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/08/push-pop-press-acquired-by-facebook</id>
         <content type="html">
           
@@ -797,7 +822,7 @@ Cool fact: it was all made in code, it’s an uncut programming sequence. No vid
         
         <link href="http://www.subtraction.com/2011/07/20/the-end-of-client-services"/>
         
-        <updated>2011-07-20T00:00:00-07:00</updated>
+        <updated>2011-07-20T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/07/the-end-of-client-services</id>
         <content type="html">
           
@@ -822,7 +847,7 @@ Cool fact: it was all made in code, it’s an uncut programming sequence. No vid
         
         <link href="http://njmcgee.com/2011/07/recent-reads-2.html"/>
         
-        <updated>2011-07-19T00:00:00-07:00</updated>
+        <updated>2011-07-19T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/07/recent-reads-2</id>
         <content type="html">
           
@@ -860,7 +885,7 @@ Cool fact: it was all made in code, it’s an uncut programming sequence. No vid
         
         <link href="http://pieratt.tumblr.com/post/7537191978/dear-graphic-and-web-designers-please-understand-that"/>
         
-        <updated>2011-07-15T00:00:00-07:00</updated>
+        <updated>2011-07-15T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/07/dear-designers</id>
         <content type="html">
           
@@ -886,7 +911,7 @@ Your studio is bullshit</p>
         
         <link href="http://visitsteve.com/404.html"/>
         
-        <updated>2011-07-13T00:00:00-07:00</updated>
+        <updated>2011-07-13T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/07/steve-lamberts-brilliant-404</id>
         <content type="html">
           
@@ -905,7 +930,7 @@ Your studio is bullshit</p>
         
         <link href="http://njmcgee.com/2011/07/design.html"/>
         
-        <updated>2011-07-13T00:00:00-07:00</updated>
+        <updated>2011-07-13T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/07/design</id>
         <content type="html">
           
@@ -925,7 +950,7 @@ Your studio is bullshit</p>
         
         <link href="http://designers.mx/"/>
         
-        <updated>2011-07-07T00:00:00-07:00</updated>
+        <updated>2011-07-07T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/07/more-mixtapes</id>
         <content type="html">
           
@@ -946,7 +971,7 @@ Your studio is bullshit</p>
         
         <link href="http://njmcgee.com/2011/07/architecture-porn.html"/>
         
-        <updated>2011-07-06T00:00:00-07:00</updated>
+        <updated>2011-07-06T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/07/architecture-porn</id>
         <content type="html">
           
@@ -965,7 +990,7 @@ Your studio is bullshit</p>
         
         <link href="http://njmcgee.com/2011/07/amon-tobin-isam.html"/>
         
-        <updated>2011-07-05T00:00:00-07:00</updated>
+        <updated>2011-07-05T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/07/amon-tobin-isam</id>
         <content type="html">
           
@@ -985,7 +1010,7 @@ Your studio is bullshit</p>
         
         <link href="http://www.humbledmba.com/please-please-please-stop-asking-how-to-find"/>
         
-        <updated>2011-07-01T00:00:00-07:00</updated>
+        <updated>2011-07-01T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/07/polishing-a-turd</id>
         <content type="html">
           
@@ -1006,7 +1031,7 @@ Your studio is bullshit</p>
         
         <link href="http://njmcgee.com/2011/06/wheres-my-equity.html"/>
         
-        <updated>2011-06-30T00:00:00-07:00</updated>
+        <updated>2011-06-30T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/06/wheres-my-equity</id>
         <content type="html">
           
@@ -1031,7 +1056,7 @@ Your studio is bullshit</p>
         
         <link href="http://njmcgee.com/2011/06/recent-reads.html"/>
         
-        <updated>2011-06-29T00:00:00-07:00</updated>
+        <updated>2011-06-29T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/06/recent-reads</id>
         <content type="html">
           
@@ -1068,7 +1093,7 @@ Your studio is bullshit</p>
         
         <link href="http://johanbrook.com/browsers/native-momentum-scrolling-ios-5/"/>
         
-        <updated>2011-06-28T00:00:00-07:00</updated>
+        <updated>2011-06-28T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/06/native-style-momentum-scrolling-to-arrive-in-ios-5</id>
         <content type="html">
           
@@ -1087,7 +1112,7 @@ Your studio is bullshit</p>
         
         <link href="http://techcrunch.com/2011/06/15/facebook-project-spartan/"/>
         
-        <updated>2011-06-16T00:00:00-07:00</updated>
+        <updated>2011-06-16T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/06/project-spartan</id>
         <content type="html">
           
@@ -1108,7 +1133,7 @@ Your studio is bullshit</p>
         
         <link href="http://njmcgee.com/2011/06/facebook-analog-research.html"/>
         
-        <updated>2011-06-14T00:00:00-07:00</updated>
+        <updated>2011-06-14T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/06/facebook-analog-research</id>
         <content type="html">
           
@@ -1137,7 +1162,7 @@ Your studio is bullshit</p>
         
         <link href="http://njmcgee.com/2011/06/fixed-positions-with-javascript.html"/>
         
-        <updated>2011-06-08T00:00:00-07:00</updated>
+        <updated>2011-06-08T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/06/fixed-positions-with-javascript</id>
         <content type="html">
           
@@ -1145,37 +1170,13 @@ Your studio is bullshit</p>
 <p>In simple situations (this site for example) <span class="caps">CSS</span> will do the trick. But what if dynamic content at the top of your page changes this calculation (a flash or notification message for example)? Or your header likes to change size?</p>
 <p><a href="http://ozanonay.com">Ozan</a> helped me solve this problem, and I thought I&#8217;d share.</p>
 <p>We’ll start by selecting said element, calling our custom function, and specifying how far from the top of the page it lives:</p>
-<div class="highlight"><pre><code class="js"><span class="nx">$</span><span class="p">(</span><span class="s1">&#39;#fixed&#39;</span><span class="p">).</span><span class="nx">myFixture</span><span class="p">({</span> <span class="nx">topBoundary</span><span class="o">:</span> <span class="mi">20</span> <span class="p">});</span>
-</code></pre>
-</div><p>And our function looks something like this:</p>
-<div class="highlight"><pre><code class="js"><span class="nx">$</span><span class="p">.</span><span class="nx">fn</span><span class="p">.</span><span class="nx">myFixture</span> <span class="o">=</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">settings</span><span class="p">)</span> <span class="p">{</span>
-  <span class="k">return</span> <span class="k">this</span><span class="p">.</span><span class="nx">each</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
-    
-    <span class="c1">// default css declaration </span>
-    <span class="kd">var</span> <span class="nx">elem</span> <span class="o">=</span> <span class="nx">$</span><span class="p">(</span><span class="k">this</span><span class="p">).</span><span class="nx">css</span><span class="p">(</span><span class="s1">&#39;position&#39;</span><span class="p">,</span> <span class="s1">&#39;fixed&#39;</span><span class="p">);</span>
-    
-    <span class="kd">var</span> <span class="nx">setPosition</span> <span class="o">=</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>         
-      <span class="kd">var</span> <span class="nx">top</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
-      <span class="c1">// get no of pixels hidden above the the window     </span>
-      <span class="kd">var</span> <span class="nx">scrollTop</span> <span class="o">=</span> <span class="nx">$</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">scrollTop</span><span class="p">();</span>    
-      <span class="c1">// get elements distance from top of window</span>
-      <span class="kd">var</span> <span class="nx">topBuffer</span> <span class="o">=</span> <span class="p">((</span><span class="nx">settings</span><span class="p">.</span><span class="nx">topBoundary</span> <span class="o">||</span> <span class="mi">0</span><span class="p">)</span> <span class="o">-</span> <span class="nx">scrollTop</span><span class="p">);</span>
-      <span class="c1">// update position if required</span>
-      <span class="k">if</span> <span class="p">(</span><span class="nx">topBuffer</span> <span class="o">&gt;=</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span> <span class="nx">top</span> <span class="o">+=</span> <span class="nx">topBuffer</span> <span class="p">}</span>
-      <span class="nx">elem</span><span class="p">.</span><span class="nx">css</span><span class="p">(</span><span class="s1">&#39;top&#39;</span><span class="p">,</span> <span class="nx">top</span><span class="p">);</span>      
-    <span class="p">};</span>
-        
-    <span class="nx">$</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">bind</span><span class="p">(</span><span class="s1">&#39;scroll&#39;</span><span class="p">,</span> <span class="nx">setPosition</span><span class="p">);</span>
-    <span class="nx">setPosition</span><span class="p">();</span>
-  <span class="p">});</span>
-<span class="p">};</span>
-</code></pre>
-</div><p>Let’s revisit our first block of code, and base the calculation on the height of a header element above it:</p>
-<div class="highlight"><pre><code class="js"><span class="kd">var</span> <span class="nx">header</span> <span class="o">=</span> <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;header&#39;</span><span class="p">)</span>
-  <span class="p">,</span> <span class="nx">topBoundary</span> <span class="o">=</span> <span class="nx">header</span><span class="p">.</span><span class="nx">outerHeight</span><span class="p">();</span>
-<span class="nx">$</span><span class="p">(</span><span class="s1">&#39;#fixed&#39;</span><span class="p">).</span><span class="nx">myFixture</span><span class="p">({</span> <span class="nx">topBoundary</span><span class="o">:</span> <span class="nx">topBoundary</span> <span class="p">});</span>
-</code></pre>
-</div><p>Another (even more flexible) approach would be to make <code class="default-size">topBoundary</code> equal to the <code class="default-size">offset().top</code> of the <code class="default-size">#fixed</code> element on load.</p>
+</notextile>
+
+And our function looks something like this:
+
+<notextile><p>Let’s revisit our first block of code, and base the calculation on the height of a header element above it:</p>
+<p></notextile></p>
+<p>Another (even more flexible) approach would be to make <code class="default-size">topBoundary</code> equal to the <code class="default-size">offset().top</code> of the <code class="default-size">#fixed</code> element on load.</p>
 <p>Enjoy!</p>
           
         </content>
@@ -1191,7 +1192,7 @@ Your studio is bullshit</p>
         
         <link href="http://njmcgee.com/2011/06/topguest-at-lake-tahoe.html"/>
         
-        <updated>2011-06-06T00:00:00-07:00</updated>
+        <updated>2011-06-06T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/06/topguest-at-lake-tahoe</id>
         <content type="html">
           
@@ -1214,7 +1215,7 @@ Your studio is bullshit</p>
         
         <link href="http://blog.topguest.com/2011/04/designing-and-building-a-blog-in-two-days.html"/>
         
-        <updated>2011-06-06T00:00:00-07:00</updated>
+        <updated>2011-06-06T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/06/a-blog-in-two-days-with-jekyll</id>
         <content type="html">
           
@@ -1233,7 +1234,7 @@ Your studio is bullshit</p>
         
         <link href="http://gmailblog.blogspot.com/2011/06/our-plans-to-support-modern-browsers.html"/>
         
-        <updated>2011-06-05T00:00:00-07:00</updated>
+        <updated>2011-06-05T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/06/google-drops-ie7</id>
         <content type="html">
           
@@ -1253,7 +1254,7 @@ Your studio is bullshit</p>
         
         <link href="http://cs.nga.gov.au/Search.cfm?mystartrow=1&realstartrow=1&VIEW_SELECT=1&CREIRN=12177&ORDER_SELECT=1&SHOWROWS=20"/>
         
-        <updated>2011-06-05T00:00:00-07:00</updated>
+        <updated>2011-06-05T00:00:00+10:00</updated>
         <id>njmcgee.com:/2011/06/anni-albers</id>
         <content type="html">
           

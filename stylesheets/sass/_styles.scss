@@ -237,6 +237,9 @@ body.post article {
 	h2 {
 		@include inline-h2;
 	}
+	.intro {
+		font-size: 2em;
+	}
 }
 
 /*about*/

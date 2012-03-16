@@ -1,0 +1,18 @@
+---
+layout: post
+title: Most Web Design Agencies Suck
+summary-only: yes
+external: http://www.andybudd.com/archives/2012/03/most_web_design_agencies_suck/
+---
+
+My biggest gripe with the agency model is well articulated by Andy Budd:
+
+<blockquote>
+	So while clients buy into the seniority of the team, then end up getting none of the benefits. In many cases web design consultancies can be little more than employment agencies, hiring people in cheaply and simply slapping a margin on their day rate.
+</blockquote>
+
+I'm regularly disturbed when I get the opportunity to do a head count at an agency. Sales staff, project managers, account people, executives and administration staff commonly out-number the people producing the products paid for. 
+
+We have the advertising industry to thank for this legacy. Right or wrong, this is how business was built. Landing the client was the biggest job. Finding and developing the idea a mystical process that justified the final whopping invoice. The eventual implementation (an advertisement) seems trivial once these two hoops have been jumped through. 
+
+Agencies make software now, and software is never finished. Great software starts small, and requires ongoing iteration. Amazing software requires cross-disciplinary teams empowered to make decisions. The advertising business model is almost completely irrelevant. We need to find ways to put makers (designers, engineers, writers etc) directly in touch with the people who need their expertise. We need new ways of selling our time.

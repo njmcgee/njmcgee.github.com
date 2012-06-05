@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Recent reads 5
-summary: This time around I’ve got articles on why we should abandon the idea of separation in front-end development, the truly bizarre nature of modern corporate offices, popular culture’s current road block, investing in software engineers (not their software), and the learning, fear and love involved in making things.
+title: Recent reads 6
+summary: A Employee handbook, ‘rock star’ designers, front-end resources, a strangely thoughtful piece on the Instagram acquisition, ‘The New Aesthetic’, feeling light (getting rid of objects), fake authenticity in branding, and self-publishing resources. 
 ---
 
 h2. "Valve Handbook for New Employees":http://newcdn.flamehaus.com/Valve_Handbook_LowRes.pdf 

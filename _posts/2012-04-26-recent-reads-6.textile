@@ -1,0 +1,37 @@
+---
+layout: post
+title: Recent reads 5
+summary: This time around I’ve got articles on why we should abandon the idea of separation in front-end development, the truly bizarre nature of modern corporate offices, popular culture’s current road block, investing in software engineers (not their software), and the learning, fear and love involved in making things.
+---
+
+h2. "Valve Handbook for New Employees":http://newcdn.flamehaus.com/Valve_Handbook_LowRes.pdf 
+
+Full of personality, humour and thoughtful business strategy. Companies are rarely built with this much care.
+
+h2. "Designers Are Taking Over Silicon Valley":http://www.businessinsider.com/in-silicon-valley-designers-emerge-as-rock-stars-2012-4 – Gerry Shih
+
+Let’s stop pretending that you can be a ‘rock-star’ without being a band. 
+
+h2. "A Baseline for Front-End Developers":http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/ – Rebecca Murphey
+
+Bookmark this bad-boy if you’re actually serious about learning to code. 
+
+h2. "Instagram is the Cruelest App, Breeding":http://robertjosiah.net/written/13473154/instagram – Robert Josiah Bingaman
+
+If you’re not sick of reading about Instagram I suggest this cultural, artful, and considered piece.
+
+h2. "An Essay on the New Aesthetic":http://www.wired.com/beyond_the_beyond/2012/04/an-essay-on-the-new-aesthetic/all/1 – Bruce Sterling
+
+I’m not going to try and summarize this one. A wonderful starting point if you think “The New Aesthetic” sounds cool and want to join the creative digital elite.
+
+h2. "A Feeling of Lightness":http://openmonkey.com/blog/2012/03/23/a-feeling-of-lightness/ – Tim Riley
+
+Colleague and mate Tim cranks out great code and helps run "Icelab":http://icelab.com.au from the Philippines. I hate clutter, and have started from scratch twice in the last 18 months so can certainly relate with his sentiments here. Get rid of things. It feels good. 
+
+h2. "The Current Rage In Branding: Fake Authenticity Is Now A-Okay":http://www.fastcodesign.com/1669220/the-current-rage-in-branding-fake-authenticity-is-now-a-okay – Michael Raisanen
+
+Pairs well with Bingaman’s Instagram piece above. Take a look as "this":http://hipsterbranding.tumblr.com/ too. Hard to tell where the irony starts and stops.
+
+h2. "My Notes on Writing an e-book":http://snook.ca/archives/writing/ebook-notes – Jonathan Snook
+
+Technical but a great resource for anyone considering self-publishing. 

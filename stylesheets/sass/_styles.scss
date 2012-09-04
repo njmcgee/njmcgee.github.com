@@ -37,8 +37,8 @@ $alternate-color: #1E6386;
 /*Structure and type*/
 
 body {
-	background-color: #fff;
-	background: url(/images/bg.png) repeat;
+	background-color: #F1F1F1;
+	/*background: url(/images/bg.png) repeat;*/
 	font: normal 112.5% 'kepler-std-1', Georgia, serif;  /*18 px default*/
 	color: $text-color;
 	font-weight: $regular-weight;
@@ -139,6 +139,15 @@ header {
 		border-top: $text-color $border-height solid;
 		padding-top: 40px;
 		padding-bottom: 30px;
+	}
+	#work {
+	  padding-top: 0;
+	  border-top: none;
+	  img.portrait {
+  	  max-width: 100%;
+  	  border: $text-color $border-height solid;
+  	  margin-bottom: 40px;
+  	}
 	}
 }
 body.post #sidebar, body.about #sidebar {

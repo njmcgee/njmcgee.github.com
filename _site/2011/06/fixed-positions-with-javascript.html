@@ -92,13 +92,37 @@
 <p>In simple situations (this site for example) <span class="caps">CSS</span> will do the trick. But what if dynamic content at the top of your page changes this calculation (a flash or notification message for example)? Or your header likes to change size?</p>
 <p><a href="http://ozanonay.com">Ozan</a> helped me solve this problem, and I thought I&#8217;d share.</p>
 <p>We’ll start by selecting said element, calling our custom function, and specifying how far from the top of the page it lives:</p>
-</notextile>
-
-And our function looks something like this:
-
-<notextile><p>Let’s revisit our first block of code, and base the calculation on the height of a header element above it:</p>
-<p></notextile></p>
-<p>Another (even more flexible) approach would be to make <code class="default-size">topBoundary</code> equal to the <code class="default-size">offset().top</code> of the <code class="default-size">#fixed</code> element on load.</p>
+<div class="highlight"><pre><code class="js"><span class="nx">$</span><span class="p">(</span><span class="s1">&#39;#fixed&#39;</span><span class="p">).</span><span class="nx">myFixture</span><span class="p">({</span> <span class="nx">topBoundary</span><span class="o">:</span> <span class="mi">20</span> <span class="p">});</span>
+</code></pre>
+</div><p>And our function looks something like this:</p>
+<div class="highlight"><pre><code class="js"><span class="nx">$</span><span class="p">.</span><span class="nx">fn</span><span class="p">.</span><span class="nx">myFixture</span> <span class="o">=</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">settings</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="k">this</span><span class="p">.</span><span class="nx">each</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+    
+    <span class="c1">// default css declaration </span>
+    <span class="kd">var</span> <span class="nx">elem</span> <span class="o">=</span> <span class="nx">$</span><span class="p">(</span><span class="k">this</span><span class="p">).</span><span class="nx">css</span><span class="p">(</span><span class="s1">&#39;position&#39;</span><span class="p">,</span> <span class="s1">&#39;fixed&#39;</span><span class="p">);</span>
+    
+    <span class="kd">var</span> <span class="nx">setPosition</span> <span class="o">=</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>         
+      <span class="kd">var</span> <span class="nx">top</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+      <span class="c1">// get no of pixels hidden above the the window     </span>
+      <span class="kd">var</span> <span class="nx">scrollTop</span> <span class="o">=</span> <span class="nx">$</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">scrollTop</span><span class="p">();</span>    
+      <span class="c1">// get elements distance from top of window</span>
+      <span class="kd">var</span> <span class="nx">topBuffer</span> <span class="o">=</span> <span class="p">((</span><span class="nx">settings</span><span class="p">.</span><span class="nx">topBoundary</span> <span class="o">||</span> <span class="mi">0</span><span class="p">)</span> <span class="o">-</span> <span class="nx">scrollTop</span><span class="p">);</span>
+      <span class="c1">// update position if required</span>
+      <span class="k">if</span> <span class="p">(</span><span class="nx">topBuffer</span> <span class="o">&gt;=</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span> <span class="nx">top</span> <span class="o">+=</span> <span class="nx">topBuffer</span> <span class="p">}</span>
+      <span class="nx">elem</span><span class="p">.</span><span class="nx">css</span><span class="p">(</span><span class="s1">&#39;top&#39;</span><span class="p">,</span> <span class="nx">top</span><span class="p">);</span>      
+    <span class="p">};</span>
+        
+    <span class="nx">$</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">bind</span><span class="p">(</span><span class="s1">&#39;scroll&#39;</span><span class="p">,</span> <span class="nx">setPosition</span><span class="p">);</span>
+    <span class="nx">setPosition</span><span class="p">();</span>
+  <span class="p">});</span>
+<span class="p">};</span>
+</code></pre>
+</div><p>Let’s revisit our first block of code, and base the calculation on the height of a header element above it:</p>
+<div class="highlight"><pre><code class="js"><span class="kd">var</span> <span class="nx">header</span> <span class="o">=</span> <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;header&#39;</span><span class="p">)</span>
+  <span class="p">,</span> <span class="nx">topBoundary</span> <span class="o">=</span> <span class="nx">header</span><span class="p">.</span><span class="nx">outerHeight</span><span class="p">();</span>
+<span class="nx">$</span><span class="p">(</span><span class="s1">&#39;#fixed&#39;</span><span class="p">).</span><span class="nx">myFixture</span><span class="p">({</span> <span class="nx">topBoundary</span><span class="o">:</span> <span class="nx">topBoundary</span> <span class="p">});</span>
+</code></pre>
+</div><p>Another (even more flexible) approach would be to make <code class="default-size">topBoundary</code> equal to the <code class="default-size">offset().top</code> of the <code class="default-size">#fixed</code> element on load.</p>
 <p>Enjoy!</p>
   </div>
   <div class="clear"></div>
@@ -124,10 +148,14 @@ And our function looks something like this:
   	  </div>
   	  <div id="sidebar">
   	    <div id="work">
-  <h1><a href="/about.html">About me</a></h1>
-  <p>I’m a digital designer. I love making things. <a href="mailto:nathanmcginness@gmail.com">Say hello</a> anytime.</p>
-  <p>I worked for five years in Australia&rsquo;s top digital agencies before moving to San Francisco as the 4th team member, and Lead Designer at <a href="http://topguest.com">Topguest</a>. One year later (late 2011) Topguest was acquired by <a href="http://www.switchfly.com/">Switchfly</a>.</p>
-  <p>I design webpages, products and applications. I build with HTML, CSS &amp; JS. I strive for clarity. I lead small production teams and love organizations that are lean, nimble and responsible. I love writing, language &amp; typography. My pencil is my favorite tool. </p>
+  <img class="portrait" src="/images/nathan-portrait.jpg"/>
+  <!-- <h1><a href="/about.html">About me</a></h1> -->
+  <p>I’m a freelance digital designer. I love making things. <a href="mailto:nathanmcginness@gmail.com">Say hello</a> anytime.</p> 
+  <p>I design webpages, products and applications. I build with HTML, CSS &amp; JS. I strive for clarity. I lead small production teams and love organizations that are lean, nimble and responsible. I love writing, language &amp; typography. My pencil is my favorite tool.</p> 
+  <p>My clients include <a href="http://united.com">United Airlines</a>, <a href="http://anu.edu.au">Australian National University</a>, <a href="http://angel.co">AngelList</a>, and <a href="http://www.codecademy.com/">CodeAcademy</a>.</p>       
+  <p>I was the fourth team member and lead designer at <a href="http://topguest.com">Topguest</a> (acquired by <a href="http://www.switchfly.com/">Switchfly</a> in Dec 2011.)</p>  
+  <p>I worked for five years in Australia&rsquo;s top digital agencies (<a href="http://icelab.com.au">Icelab</a> and <a href="http://digitaleskimo.net">Digital Eskimo</a>).</p>
+  <p><a href="/about.html">Find out more about me</a>.</p>
 </div>
   	    <div id="links">
   <nav id="elsewhere">

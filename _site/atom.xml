@@ -3,9 +3,30 @@
     <title>Nathan McGinness</title>
     <link href="http://njmcgee.com/atom.xml" rel="self"/>
     <link href="http://njmcgee.com/"/>
-    <updated>2012-09-04T15:33:37+10:00</updated>
+    <updated>2012-10-08T17:23:23+11:00</updated>
     <id>http://njmcgee.com/</id>
     
+    
+    <entry>
+        <title>Offscreen Travel Notes &#x219D;</title>
+        
+        
+        <link href="http://www.offscreenmag.com/"/>
+        
+        <updated>2012-10-08T00:00:00+11:00</updated>
+        <id>njmcgee.com:/2012/10/offscreen-travel-notes</id>
+        <content type="html">
+          
+           <img src="http://njmcgee.com/images/offscreen.jpg"></img>
+          
+          <p>I wrote a few words in <a href="http://www.offscreenmag.com/issue3/">Offscreen – Issue 3</a>. Buy it, it’s beautiful.</p>
+          
+        </content>
+        <author>
+            <name></name>
+            <uri></uri>
+        </author>
+    </entry>
     
     <entry>
         <title>Clients, Customers, and Fans </title>

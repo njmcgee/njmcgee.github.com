@@ -682,8 +682,15 @@ body.about section {
     body.about section h2.last {
       margin-bottom: 30px; }
 
-#awards h2 {
-  margin-bottom: 20px; }
+#awards h2, #experience h2, #education h2, #other h2 {
+  margin-bottom: 16px;
+  font-family: 'kepler-std-1', Georgia, serif;
+  font-weight: 300;
+  padding-top: 10px; }
+
+#made h2 {
+  font-family: 'kepler-std-1', Georgia, serif;
+  font-weight: 300; }
 
 .project {
   /*font-family: 'kepler-std-1', Georgia, serif;  */

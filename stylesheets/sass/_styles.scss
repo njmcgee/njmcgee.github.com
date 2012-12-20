@@ -276,9 +276,18 @@ body.about {
 	}
 }
 
-#awards {
+#awards, #experience, #education, #other {
 	h2 {
-		margin-bottom: 20px;
+		margin-bottom: 16px;
+		font-family: 'kepler-std-1', Georgia, serif;
+		font-weight: $regular-weight;
+		padding-top: 10px;
+	}
+}
+#made {
+	h2 {
+		font-family: 'kepler-std-1', Georgia, serif;
+		font-weight: $regular-weight
 	}
 }
 
